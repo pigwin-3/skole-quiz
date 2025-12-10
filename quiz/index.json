@@ -11,6 +11,12 @@
       "Name": "Historie",
       "about": "Spørsmål om... historie",
       "folder": "historie"
+    },
+    {
+      "ID": "test",
+      "Name": "Test",
+      "about": "Spørsmål om... nada",
+      "folder": "test"
     }
   ]
 }

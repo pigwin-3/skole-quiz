@@ -23,14 +23,6 @@
       "about": "Test din kunnskap om arv og evolusjon",
       "qn": 3,
       "file": "arv_og_evolusjonv1.json"
-    },
-    {
-      "ID": "radioaktivitet_media",
-      "categoryID": "naturfag",
-      "Name": "Test med media",
-      "about": "Test din kunnskap om Tester",
-      "qn": "radioaktivitet_media",
-      "file": "media_example.json"
     }
   ]
 }
