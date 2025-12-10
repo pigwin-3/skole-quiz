@@ -1,0 +1,72 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID": "radioaktivitet_media",
+      "qn": "Hva slags stråling vises i dette bildet?",
+      "media": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Frode_frog.png/1024px-Frode_frog.png",
+        "alt": "hehe fwog",
+        "caption": "Forskjellige typer radioaktiv stråling"
+      },
+      "options": [
+        "Bare alfastråling",
+        "Bare betastråling",
+        "Alfa, beta og gammastråling",
+        "Bare gammastråling"
+      ],
+      "answer": 1,
+      "explanation": "Frosken i bildet er tydelig en Alfa Male."
+    },
+    {
+      "qnID": 2,
+      "themeID": "radioaktivitet_media",
+      "qn": "Se på videoen om radioaktivitet. Hva er hovedbudskapet?",
+      "media": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "caption": "Kurzgesagt: What Is Radioactivity?"
+      },
+      "options": [
+        "FEIL!!!!",
+        "Riktig",
+        "Feil",
+        "Feil"
+      ],
+      "answer": 2,
+      "explanation": "lel."
+    },
+    {
+      "qnID": 3,
+      "themeID": "radioaktivitet_media",
+      "qn": "Se på denne videoen. Hva skjer med atomkjernen?",
+      "media": {
+        "type": "video",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "caption": "Ekstremt viktig video om atomkjerner"
+      },
+      "options": [
+        "Den absorberer et nøytron",
+        "Den sender ut en alfapartikkel",
+        "Den sender ut en betapartikkel",
+        "Den sender ut gammastråling"
+      ],
+      "answer": 2,
+      "explanation": "Tydelig en Alfa Male."
+    },
+    {
+      "qnID": 4,
+      "themeID": "radioaktivitet_media",
+      "qn": "A",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer": 1,
+      "explanation": "Tydelig en A Male."
+    }
+  ]
+}

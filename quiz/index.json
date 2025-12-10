@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "ID": "naturfag",
+      "Name": "Naturfag",
+      "about": "Spørsmål om... naturfag",
+      "folder": "naturfag"
+    },
+    {
+      "ID": "historie",
+      "Name": "Historie",
+      "about": "Spørsmål om... historie",
+      "folder": "historie"
+    }
+  ]
+}

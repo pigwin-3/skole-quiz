@@ -1,0 +1,576 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID": "1814",
+      "qn": "Hva var Flåteranet i 1807?",
+      "options": [
+        "Napoleon tok den danske flåten",
+        "Britene tok den dansk-norske flåten",
+        "Sverige tok den norske flåten",
+        "Danmark solgte flåten"
+      ],
+      "answer": 2,
+      "explanation": "Britene angrep København og tok den dansk-norske flåten for å hindre at Napoleon fikk den."
+    },
+    {
+      "qnID": 2,
+      "themeID": "1814",
+      "qn": "Hvorfor angrep britene Danmark-Norge i 1807?",
+      "options": [
+        "Fordi Danmark støttet Russland",
+        "For å hindre hjelp til Napoleon",
+        "For å hjelpe Sverige",
+        "Som del av en fredsavtale"
+      ],
+      "answer": 2,
+      "explanation": "Britene fryktet at Napoleon skulle få tilgang til den dansk-norske flåten."
+    },
+    {
+      "qnID": 3,
+      "themeID": "1814",
+      "qn": "Hva førte Flåteranet til for Danmark-Norge?",
+      "options": [
+        "Allianse med Storbritannia",
+        "Nøytralitet i krigen",
+        "Allianse med Napoleon",
+        "Union med Sør-Sudan"
+      ],
+      "answer": 3,
+      "explanation": "Danmark-Norge ble tvunget over på Napoleons side etter det britiske angrepet."
+    },
+    {
+      "qnID": 4,
+      "themeID": "1814",
+      "qn": "Hvilket land mistet Sverige til Russland i 1809?",
+      "options": [
+        "Norge",
+        "Finland",
+        "Estland",
+        "Latvia"
+      ],
+      "answer": 2,
+      "explanation": "Sverige mistet Finland til Russland etter krig."
+    },
+    {
+      "qnID": 5,
+      "themeID": "1814",
+      "qn": "Hvorfor trengte Sverige en ny tronfølger i 1809–1810?",
+      "options": [
+        "Kongen var for ung",
+        "Kongen var barnløs",
+        "Kongen ble drept",
+        "Kongen abdiserte"
+      ],
+      "answer": 2,
+      "explanation": "Karl 13. var gammel og barnløs."
+    },
+    {
+      "qnID": 6,
+      "themeID": "1814",
+      "qn": "Hvem ble valgt til svensk tronfølger i 1810?",
+      "options": [
+        "Napoleon",
+        "Jean Baptiste Bernadotte",
+        "Karl XII",
+        "Kristian Fredrik"
+      ],
+      "answer": 2,
+      "explanation": "Den franske generalen Bernadotte ble valgt som tronfølger."
+    },
+    {
+      "qnID": 7,
+      "themeID": "1814",
+      "qn": "Hva ble Jean Baptiste Bernadottes svenske navn?",
+      "options": [
+        "Karl Johan",
+        "Karl Oskar",
+        "Johanes Oskar",
+        "Olav Karl"
+      ],
+      "answer": 1,
+      "explanation": "Han tok navnet Karl Johan som kronprins."
+    },
+    {
+      "qnID": 8,
+      "themeID": "1814",
+      "qn": "Hva håpet Sverige å få støtte til ved å velge Bernadotte?",
+      "options": [
+        "Å få tilbake Norge",
+        "Å få tilbake Finland",
+        "Å få større marine",
+        "Å bli en del av Frankrike"
+      ],
+      "answer": 2,
+      "explanation": "De håpet på støtte fra Frankrike for å få Finland tilbake."
+    },
+    {
+      "qnID": 9,
+      "themeID": "1814",
+      "qn": "Hva ble Sveriges nye mål da Finland ikke kunne tas tilbake?",
+      "options": [
+        "Danmark",
+        "Estland",
+        "Norge",
+        "Tyskland"
+      ],
+      "answer": 3,
+      "explanation": "Sverige rettet fokus mot Norge."
+    },
+    {
+      "qnID": 10,
+      "themeID": "1814",
+      "qn": "Hvem støttet Karl Johan i krigen mot Napoleon?",
+      "options": [
+        "Frankrike",
+        "Spania",
+        "Russland og Storbritannia",
+        "Danmark"
+      ],
+      "answer": 3,
+      "explanation": "Sverige allierte seg med Russland og Storbritannia."
+    },
+    {
+      "qnID": 11,
+      "themeID": "1814",
+      "qn": "Hva ble Sverige lovet for sin innsats mot Napoleon?",
+      "options": [
+        "Finland",
+        "Norge",
+        "Danmark",
+        "Grønland"
+      ],
+      "answer": 2,
+      "explanation": "Norge ble lovet som belønning."
+    },
+    {
+      "qnID": 12,
+      "themeID": "1814",
+      "qn": "Hvor møttes Karl Johan og den danske kongen i januar 1814?",
+      "options": [
+        "Oslo",
+        "Stockholm",
+        "Kiel",
+        "Berlin"
+      ],
+      "answer": 3,
+      "explanation": "Forhandlingene foregikk i Kiel."
+    },
+    {
+      "qnID": 13,
+      "themeID": "1814",
+      "qn": "Hva er Kieltraktaten?",
+      "options": [
+        "En union mellom Danmark og Norge",
+        "En avtale der Danmark avstod Norge til Storbritannia",
+        "En avtale der Danmark avstod Norge til Sverige",
+        "En avtale mellom Norge og Russland"
+      ],
+      "answer": 3,
+      "explanation": "Danmark måtte gi fra seg Norge til Sverige."
+    },
+    {
+      "qnID": 14,
+      "themeID": "1814",
+      "qn": "Hvem representerte Danmark-Norge i Kieltrakaten?",
+      "options": [
+        "Karl Johan",
+        "Frederik VI",
+        "Kristian Fredrik",
+        "Napoleon"
+      ],
+      "answer": 2,
+      "explanation": "Det var den danske kongen Frederik VI."
+    },
+    {
+      "qnID": 15,
+      "themeID": "1814",
+      "qn": "Hvordan reagerte nordmennene på Kieltraktaten?",
+      "options": [
+        "De var fornøyde",
+        "De godtok avtalen raskt",
+        "De ble sinte og ville ha selvstendighet",
+        "De flyktet til England"
+      ],
+      "answer": 3,
+      "explanation": "Mange følte seg forrådt og ønsket selvstyre."
+    },
+    {
+      "qnID": 16,
+      "themeID": "1814",
+      "qn": "Hvem ble en lederskikkelse for norsk motstand i 1814?",
+      "options": [
+        "Karl Johan",
+        "Christian Magnus Falsen",
+        "Kristian Fredrik",
+        "Herman Wedel Jarlsberg"
+      ],
+      "answer": 3,
+      "explanation": "Kristian Fredrik ledet opprøret mot Kieltraktaten."
+    },
+    {
+      "qnID": 17,
+      "themeID": "1814",
+      "qn": "Hvilken rolle fikk Kristian Fredrik i Norge i 1813?",
+      "options": [
+        "Konge",
+        "General",
+        "Stattholder",
+        "Statsminister"
+      ],
+      "answer": 3,
+      "explanation": "Han ble sendt som dansk stattholder til Norge."
+    },
+    {
+      "qnID": 18,
+      "themeID": "1814",
+      "qn": "Hvor ble stormannsmøtet holdt i februar 1814?",
+      "options": [
+        "Eidsvoll",
+        "Oslo",
+        "Trondheim",
+        "Bergen"
+      ],
+      "answer": 1,
+      "explanation": "Det ble holdt på Eidsvoll."
+    },
+    {
+      "qnID": 19,
+      "themeID": "1814",
+      "qn": "Hva ble vedtatt på stormannsmøtet?(1814)",
+      "options": [
+        "Union med Danmark",
+        "Folkesuverenitetsprinsippet",
+        "Avskaffing av kongemakt",
+        "Ny krig"
+      ],
+      "answer": 2,
+      "explanation": "Det ble bestemt at makten skulle ligge hos folket."
+    },
+    {
+      "qnID": 20,
+      "themeID": "1814",
+      "qn": "Når møttes Riksforsamlingen på Eidsvoll?",
+      "options": [
+        "10. mai – 20. juni",
+        "10. april – 20. mai",
+        "1. mars – 1. april",
+        "17. mai – 4. juni"
+      ],
+      "answer": 2,
+      "explanation": "Riksforsamlingen varte fra 10. april til 20. mai 1814."
+    },
+    {
+      "qnID": 21,
+      "themeID": "1814",
+      "qn": "Hvem ledet selvstendighetspartiet på Eidsvoll?",
+      "options": [
+        "Kristian Fredrik",
+        "Karl Johan",
+        "Christian Magnus Falsen",
+        "Herman Wedel Jarlsberg"
+      ],
+      "answer": 3,
+      "explanation": "Falsen var en av lederne for selvstendighetspartiet."
+    },
+    {
+      "qnID": 22,
+      "themeID": "1814",
+      "qn": "Hvem ledet unionspartiet på Eidsvoll?",
+      "options": [
+        "Kristian Fredrik",
+        "Herman Wedel Jarlsberg",
+        "Falsen",
+        "Napoleon"
+      ],
+      "answer": 2,
+      "explanation": "Wedel Jarlsberg ønsket en union med Sverige."
+    },
+    {
+      "qnID": 23,
+      "themeID": "1814",
+      "qn": "Når ble Grunnloven vedtatt?",
+      "options": [
+        "17. mai 1814",
+        "14. januar 1814",
+        "14. april 1814",
+        "10. april 1814"
+      ],
+      "answer": 1,
+      "explanation": "Grunnloven ble vedtatt 17. mai 1814."
+    },
+    {
+      "qnID": 24,
+      "themeID": "1814",
+      "qn": "Hvem ble valgt til konge i Norge 17. mai 1814?",
+      "options": [
+        "Karl Johan",
+        "Frederik VI",
+        "Kristian Fredrik",
+        "Oscar I"
+      ],
+      "answer": 3,
+      "explanation": "Kristian Fredrik ble valgt til norsk konge."
+    },
+    {
+      "qnID": 25,
+      "themeID": "1814",
+      "qn": "Hva innebar maktfordelingsprinsippet?",
+      "options": [
+        "Kongen bestemmer alt",
+        "Storting, regjering og domstol får ikke makt",
+        "Bare Stortinget bestemmer",
+        "Storting, regjering og domstol deler makt"
+      ],
+      "answer": 4,
+      "explanation": "Makten ble delt i tre for å hindre misbruk."
+    },
+    {
+      "qnID": 26,
+      "themeID": "1814",
+      "qn": "Hva gjorde Sverige sommeren 1814?",
+      "options": [
+        "Startet forhandlinger",
+        "Angrep Norge",
+        "Ga opp Norge",
+        "Signerte ny fred"
+      ],
+      "answer": 2,
+      "explanation": "Sverige gikk til krig mot Norge."
+    },
+    {
+      "qnID": 27,
+      "themeID": "1814",
+      "qn": "Hvordan gikk krigen mellom Norge og Sverige?",
+      "options": [
+        "Norge vant",
+        "Uavgjort",
+        "Krigen varte i lang tid",
+        "Sverige vant raskt"
+      ],
+      "answer": 4,
+      "explanation": "Sverige hadde overlegne styrker."
+    },
+    {
+      "qnID": 28,
+      "themeID": "1814",
+      "qn": "Hva ble inngått 14. august 1814?",
+      "options": [
+        "Kieltraktaten",
+        "Mossekonvensjonen",
+        "Grunnloven",
+        "Unionstraktaten"
+      ],
+      "answer": 2,
+      "explanation": "Mossekonvensjonen avsluttet krigen."
+    },
+    {
+      "qnID": 29,
+      "themeID": "1814",
+      "qn": "Hva ble en konsekvens av Mossekonvensjonen?",
+      "options": [
+        "Full selvstendighet",
+        "Union med Danmark",
+        "Union med Sverige med egen grunnlov",
+        "Svensk militærstyre"
+      ],
+      "answer": 3,
+      "explanation": "Norge fikk beholde grunnloven med endringer."
+    },
+    {
+      "qnID": 30,
+      "themeID": "1814",
+      "qn": "Hva skjedde med Kristian Fredrik etter Mossekonvensjonen?",
+      "options": [
+        "Ble sittende som konge",
+        "Flyktet til Danmark",
+        "Abdiserte og dro hjem til Danmark",
+        "Ble henrettet"
+      ],
+      "answer": 3,
+      "explanation": "Han måtte gi fra seg tronen."
+    },
+    {
+      "qnID": 31,
+      "themeID": "1814",
+      "qn": "Hva var Norges stilling i unionen?",
+      "options": [
+        "En svensk provins",
+        "Et selvstendig rike i personalunion",
+        "Et selvstendig provins i personalunion",
+        "Under Russland"
+      ],
+      "answer": 2,
+      "explanation": "Norge var et eget rike med egen grunnlov."
+    },
+    {
+      "qnID": 32,
+      "themeID": "1814",
+      "qn": "Hvilket organ fikk lovgivende makt i Norge?",
+      "options": [
+        "Kongen",
+        "Kirken",
+        "Stortinget",
+        "Hæren"
+      ],
+      "answer": 3,
+      "explanation": "Stortinget fikk lovgivende makt."
+    },
+    {
+      "qnID": 33,
+      "themeID": "1814",
+      "qn": "Hvilket offisielt navn fikk den norske staten i 1814?",
+      "options": [
+        "Kongeriket Norge",
+        "Norske Provinser",
+        "Stor-Norge",
+        "Den Norsk-Svenske stat"
+      ],
+      "answer": 1,
+      "explanation": "Norge ble et eget kongerike."
+    },
+    {
+      "qnID": 34,
+      "themeID": "1814",
+      "qn": "Hva fikk Norge beholde i unionen?",
+      "options": [
+        "Egen utenrikspolitikk",
+        "Egen grunnlov og Storting",
+        "Egen konge valgt i Norge",
+        "Full militær selvstendighet"
+      ],
+      "answer": 2,
+      "explanation": "Norge beholdt Grunnloven og Stortinget."
+    },
+    {
+      "qnID": 35,
+      "themeID": "1814",
+      "qn": "Hvilket år sluttet Napoleonskrigene?",
+      "options": [
+        "1810",
+        "1812",
+        "1814",
+        "1815"
+      ],
+      "answer": 4,
+      "explanation": "Napoleon tapte endelig i 1815."
+    },
+    {
+      "qnID": 36,
+      "themeID": "1814",
+      "qn": "Hva slags union var det mellom Norge og Sverige?",
+      "options": [
+        "Militærunion",
+        "Religiøs union",
+        "Personalunion",
+        "Økonomisk union"
+      ],
+      "answer": 3,
+      "explanation": "De hadde samme konge, men var egne riker."
+    },
+    {
+      "qnID": 37,
+      "themeID": "1814",
+      "qn": "Hvilken by ble utsatt for britisk bombing i 1807?",
+      "options": [
+        "Oslo",
+        "Bergen",
+        "Stockholm",
+        "København"
+      ],
+      "answer": 4,
+      "explanation": "Britene bombet København."
+    },
+    {
+      "qnID": 38,
+      "themeID": "1814",
+      "qn": "Hva het den norske nasjonalforsamlingen i 1814?",
+      "options": [
+        "Stortinget",
+        "Riksforsamlingen",
+        "Unionstinget",
+        "Folketinget"
+      ],
+      "answer": 2,
+      "explanation": "Den het Riksforsamlingen."
+    },
+    {
+      "qnID": 39,
+      "themeID": "1814",
+      "qn": "Hvor mange representanter var på Eidsvoll?",
+      "options": [
+        "55",
+        "112",
+        "200",
+        "181"
+      ],
+      "answer": 2,
+      "explanation": "112 menn deltok på Eidsvoll."
+    },
+    {
+      "qnID": 40,
+      "themeID": "1814",
+      "qn": "Hvilket land støttet Sverige mest diplomatisk?",
+      "options": [
+        "USA",
+        "Russland",
+        "Tyskland",
+        "Spania"
+      ],
+      "answer": 2,
+      "explanation": "Russland støttet Sverige."
+    },
+    {
+      "qnID": 41,
+      "themeID": "1814",
+      "qn": "Hvem hadde utenrikspolitikken i unionen?",
+      "options": [
+        "Norge",
+        "Sverige",
+        "Danmark",
+        "Storbritannia"
+      ],
+      "answer": 2,
+      "explanation": "Sverige styrte utenrikspolitikken."
+    },
+    {
+      "qnID": 42,
+      "themeID": "1814",
+      "qn": "Hva ble endret i Grunnloven etter unionen?",
+      "options": [
+        "Ingenting",
+        "Den ble fjernet",
+        "Noen paragrafer ble tilpasset unionen",
+        "Den ble dansk"
+      ],
+      "answer": 3,
+      "explanation": "Grunnloven ble justert for unionen."
+    },
+    {
+      "qnID": 43,
+      "themeID": "1814",
+      "qn": "Hva var Hensikten med Kirkeeden (25 februar 1814)",
+      "options": [
+        "Å love troskap til kongen av Sverige",
+        "Å love troskap til kongen av Danmark",
+        "Å innføre kristendommen i Norge",
+        "Å avlegge ed om å forsvare et selvstendig Norge"
+      ],
+      "answer": 4,
+      "explanation": "Presten skulle oppfordre til edsavleggelse med ordene:<br>\n«Sværge I, at hævde Norges Sælvstendighed, og at vove Liv og Blod for det elskede Fædreland?»<br><br>\nPå dette skulle menigheten svare:<br>\n«Det sværge Vi, saa sandt hjælpe os Gud og hans hellige ord!»<br><br>\nhttps://no.wikipedia.org/wiki/Selvstendighetseden_1814"
+    },
+    {
+      "qnID": 44,
+      "themeID": "1814",
+      "qn": "Hvordan ble kirkeeden gjennomført?",
+      "options": [
+        "Alle ble kalt til kirken og avla ed",
+        "Soldater marsjerte til Eidsvoll og sverget der",
+        "Prester reiste rundt og samlet underskrifter",
+        "Folk møtte på torget og skrev under på en erklæring"
+      ],
+      "answer": 1,
+      "explanation": "Det ble også Valgt valgmenn til Riksforsamlingen som skulle skrive grunnloven"
+    }
+  ]
+}

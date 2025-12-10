@@ -1,0 +1,814 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvilket grunnstoff har 30 protoner i kjernen?",
+      "options": [
+        "Karbon (C)",
+        "Hydrogen (H)",
+        "Sink (Zn)",
+        "Kobber (Cu)"
+      ],
+      "answer": 3,
+      "explanation": "Sink (Zn) har 30 protoner i kjernen, siden det har atomnummer 30 i periodesystemet."
+    },
+    {
+      "qnID": 2,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er halveringstid?",
+      "options": [
+        "Tiden det tar for et stoff å brytes ned",
+        "Tiden det tar for stråling å forsvinne",
+        "Tiden det tar for et atom å bli stabilt",
+        "Tiden det tar før halvparten av atomkjernene har sendt ut radioaktiv stråling"
+      ],
+      "answer": 4,
+      "explanation": "Halveringstid er tiden det tar før halvparten av atomkjernene i et radioaktivt stoff har sendt ut radioaktiv stråling."
+    },
+    {
+      "qnID": 3,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er gammastråling?",
+      "options": [
+        "Partikkelstråling",
+        "Synlig lys",
+        "Ultrafiolett stråling",
+        "Svært energirik elektromagnetisk stråling"
+      ],
+      "answer": 4,
+      "explanation": "Gammastråling er svært energirik elektromagnetisk stråling og består av fotoner."
+    },
+    {
+      "qnID": 4,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er ioniserende stråling?",
+      "options": [
+        "Stråling med lav energi",
+        "Stråling som ikke påvirker atomer",
+        "Stråling som består av partikler",
+        "Stråling som har nok energi til å fjerne elektroner fra et atom eller molekyl"
+      ],
+      "answer": 4,
+      "explanation": "Ioniserende stråling har nok energi til å fjerne elektroner fra et atom eller molekyl."
+    },
+    {
+      "qnID": 5,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er rødforskyvning?",
+      "options": [
+        "Når lysbølger stopper helt opp",
+        "Når lysbølger blir kortere og bølgelengden minker",
+        "Når lysbølger endrer farge til blått",
+        "Når lysbølger blir strukket ut og bølgelengden øker"
+      ],
+      "answer": 4,
+      "explanation": "Rødforskyvning skjer når lysbølger blir strukket ut og bølgelengden øker."
+    },
+    {
+      "qnID": 6,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvilket grunnstoff har 30 protoner i kjernen?",
+      "options": [
+        "Karbon (C)",
+        "Hydrogen (H)",
+        "Sink (Zn)",
+        "Kobber (Cu)"
+      ],
+      "answer": 3,
+      "explanation": "Sink (Zn) har 30 protoner i kjernen, siden det har atomnummer 30 i periodesystemet."
+    },
+    {
+      "qnID": 7,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er halveringstid?",
+      "options": [
+        "Tiden det tar for et stoff å brytes ned",
+        "Tiden det tar for stråling å forsvinne",
+        "Tiden det tar for et atom å bli stabilt",
+        "Tiden det tar før halvparten av atomkjernene har sendt ut radioaktiv stråling"
+      ],
+      "answer": 4,
+      "explanation": "Halveringstid er tiden det tar før halvparten av atomkjernene i et radioaktivt stoff har sendt ut radioaktiv stråling."
+    },
+    {
+      "qnID": 8,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er gammastråling?",
+      "options": [
+        "Partikkelstråling",
+        "Synlig lys",
+        "Ultrafiolett stråling",
+        "Svært energirik elektromagnetisk stråling"
+      ],
+      "answer": 4,
+      "explanation": "Gammastråling er svært energirik elektromagnetisk stråling og består av fotoner."
+    },
+    {
+      "qnID": 9,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er ioniserende stråling?",
+      "options": [
+        "Stråling med lav energi",
+        "Stråling som ikke påvirker atomer",
+        "Stråling som består av partikler",
+        "Stråling som har nok energi til å fjerne elektroner fra et atom eller molekyl"
+      ],
+      "answer": 4,
+      "explanation": "Ioniserende stråling har nok energi til å fjerne elektroner fra et atom eller molekyl."
+    },
+    {
+      "qnID": 10,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er rødforskyvning?",
+      "options": [
+        "Når lysbølger stopper helt opp",
+        "Når lysbølger blir kortere og bølgelengden minker",
+        "Når lysbølger endrer farge til blått",
+        "Når lysbølger blir strukket ut og bølgelengden øker"
+      ],
+      "answer": 4,
+      "explanation": "Rødforskyvning skjer når lysbølger blir strukket ut og bølgelengden øker."
+    },
+    {
+      "qnID": 11,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er et foton?",
+      "options": [
+        "En type atom",
+        "En bølge",
+        "En lyspartikkel som frakter energi",
+        "En partikkel med masse"
+      ],
+      "answer": 3,
+      "explanation": "Et foton er en lyspartikkel som frakter energi."
+    },
+    {
+      "qnID": 12,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva slags stråling sender den radioaktive kilden ut hvis ikke all strålingen blir stanset av papir, men derimot både av en treplate og en blyplate?",
+      "options": [
+        "Alfastråling",
+        "Betastråling",
+        "Gammastråling"
+      ],
+      "answer": 2,
+      "explanation": "Betastråling blir stanset av en treplate, men ikke av papir."
+    },
+    {
+      "qnID": 13,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvis halveringstiden for Ce-137 er 30 år, hvilken strålingsaktivitet hadde kilden for 90 år siden hvis den nå er 1000 Bq?",
+      "options": [
+        "500 Bq",
+        "1000 Bq",
+        "2000 Bq",
+        "4000 Bq",
+        "8000 Bq"
+      ],
+      "answer": 5,
+      "explanation": "Etter 90 år, som er tre halveringstider, vil aktiviteten ha blitt redusert til en åttendedel av den opprinnelige aktiviteten, så den opprinnelige aktiviteten var 8000 Bq."
+    },
+    {
+      "qnID": 14,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvor gammelt er et lårbein fra en moskusokse hvis innholdet av isotopen karbon-14 bare er om lag 25 % av det vi finner i en levende moskusokse? Karbon-14 har en halveringstid på 5730 år.",
+      "options": [
+        "1432 år",
+        "5730 år",
+        "7163 år",
+        "11 460 år",
+        "17 190 år"
+      ],
+      "answer": 4,
+      "explanation": "Hvis innholdet av karbon-14 er redusert til 25 %, betyr det at to halveringstider har gått, så lårbeinet er 11 460 år gammelt."
+    },
+    {
+      "qnID": 15,
+      "themeID": "radioaktivitetv2",
+      "qn": "Når Thorium-234 sender ut en betapartikkel, vil atomnummeret",
+      "options": [
+        "Ikke endres",
+        "Økes med en",
+        "Minkes med en",
+        "Minkes med to",
+        "Minkes med tre"
+      ],
+      "answer": 2,
+      "explanation": "Når Thorium-234 sender ut en betapartikkel, omdannes en nøytron til et proton, noe som øker atomnummeret med en."
+    },
+    {
+      "qnID": 16,
+      "themeID": "radioaktivitetv2",
+      "qn": "Når Radon-222 sender ut en alfapartikkel, vil atomnummeret",
+      "options": [
+        "Minskes med to",
+        "Minskes med fire",
+        "Økes med to",
+        "Økes med fire",
+        "Økes med tre"
+      ],
+      "answer": 1,
+      "explanation": "Når Radon-222 sender ut en alfapartikkel, mister det to protoner og to nøytroner, noe som reduserer atomnummeret med to."
+    },
+    {
+      "qnID": 17,
+      "themeID": "radioaktivitetv2",
+      "qn": "Når Radon-222 sender ut gammastråling, vil atomnummeret",
+      "options": [
+        "Økes med en",
+        "Minkes med en",
+        "Minkes med to",
+        "Ikke endres",
+        "Økes med tre"
+      ],
+      "answer": 4,
+      "explanation": "Gammastråling endrer ikke antall protoner eller nøytroner i kjernen, så atomnummeret forblir uendret."
+    },
+    {
+      "qnID": 18,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva kan man si om galaksene hvis lyset fra de fleste galakser er rødforskjøvet?",
+      "options": [
+        "Beveger seg mot oss",
+        "Beveger seg fra oss",
+        "Beveger seg med samme hastighet som oss",
+        "Står stille i forhold til oss"
+      ],
+      "answer": 2,
+      "explanation": "Rødforskyvning indikerer at galaksene beveger seg bort fra oss, noe som støtter teorien om at universet utvider seg."
+    },
+    {
+      "qnID": 19,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva bestemmer protoner og nøytroner i atomene?",
+      "options": [
+        "Protoner bestemmer atomnummeret, nøytroner bestemmer isotopen",
+        "Protoner bestemmer massen, nøytroner bestemmer ladningen",
+        "Protoner bestemmer ladningen, nøytroner bestemmer massen",
+        "Protoner bestemmer isotopen, nøytroner bestemmer atomnummeret"
+      ],
+      "answer": 1,
+      "explanation": "Antall protoner i kjernen bestemmer atomnummeret og dermed hvilket grunnstoff det er. Antall nøytroner bestemmer isotopen av grunnstoffet."
+    },
+    {
+      "qnID": 20,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er halveringstiden for et radioaktivt stoff som reduseres til 12,5 % av den opprinnelige massen i løpet av en time?",
+      "options": [
+        "15 minutter",
+        "20 minutter",
+        "30 minutter",
+        "40 minutter"
+      ],
+      "answer": 2,
+      "explanation": "Hvis et stoff reduseres til 12,5 % av den opprinnelige massen, har det gjennomgått tre halveringstider (100 % -> 50 % -> 25 % -> 12,5 %). En time delt på tre gir en halveringstid på 20 minutter."
+    },
+    {
+      "qnID": 21,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er Radon?",
+      "options": [
+        "En edelgass",
+        "En metall",
+        "En halvmetall",
+        "En ikke-metall"
+      ],
+      "answer": 1,
+      "explanation": "Radon er en edelgass som er radioaktiv og finnes naturlig i jordskorpen."
+    },
+    {
+      "qnID": 22,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva brukes PET-scan til?",
+      "options": [
+        "Radioaktive markører som enten må bli svelget, inhalert eller injeksert i kroppen og kan derfor viser hvordan ulike vev eller organer i kroppen jobber på ett celle-nivå. Brukes for å diagnostisere kreft, hjerteproblemer eller hjerneproblemer",
+        "PET-scan brukes for å måle PET(dyret på engelsk)-en din, altså katten, hunden eller hamsteren din",
+        "Å måle blodtrykk",
+        "Å måle blodsukker"
+      ],
+      "answer": 1,
+      "explanation": "PET-scan bruker radioaktive markører for å vise hvordan vev og organer fungerer på cellenivå, og brukes til å diagnostisere sykdommer som kreft, hjerteproblemer og hjerneproblemer."
+    },
+    {
+      "qnID": 23,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva brukes CT-scan til?",
+      "options": [
+        "Røntgenundersøkelse der det blir tatt tverrsnittbilde av aktuelle områder i kroppen (bløtvev, blodårer, organer, bein og vev)",
+        "Viser hvordan ulike vev eller organer i kroppen jobber på ett celle-nivå",
+        "Å måle blodtrykk",
+        "Å måle blodsukker"
+      ],
+      "answer": 1,
+      "explanation": "CT-scan er en røntgenundersøkelse som tar tverrsnittbilder av kroppen, inkludert bløtvev, blodårer, organer, bein og vev."
+    },
+    {
+      "qnID": 24,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er kosmisk bakgrunnstråling?",
+      "options": [
+        "Stråling fra solen",
+        "Stråling fra jorden",
+        "Stråling fra universets begynnelse",
+        "Stråling fra stjerner"
+      ],
+      "answer": 3,
+      "explanation": "Kosmisk bakgrunnstråling er stråling som stammer fra universets begynnelse og er en viktig observasjon som støtter Big Bang-teorien."
+    },
+    {
+      "qnID": 25,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er Big Bang teorien?",
+      "options": [
+        "Teorien om at universet alltid har eksistert",
+        "Teorien om at universet ble skapt av en stor eksplosjon",
+        "Teorien om at universet vil ende i en stor eksplosjon",
+        "Teorien om at universet er uendelig"
+      ],
+      "answer": 2,
+      "explanation": "Big Bang-teorien foreslår at universet ble skapt av en stor eksplosjon for omtrent 13,8 milliarder år siden."
+    },
+    {
+      "qnID": 26,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvilke observasjoner støtter Big Bang teorien?",
+      "options": [
+        "Rødforskyvning av galakser, kosmisk bakgrunnstråling, fordeling av grunnstoffer",
+        "Blåforskyvning av galakser, kosmisk bakgrunnstråling, fordeling av grunnstoffer",
+        "Rødforskyvning av galakser, stråling fra solen, fordeling av grunnstoffer",
+        "Blåforskyvning av galakser, stråling fra solen, fordeling av grunnstoffer"
+      ],
+      "answer": 1,
+      "explanation": "Rødforskyvning av galakser, kosmisk bakgrunnstråling og fordelingen av grunnstoffer i universet er observasjoner som støtter Big Bang-teorien."
+    },
+    {
+      "qnID": 27,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er halveringstiden til karbon-14?",
+      "options": [
+        "5730 år",
+        "5000 år",
+        "6000 år",
+        "7000 år"
+      ],
+      "answer": 1,
+      "explanation": "Halveringstiden til karbon-14 er 5730 år, noe som betyr at det tar 5730 år for halvparten av karbon-14 i en prøve å brytes ned."
+    },
+    {
+      "qnID": 28,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvorfor skal vi være redde for radon i huset vårt?",
+      "options": [
+        "Radon er en edelgass som kan forårsake eksplosjoner",
+        "Radon er en radioaktiv gass som kan øke risikoen for lungekreft",
+        "Radon kan føre til elektriske feil i huset",
+        "Radon kan forårsake vannforurensning"
+      ],
+      "answer": 2,
+      "explanation": "Radon er en radioaktiv gass som kan samle seg i bygninger og øke risikoen for lungekreft ved langvarig eksponering."
+    },
+    {
+      "qnID": 29,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for radioaktivitet?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 1,
+      "explanation": "Becquerel (Bq) er enheten for radioaktivitet og måler antall henfall per sekund."
+    },
+    {
+      "qnID": 30,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for absorbert dose?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 3,
+      "explanation": "Gray (Gy) er enheten for absorbert dose og måler mengden energi som absorberes per enhet masse."
+    },
+    {
+      "qnID": 31,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for ekvivalent dose?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 2,
+      "explanation": "Sievert (Sv) er enheten for ekvivalent dose og tar hensyn til biologisk effekt av strålingen."
+    },
+    {
+      "qnID": 32,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for effektiv dose?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 2,
+      "explanation": "Sievert (Sv) er også enheten for effektiv dose, som vurderer risikoen for stråling på ulike organer og vev."
+    },
+    {
+      "qnID": 33,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er elektromagnetisk stråling?",
+      "options": [
+        "Stråling som består av partikler",
+        "Stråling som består av elektriske og magnetiske felt",
+        "Stråling som består av lyd",
+        "Stråling som består av varme"
+      ],
+      "answer": 2,
+      "explanation": "Elektromagnetisk stråling består av elektriske og magnetiske felt som svinger i takt."
+    },
+    {
+      "qnID": 34,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvilken type stråling har høyest energi?",
+      "options": [
+        "Radiobølger",
+        "Mikrobølger",
+        "Synlig lys",
+        "Gammastråling"
+      ],
+      "answer": 4,
+      "explanation": "Gammastråling har høyest energi blant de nevnte typene stråling."
+    },
+    {
+      "qnID": 35,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er halveringstid?",
+      "options": [
+        "Tiden det tar for halvparten av atomene i et radioaktivt stoff å henfalle",
+        "Tiden det tar for et stoff å miste halvparten av sin energi",
+        "Tiden det tar for et stoff å fordoble sin masse",
+        "Tiden det tar for et stoff å nå sin maksimale energi"
+      ],
+      "answer": 1,
+      "explanation": "Halveringstid er tiden det tar før halvparten av atomkjernene i et radioaktivt stoff har sendt ut radioaktiv stråling."
+    },
+    {
+      "qnID": 36,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er trådløs kommunikasjon?",
+      "options": [
+        "Kommunikasjon som bruker kabler",
+        "Kommunikasjon som bruker radiobølger",
+        "Kommunikasjon som bruker fiberoptikk",
+        "Kommunikasjon som bruker lyd"
+      ],
+      "answer": 2,
+      "explanation": "Trådløs kommunikasjon bruker radiobølger til å sende og motta informasjon uten bruk av kabler."
+    },
+    {
+      "qnID": 37,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva brukes radiobølger til i trådløs kommunikasjon?",
+      "options": [
+        "Å sende og motta informasjon",
+        "Å varme opp mat",
+        "Å lage lyd",
+        "Å produsere lys"
+      ],
+      "answer": 1,
+      "explanation": "Radiobølger brukes til å sende og motta informasjon i trådløs kommunikasjon."
+    },
+    {
+      "qnID": 38,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er en bølgelengde?",
+      "options": [
+        "Avstanden mellom to bølgetopper",
+        "Høyden på en bølge",
+        "Tiden det tar for en bølge å passere et punkt",
+        "Antall bølger som passerer et punkt per sekund"
+      ],
+      "answer": 1,
+      "explanation": "Bølgelengde er avstanden mellom to bølgetopper eller to bølgebunner."
+    },
+    {
+      "qnID": 39,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er frekvens?",
+      "options": [
+        "Avstanden mellom to bølgetopper",
+        "Høyden på en bølge",
+        "Tiden det tar for en bølge å passere et punkt",
+        "Antall bølger som passerer et punkt per sekund"
+      ],
+      "answer": 4,
+      "explanation": "Frekvens er antall bølger som passerer et punkt per sekund."
+    },
+    {
+      "qnID": 40,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er sammenhengen mellom bølgelengde og frekvens?",
+      "options": [
+        "De er uavhengige av hverandre",
+        "Når bølgelengden øker, øker også frekvensen",
+        "Når bølgelengden øker, minker frekvensen",
+        "Når bølgelengden minker, minker også frekvensen"
+      ],
+      "answer": 3,
+      "explanation": "Når bølgelengden øker, minker frekvensen."
+    },
+    {
+      "qnID": 41,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er elektromagnetisk stråling?",
+      "options": [
+        "Stråling som består av partikler",
+        "Stråling som består av elektriske og magnetiske felt",
+        "Stråling som består av lyd",
+        "Stråling som består av varme"
+      ],
+      "answer": 2,
+      "explanation": "Elektromagnetisk stråling består av elektriske og magnetiske felt."
+    },
+    {
+      "qnID": 42,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er ioniserende stråling?",
+      "options": [
+        "Stråling som kan ionisere atomer og molekyler",
+        "Stråling som kan varme opp objekter",
+        "Stråling som kan kjøle ned objekter",
+        "Stråling som kan skape lys"
+      ],
+      "answer": 1,
+      "explanation": "Ioniserende stråling kan ionisere atomer og molekyler."
+    },
+    {
+      "qnID": 43,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er alfastråling?",
+      "options": [
+        "Stråling som består av elektroner",
+        "Stråling som består av heliumkjerner",
+        "Stråling som består av fotoner",
+        "Stråling som består av nøytroner"
+      ],
+      "answer": 2,
+      "explanation": "Alfastråling består av heliumkjerner."
+    },
+    {
+      "qnID": 44,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er betastråling?",
+      "options": [
+        "Stråling som består av elektroner eller positroner",
+        "Stråling som består av heliumkjerner",
+        "Stråling som består av fotoner",
+        "Stråling som består av nøytroner"
+      ],
+      "answer": 1,
+      "explanation": "Betastråling består av elektroner eller positroner."
+    },
+    {
+      "qnID": 45,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er gammastråling?",
+      "options": [
+        "Stråling som består av elektroner",
+        "Stråling som består av heliumkjerner",
+        "Stråling som består av fotoner",
+        "Stråling som består av nøytroner"
+      ],
+      "answer": 3,
+      "explanation": "Gammastråling er svært energirik elektromagnetisk stråling og består av fotoner."
+    },
+    {
+      "qnID": 46,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvilket grunnstoff har 30 protoner i kjernen?",
+      "options": [
+        "Karbon (C)",
+        "Hydrogen (H)",
+        "Sink (Zn)",
+        "Kobber (Cu)"
+      ],
+      "answer": 3,
+      "explanation": "Sink (Zn) har 30 protoner i kjernen, siden det har atomnummer 30 i periodesystemet."
+    },
+    {
+      "qnID": 47,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er halveringstid?",
+      "options": [
+        "Tiden det tar for et stoff å brytes ned",
+        "Tiden det tar for stråling å forsvinne",
+        "Tiden det tar for et atom å bli stabilt",
+        "Tiden det tar før halvparten av atomkjernene har sendt ut radioaktiv stråling"
+      ],
+      "answer": 4,
+      "explanation": "Halveringstid er tiden det tar før halvparten av atomkjernene i et radioaktivt stoff har sendt ut radioaktiv stråling."
+    },
+    {
+      "qnID": 48,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er gammastråling?",
+      "options": [
+        "Partikkelstråling",
+        "Synlig lys",
+        "Ultrafiolett stråling",
+        "Svært energirik elektromagnetisk stråling"
+      ],
+      "answer": 4,
+      "explanation": "Gammastråling er svært energirik elektromagnetisk stråling og består av fotoner."
+    },
+    {
+      "qnID": 49,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er ioniserende stråling?",
+      "options": [
+        "Stråling med lav energi",
+        "Stråling som ikke påvirker atomer",
+        "Stråling som består av partikler",
+        "Stråling som har nok energi til å fjerne elektroner fra et atom eller molekyl"
+      ],
+      "answer": 4,
+      "explanation": "Ioniserende stråling har nok energi til å fjerne elektroner fra et atom eller molekyl."
+    },
+    {
+      "qnID": 50,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvorfor skal vi være redde for radon i huset vårt?",
+      "options": [
+        "Radon er en edelgass som kan forårsake eksplosjoner",
+        "Radon er en radioaktiv gass som kan øke risikoen for lungekreft",
+        "Radon kan føre til elektriske feil i huset",
+        "Radon kan forårsake vannforurensning"
+      ],
+      "answer": 2,
+      "explanation": "Radon er en radioaktiv gass som kan øke risikoen for lungekreft."
+    },
+    {
+      "qnID": 51,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for radioaktivitet?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 1,
+      "explanation": "Enheten for radioaktivitet er Becquerel (Bq)."
+    },
+    {
+      "qnID": 52,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for absorbert dose?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 3,
+      "explanation": "Enheten for absorbert dose er Gray (Gy)."
+    },
+    {
+      "qnID": 53,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for ekvivalent dose?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 2,
+      "explanation": "Enheten for ekvivalent dose er Sievert (Sv)."
+    },
+    {
+      "qnID": 54,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er enheten for effektiv dose?",
+      "options": [
+        "Becquerel (Bq)",
+        "Sievert (Sv)",
+        "Gray (Gy)",
+        "Curie (Ci)"
+      ],
+      "answer": 2,
+      "explanation": "Enheten for effektiv dose er Sievert (Sv)."
+    },
+    {
+      "qnID": 55,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er elektromagnetisk stråling?",
+      "options": [
+        "Stråling som består av partikler",
+        "Stråling som består av elektriske og magnetiske felt",
+        "Stråling som består av lyd",
+        "Stråling som består av varme"
+      ],
+      "answer": 2,
+      "explanation": "Elektromagnetisk stråling består av elektriske og magnetiske felt."
+    },
+    {
+      "qnID": 56,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hvilken type stråling har høyest energi?",
+      "options": [
+        "Radiobølger",
+        "Mikrobølger",
+        "Synlig lys",
+        "Gammastråling"
+      ],
+      "answer": 4,
+      "explanation": "Gammastråling har høyest energi."
+    },
+    {
+      "qnID": 57,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er trådløs kommunikasjon?",
+      "options": [
+        "Kommunikasjon som bruker kabler",
+        "Kommunikasjon som bruker radiobølger",
+        "Kommunikasjon som bruker fiberoptikk",
+        "Kommunikasjon som bruker lyd"
+      ],
+      "answer": 2,
+      "explanation": "Trådløs kommunikasjon bruker radiobølger."
+    },
+    {
+      "qnID": 58,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva brukes radiobølger til i trådløs kommunikasjon?",
+      "options": [
+        "Å sende og motta informasjon",
+        "Å varme opp mat",
+        "Å lage lyd",
+        "Å produsere lys"
+      ],
+      "answer": 1,
+      "explanation": "Radiobølger brukes til å sende og motta informasjon."
+    },
+    {
+      "qnID": 59,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er en bølgelengde?",
+      "options": [
+        "Avstanden mellom to bølgetopper",
+        "Høyden på en bølge",
+        "Tiden det tar for en bølge å passere et punkt",
+        "Antall bølger som passerer et punkt per sekund"
+      ],
+      "answer": 1,
+      "explanation": "Bølgelengde er avstanden mellom to bølgetopper eller to bølgebunner."
+    },
+    {
+      "qnID": 60,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er frekvens?",
+      "options": [
+        "Avstanden mellom to bølgetopper",
+        "Høyden på en bølge",
+        "Tiden det tar for en bølge å passere et punkt",
+        "Antall bølger som passerer et punkt per sekund"
+      ],
+      "answer": 4,
+      "explanation": "Frekvens er antall bølger som passerer et punkt per sekund."
+    },
+    {
+      "qnID": 61,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er sammenhengen mellom bølgelengde og frekvens?",
+      "options": [
+        "De er uavhengige av hverandre",
+        "Når bølgelengden øker, øker også frekvensen",
+        "Når bølgelengden øker, minker frekvensen",
+        "Når bølgelengden minker, minker også frekvensen"
+      ],
+      "answer": 3,
+      "explanation": "Når bølgelengden øker, minker frekvensen."
+    },
+    {
+      "qnID": 62,
+      "themeID": "radioaktivitetv2",
+      "qn": "Hva er ioniserende stråling?",
+      "options": [
+        "Stråling som kan ionisere atomer og molekyler",
+        "Stråling som kan varme opp objekter",
+        "Stråling som kan kjøle ned objekter",
+        "Stråling som kan skape lys"
+      ],
+      "answer": 1,
+      "explanation": "Ioniserende stråling kan ionisere atomer og molekyler."
+    }
+  ]
+}

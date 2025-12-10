@@ -1,0 +1,498 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en av hovedårsakene til at biologisk mangfold er viktig?",
+      "options": [
+        "Det gir oss tilgang til rent vann",
+        "Det reduserer behovet for fotosyntese",
+        "Det øker mengden nitrogen i lufta",
+        "Det gjør at vi slipper å dyrke mat"
+      ],
+      "answer": 1,
+      "explanation": "Biologisk mangfold bidrar til økosystemtjenester som rent vann, mat og klimaregulering."
+    },
+    {
+      "qnID": 2,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er anbefalt pH-verdi for drikkevann?",
+      "options": [
+        "4,0–5,0",
+        "5,5–6,0",
+        "6,5–8,5",
+        "8,5–9,5"
+      ],
+      "answer": 3,
+      "explanation": "Anbefalt pH for drikkevann er mellom 6,5 og 8,5 for å unngå korrosjon og helseskader."
+    },
+    {
+      "qnID": 3,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en miljøgift?",
+      "options": [
+        "Et stoff som alltid er naturlig",
+        "Et stoff som brytes raskt ned i naturen",
+        "Et stoff som akkumuleres i økosystemer og kan skade helse og miljø",
+        "Et stoff som kun finnes i planter"
+      ],
+      "answer": 3,
+      "explanation": "Miljøgifter brytes sakte ned og hoper seg opp i næringskjeder, noe som kan skade både dyr og mennesker."
+    },
+    {
+      "qnID": 4,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er øvre grense for ammonium i drikkevann?",
+      "options": [
+        "0,05 mg/L",
+        "0,1 mg/L",
+        "0,5 mg/L",
+        "5 mg/L"
+      ],
+      "answer": 3,
+      "explanation": "Øvre grense for ammonium i drikkevann og fiskevann er 0,5 mg/L."
+    },
+    {
+      "qnID": 5,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig indikator på at vann er forurenset av avføring?",
+      "options": [
+        "Høyt nitratinnhold",
+        "Høyt fosfatinnhold",
+        "Høyt nitrittinnhold",
+        "Lav hardhet"
+      ],
+      "answer": 3,
+      "explanation": "Nitritt er en indikator på forurensning fra avføring og er svært giftig for fisk og skadelig for mennesker."
+    },
+    {
+      "qnID": 6,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en fremmedart?",
+      "options": [
+        "En art som er naturlig hjemmehørende i Norge",
+        "En art som er innført til et område den ikke hører hjemme",
+        "En art som er utrydningstruet",
+        "En art som lever i havet"
+      ],
+      "answer": 2,
+      "explanation": "Fremmede arter er innført til områder der de ikke naturlig hører hjemme, og kan true lokale arter."
+    },
+    {
+      "qnID": 7,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er hovedårsaken til at nitrat tilsettes i gjødsel?",
+      "options": [
+        "Det øker vannets pH",
+        "Det fremmer plantevekst",
+        "Det reduserer fosfatnivået",
+        "Det hindrer algevekst"
+      ],
+      "answer": 2,
+      "explanation": "Nitrat fremmer plantevekst og brukes derfor i gjødsel."
+    },
+    {
+      "qnID": 8,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er anbefalt øvre grense for nitritt i drikkevann?",
+      "options": [
+        "0,01 mg/L",
+        "0,03 mg/L",
+        "0,1 mg/L",
+        "1 mg/L"
+      ],
+      "answer": 3,
+      "explanation": "Anbefalt øvre grense for nitritt i drikkevann er 0,1 mg/L."
+    },
+    {
+      "qnID": 9,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en produsent i et økosystem?",
+      "options": [
+        "Et dyr som spiser planter",
+        "En organisme som lager egen næring gjennom fotosyntese",
+        "En organisme som bryter ned dødt materiale",
+        "En organisme som lever av andre rovdyr"
+      ],
+      "answer": 2,
+      "explanation": "Produsenter er planter og alger som lager egen næring gjennom fotosyntese."
+    },
+    {
+      "qnID": 10,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig funksjon til myrer?",
+      "options": [
+        "De øker nitrogeninnholdet i lufta",
+        "De lagrer store mengder karbon",
+        "De produserer fosfat",
+        "De reduserer pH i havet"
+      ],
+      "answer": 2,
+      "explanation": "Myrer lagrer store mengder karbon og bidrar til å motvirke klimaendringer."
+    },
+    {
+      "qnID": 11,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva skjer når vann har høyt innhold av næringsstoffer som nitrat og fosfat?",
+      "options": [
+        "Vannet blir renere",
+        "Det oppstår eutrofiering med stor algevekst",
+        "pH stiger til over 9",
+        "Vannet blir hardt"
+      ],
+      "answer": 2,
+      "explanation": "Høyt innhold av næringsstoffer fører til eutrofiering, som gir stor algevekst og oksygenmangel."
+    },
+    {
+      "qnID": 12,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en konsekvens av å drenere myr?",
+      "options": [
+        "Økt karbonlagring",
+        "Redusert utslipp av CO2",
+        "Tap av biologisk mangfold og frigjøring av karbon",
+        "Økt vannkvalitet"
+      ],
+      "answer": 3,
+      "explanation": "Drenering av myr frigjør karbon og reduserer biologisk mangfold."
+    },
+    {
+      "qnID": 13,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en miljøgift som tidligere ble brukt som insektmiddel?",
+      "options": [
+        "PCB",
+        "DDT",
+        "PFAS",
+        "Bly"
+      ],
+      "answer": 2,
+      "explanation": "DDT ble brukt som insektmiddel, men er nå forbudt på grunn av miljøskader."
+    },
+    {
+      "qnID": 14,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er hardhet i vann et mål på?",
+      "options": [
+        "Mengden oksygen i vannet",
+        "Mengden kalsiumsalter i vannet",
+        "Mengden ammonium i vannet",
+        "Mengden CO2 i vannet"
+      ],
+      "answer": 2,
+      "explanation": "Hardhet i vann bestemmes av mengden kalsiumsalter som er løst i vannet."
+    },
+    {
+      "qnID": 15,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til å bevare biologisk mangfold?",
+      "options": [
+        "Det gjør vannet hardere",
+        "Det gir oss medisiner og mat",
+        "Det øker nitratnivået i vann",
+        "Det reduserer karbonlagring"
+      ],
+      "answer": 2,
+      "explanation": "Biologisk mangfold gir oss ressurser som mat, medisiner og råmaterialer."
+    },
+    {
+      "qnID": 16,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en indikatorart for rent vann?",
+      "options": [
+        "Røde fåbørstemark",
+        "Fjærmygglarver",
+        "Steinfluer",
+        "Rottehaler"
+      ],
+      "answer": 3,
+      "explanation": "Steinfluer er indikatorarter for rent vann."
+    },
+    {
+      "qnID": 17,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig forskjell mellom gift og miljøgift?",
+      "options": [
+        "Miljøgifter er alltid naturlige",
+        "Miljøgifter brytes raskt ned",
+        "Miljøgifter akkumuleres i økosystemer",
+        "Gifter finnes bare i planter"
+      ],
+      "answer": 3,
+      "explanation": "Miljøgifter akkumuleres i økosystemer og kan skade både dyr og mennesker over tid."
+    },
+    {
+      "qnID": 18,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en konsekvens av innføring av fremmede arter?",
+      "options": [
+        "Økt biologisk mangfold",
+        "Redusert konkurranse mellom arter",
+        "Utrydding av lokale arter",
+        "Økt karbonlagring"
+      ],
+      "answer": 3,
+      "explanation": "Fremmede arter kan konkurrere ut lokale arter og redusere biologisk mangfold."
+    },
+    {
+      "qnID": 19,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er anbefalt øvre grense for nitrat i drikkevann?",
+      "options": [
+        "10 mg/L",
+        "25 mg/L",
+        "50 mg/L",
+        "90 mg/L"
+      ],
+      "answer": 2,
+      "explanation": "Anbefalt øvre grense for nitrat i drikkevann er 25 mg/L."
+    },
+    {
+      "qnID": 20,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig årsak til at fosfat havner i vann?",
+      "options": [
+        "Luftforurensning",
+        "Vaskemidler og matvarer",
+        "Nitrogenfiksering",
+        "Fotosyntese"
+      ],
+      "answer": 2,
+      "explanation": "Fosfatforurensning kommer hovedsakelig fra vaskemidler og matvarer."
+    },
+    {
+      "qnID": 21,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til at pH i vann kan bli lav?",
+      "options": [
+        "Høyt oksygeninnhold",
+        "Høyt CO2-innhold",
+        "Høyt nitratinnhold",
+        "Høyt fosfatinnhold"
+      ],
+      "answer": 2,
+      "explanation": "Høyt CO2-innhold senker pH i vannet."
+    },
+    {
+      "qnID": 22,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig effekt av PFAS?",
+      "options": [
+        "Brytes raskt ned i naturen",
+        "Akkumuleres i næringskjeden og kan skade helse",
+        "Øker oksygennivået i vann",
+        "Reduserer pH i jord"
+      ],
+      "answer": 2,
+      "explanation": "PFAS brytes svært sakte ned og akkumuleres i næringskjeden, noe som kan skade helse."
+    },
+    {
+      "qnID": 23,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til at torv brukes som hagejord?",
+      "options": [
+        "Den er næringsrik",
+        "Den holder godt på fuktighet",
+        "Den øker pH i jorda",
+        "Den inneholder mye kalsium"
+      ],
+      "answer": 2,
+      "explanation": "Torv holder godt på fuktighet, derfor brukes den i hagejord."
+    },
+    {
+      "qnID": 24,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig konsekvens av eutrofiering?",
+      "options": [
+        "Økt oksygeninnhold i vannet",
+        "Redusert plantevekst",
+        "Oksygenmangel og fiskedød",
+        "Økt pH i vannet"
+      ],
+      "answer": 3,
+      "explanation": "Eutrofiering fører til oksygenmangel når døde planter brytes ned, noe som kan gi fiskedød."
+    },
+    {
+      "qnID": 25,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til at vi fortsatt dyrker mat i Norge?",
+      "options": [
+        "For å redusere biologisk mangfold",
+        "For å sikre selvforsyning og beredskap",
+        "For å øke importen av matvarer",
+        "For å redusere karbonlagring"
+      ],
+      "answer": 2,
+      "explanation": "Matproduksjon i Norge er viktig for selvforsyning og beredskap."
+    },
+    {
+      "qnID": 26,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig forskjell mellom næringskjede og næringsnett?",
+      "options": [
+        "Næringskjede viser flere arter, næringsnett viser én",
+        "Næringsnett viser flere sammenkoblede kjeder",
+        "Næringskjede inkluderer nedbrytere, næringsnett gjør ikke",
+        "Næringsnett gjelder bare planter"
+      ],
+      "answer": 2,
+      "explanation": "Næringsnett viser flere sammenkoblede næringskjeder i et økosystem."
+    },
+    {
+      "qnID": 27,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til at bly ble forbudt i bensin?",
+      "options": [
+        "Det økte drivstofforbruket",
+        "Det forårsaket alvorlige helseskader",
+        "Det reduserte CO2-utslipp",
+        "Det økte pH i vann"
+      ],
+      "answer": 2,
+      "explanation": "Bly i bensin ble forbudt fordi det forårsaket alvorlige helseskader."
+    },
+    {
+      "qnID": 28,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til at biologisk mangfold gir økosystemer stabilitet?",
+      "options": [
+        "Flere arter gjør økosystemet mer motstandsdyktig mot forstyrrelser",
+        "Det reduserer karbonlagring",
+        "Det øker utslipp av klimagasser",
+        "Det gjør vannet hardere"
+      ],
+      "answer": 1,
+      "explanation": "Høyt biologisk mangfold gjør økosystemer mer motstandsdyktige mot sykdommer og klimaendringer."
+    },
+    {
+      "qnID": 29,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva var en vanlig feilkilde ved nitrittmålingene under ekskursjonen?",
+      "options": [
+        "For høy temperatur i vannet",
+        "Reagensene fungerte ikke som de skulle",
+        "Feil bruk av pH-papir",
+        "For lite vannprøve"
+      ],
+      "answer": 2,
+      "explanation": "Flere grupper fikk blank løsning i stedet for gul ved 0 mg/L, trolig på grunn av problemer med reagensene."
+    },
+    {
+      "qnID": 30,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hvorfor kan det være forskjell mellom pH målt med kjemisk test og pH-papir?",
+      "options": [
+        "Fordi pH-papir alltid viser høyere verdi",
+        "Fordi kjemiske tester er mindre nøyaktige",
+        "Fordi pH-papir er mer følsomt for fargeforstyrrelser",
+        "Fordi vannets hardhet påvirker pH-papir"
+      ],
+      "answer": 3,
+      "explanation": "pH-papir kan gi unøyaktige resultater hvis vannet har farge eller partikler som forstyrrer avlesningen."
+    },
+    {
+      "qnID": 31,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hvilken parameter i klassifiseringsskjemaet sier noe om begroing på bunnen?",
+      "options": [
+        "Lukt",
+        "Skumdannelse",
+        "Bunnens og begroingens utseende",
+        "Bunndyr og fisk"
+      ],
+      "answer": 3,
+      "explanation": "Bunnens og begroingens utseende vurderes for å bestemme forurensningsgrad."
+    },
+    {
+      "qnID": 32,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva kjennetegner vann i kvalitetsklasse 1 (lite forurenset) når det gjelder lukt?",
+      "options": [
+        "Råtten, søt-emmen lukt",
+        "Aromatisk algeaktig lukt",
+        "Ingen merkbar lukt",
+        "Svak søt-emmen lukt"
+      ],
+      "answer": 3,
+      "explanation": "Lite forurenset vann har ingen merkbar lukt, eventuelt litt algeaktig."
+    },
+    {
+      "qnID": 33,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Når ble PCB forbudt i Norge?",
+      "options": [
+        "1979",
+        "1989",
+        "1999",
+        "2009"
+      ],
+      "answer": 1,
+      "explanation": "PCB ble forbudt i Norge i 1979 på grunn av alvorlige miljø- og helseskader."
+    },
+    {
+      "qnID": 34,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er hovedmålet med den norske prioritetslisten for kjemikalier?",
+      "options": [
+        "Å redusere CO2-utslipp",
+        "Å fase ut bruk og utslipp av farlige stoffer",
+        "Å øke produksjonen av kjemikalier",
+        "Å forby alle syntetiske stoffer"
+      ],
+      "answer": 2,
+      "explanation": "Målet er å fase ut bruk og utslipp av prioriterte farlige stoffer i Norge."
+    },
+    {
+      "qnID": 35,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva skjer med karbonlagringen i myr når den dreneres?",
+      "options": [
+        "Karbonlagringen øker",
+        "Karbon frigjøres som CO2",
+        "Karbon omdannes til fosfat",
+        "Karbon blir bundet i torv"
+      ],
+      "answer": 2,
+      "explanation": "Når myr dreneres, frigjøres karbon som CO2, noe som bidrar til klimaendringer."
+    },
+    {
+      "qnID": 36,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til at torvuttak er problematisk for miljøet?",
+      "options": [
+        "Det øker pH i vannet",
+        "Det reduserer karbonlagring og ødelegger leveområder",
+        "Det gir mer næringsstoffer til myra",
+        "Det øker biologisk mangfold"
+      ],
+      "answer": 2,
+      "explanation": "Torvuttak reduserer karbonlagring og ødelegger leveområder for mange arter."
+    },
+    {
+      "qnID": 37,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig grunn til at internasjonalt samarbeid er nødvendig for å redusere miljøgifter?",
+      "options": [
+        "Fordi miljøgifter brytes raskt ned",
+        "Fordi miljøgifter spres over landegrenser via luft og hav",
+        "Fordi miljøgifter bare finnes i Norge",
+        "Fordi miljøgifter ikke påvirker mennesker"
+      ],
+      "answer": 2,
+      "explanation": "Miljøgifter kan spres over store avstander via luft- og havstrømmer, derfor kreves internasjonalt samarbeid."
+    },
+    {
+      "qnID": 38,
+      "themeID": "miljoe_og_naturen",
+      "qn": "Hva er en viktig forskjell mellom gift og miljøgift?",
+      "options": [
+        "Miljøgifter brytes raskt ned",
+        "Miljøgifter akkumuleres i næringskjeden",
+        "Gifter finnes bare i planter",
+        "Miljøgifter er alltid naturlige"
+      ],
+      "answer": 2,
+      "explanation": "Miljøgifter akkumuleres i næringskjeden og kan skade både dyr og mennesker over tid."
+    }
+  ]
+}

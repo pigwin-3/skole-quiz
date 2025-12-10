@@ -1,0 +1,64 @@
+/*https://coolors.co/palette/ba181b-e5383b-d3d3d3-f5f3f4*/
+#main{
+
+    background-color: #F5F3F4;
+    color: #151515;
+}
+.top1 {
+    background-color: #D3D3D3;
+    border: 0.4vh solid #BA181B;
+}
+
+.box {
+    background-color: #F5F3F4;
+    border: 0.4vh solid black;
+}
+.btn {
+    background-color: #D3D3D3;
+    border: 0.4vh solid #BA181B;
+    color: #151515;
+}
+.btn:hover {
+    border: 0.4vh solid #E5383B;
+    background-color: #d9d9d9;
+}
+.btn2 {
+    background-color: #F5F3F4;
+    border: 0.4vh solid #BA181B;
+    color: #151515;
+}
+.btn2:hover {
+    border: 0.4vh solid #E5383B;
+    background-color: #d9d9d9;
+}
+
+.top2 {
+    background-color: #D3D3D3;
+    border: 0.4vh solid #BA181B;
+}
+.top4 {
+    background-color: #D3D3D3;
+    border: 0.4vh solid #BA181B;
+}
+.btnfin{
+    border: 0.4vh solid #BA181B;
+    background-color: #D3D3D3;
+    color: #151515;
+}
+.btnfin:hover {
+    border: 0.4vh solid #E5383B;
+    background-color: #d9d9d9;
+}
+#result {
+    background-color: #F5F3F4;
+    border: 0.4vh solid #BA181B;
+}
+.keyboard-hint {
+    color: #4d4d4d;
+}
+.option-key {
+    color: #404040;
+}
+.media-caption {
+    color: #4d4d4d;
+}

@@ -1,0 +1,747 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er et kromosom?",
+      "options": [
+        "En type protein",
+        "En del av cellemembranen",
+        "En struktur som inneholder DNA og protein",
+        "En type lipid"
+      ],
+      "answer": 3,
+      "explanation": "Et kromosom er en struktur som inneholder DNA og proteiner, og finnes i cellekjernen."
+    },
+    {
+      "qnID": 2,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "DNA-tråden er 2 meter lang hvis den strekkes helt ut. En celle er mindre enn en tidels millimeter i diameter. Forklar hvordan det er mulig å få så mye DNA inni hver enkelt celle.",
+      "options": [
+        "DNA-et er pakket tett sammen i kromosomer",
+        "DNA-et er flytende i cytoplasmaet",
+        "DNA-et er løst pakket i cellemembranen",
+        "DNA-et er pakket i mitokondriene"
+      ],
+      "answer": 1,
+      "explanation": "DNA-et er pakket tett sammen i kromosomer ved hjelp av proteiner som kalles histoner, noe som gjør det mulig å få plass til mye DNA i hver celle."
+    },
+    {
+      "qnID": 3,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvor finner vi DNA-et?",
+      "options": [
+        "I cellemembranen",
+        "I cellekjernen",
+        "I ribosomene",
+        "I mitokondriene"
+      ],
+      "answer": 2,
+      "explanation": "DNA-et finnes hovedsakelig i cellekjernen."
+    },
+    {
+      "qnID": 4,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er DNA?",
+      "options": [
+        "En type karbohydrat",
+        "En type protein",
+        "En type nukleinsyre",
+        "En type lipid"
+      ],
+      "answer": 3,
+      "explanation": "DNA er en type nukleinsyre som inneholder den genetiske informasjonen i cellene."
+    },
+    {
+      "qnID": 5,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvordan er et DNA-molekyl bygget opp?",
+      "options": [
+        "Enkelttrådet med ribose",
+        "Dobbelttrådet med deoksyribose",
+        "Enkelttrådet med deoksyribose",
+        "Dobbelttrådet med ribose"
+      ],
+      "answer": 2,
+      "explanation": "Et DNA-molekyl er dobbelttrådet og består av deoksyribose, fosfatgrupper og nitrogenbaser."
+    },
+    {
+      "qnID": 6,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva koder genene i DNA for?",
+      "options": [
+        "Karbohydrater",
+        "Lipider",
+        "Proteiner",
+        "Vitaminer"
+      ],
+      "answer": 3,
+      "explanation": "Genene i DNA koder for proteiner som utfører ulike funksjoner i kroppen."
+    },
+    {
+      "qnID": 7,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilke 4 nitrogenbaser finnes i DNA?",
+      "options": [
+        "Adenin, Tymin, Guanin, Cytosin",
+        "Adenin, Uracil, Guanin, Cytosin",
+        "Adenin, Tymin, Guanin, Uracil",
+        "Adenin, Cytosin, Guanin, Uracil"
+      ],
+      "answer": 1,
+      "explanation": "De fire nitrogenbasene i DNA er Adenin, Tymin, Guanin og Cytosin."
+    },
+    {
+      "qnID": 8,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilke 4 nitrogenbaser finnes i RNA?",
+      "options": [
+        "Adenin, Tymin, Guanin, Cytosin",
+        "Adenin, Uracil, Guanin, Cytosin",
+        "Adenin, Tymin, Guanin, Uracil",
+        "Adenin, Cytosin, Guanin, Uracil"
+      ],
+      "answer": 2,
+      "explanation": "De fire nitrogenbasene i RNA er Adenin, Uracil, Guanin og Cytosin."
+    },
+    {
+      "qnID": 9,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilke nitrogenbaser finnes i DNA og RNA, og hvilke nitrogenbaser danner basepar?",
+      "options": [
+        "DNA: Adenin, Tymin, Guanin, Cytosin; RNA: Adenin, Uracil, Guanin, Cytosin; Basepar: A-T, G-C, A-U",
+        "DNA: Adenin, Uracil, Guanin, Cytosin; RNA: Adenin, Tymin, Guanin, Cytosin; Basepar: A-T, G-C, A-U",
+        "DNA: Adenin, Tymin, Guanin, Uracil; RNA: Adenin, Uracil, Guanin, Cytosin; Basepar: A-T, G-C, A-U",
+        "DNA: Adenin, Tymin, Guanin, Cytosin; RNA: Adenin, Tymin, Guanin, Cytosin; Basepar: A-T, G-C, A-U"
+      ],
+      "answer": 1,
+      "explanation": "I DNA er nitrogenbasene Adenin, Tymin, Guanin og Cytosin, og i RNA er de Adenin, Uracil, Guanin og Cytosin. Baseparene er A-T (i DNA), G-C (i DNA og RNA), og A-U (i RNA)."
+    },
+    {
+      "qnID": 10,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva slags bindinger holder basene sammen?",
+      "options": [
+        "Kovalente bindinger",
+        "Hydrogenbindinger",
+        "Ioniske bindinger",
+        "Metallbindinger"
+      ],
+      "answer": 2,
+      "explanation": "Hydrogenbindinger holder nitrogenbasene sammen i DNA-molekylet."
+    },
+    {
+      "qnID": 11,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er DNA-syntesen?",
+      "options": [
+        "Prosessen der DNA kopieres",
+        "Prosessen der RNA lages",
+        "Prosessen der proteiner lages",
+        "Prosessen der lipider lages"
+      ],
+      "answer": 1,
+      "explanation": "DNA-syntesen er prosessen der DNA kopieres før celledeling."
+    },
+    {
+      "qnID": 12,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilken rolle spiller enzymet helicase i DNA-syntesen?",
+      "options": [
+        "Binder sammen DNA-trådene",
+        "Åpner DNA-dobbelttråden",
+        "Legger til nye nukleotider",
+        "Fjerner feil i DNA"
+      ],
+      "answer": 2,
+      "explanation": "Helicase åpner DNA-dobbelttråden ved å bryte hydrogenbindingene mellom basene."
+    },
+    {
+      "qnID": 13,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilken rolle spiller enzymet DNA-polymerase i DNA-syntesen?",
+      "options": [
+        "Binder sammen DNA-trådene",
+        "Åpner DNA-dobbelttråden",
+        "Legger til nye nukleotider",
+        "Fjerner feil i DNA"
+      ],
+      "answer": 3,
+      "explanation": "DNA-polymerase legger til nye nukleotider på den voksende DNA-tråden under DNA-syntesen."
+    },
+    {
+      "qnID": 14,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilken rolle spiller enzymet ligase i DNA-syntesen?",
+      "options": [
+        "Binder sammen DNA-trådene",
+        "Åpner DNA-dobbelttråden",
+        "Legger til nye nukleotider",
+        "Fjerner feil i DNA"
+      ],
+      "answer": 1,
+      "explanation": "Ligase binder sammen Okazaki-fragmentene på den laggende tråden under DNA-syntesen."
+    },
+    {
+      "qnID": 15,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er proteinsyntesen?",
+      "options": [
+        "Prosessen der DNA kopieres",
+        "Prosessen der RNA lages",
+        "Prosessen der proteiner lages",
+        "Prosessen der lipider lages"
+      ],
+      "answer": 3,
+      "explanation": "Proteinsyntesen er prosessen der proteiner lages fra mRNA i ribosomene."
+    },
+    {
+      "qnID": 16,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar proteinsyntesen så detaljert du kan.",
+      "options": [
+        "Transkripsjon og translasjon",
+        "Replikasjon og transkripsjon",
+        "Translasjon og replikasjon",
+        "Replikasjon og translasjon"
+      ],
+      "answer": 1,
+      "explanation": "Proteinsyntesen består av to hovedtrinn: transkripsjon (der DNA omdannes til mRNA) og translasjon (der mRNA oversettes til et protein ved ribosomene)."
+    },
+    {
+      "qnID": 17,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Nevn noen ulike egenskaper proteiner kan ha i kroppen din.",
+      "options": [
+        "Enzymer, hormoner, antistoffer",
+        "Karbohydrater, lipider, vitaminer",
+        "Nukleinsyrer, polysakkarider, fettsyrer",
+        "Mineraler, vann, oksygen"
+      ],
+      "answer": 1,
+      "explanation": "Proteiner kan fungere som enzymer, hormoner og antistoffer, blant andre roller."
+    },
+    {
+      "qnID": 18,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvor mange ulike aminosyrer har du i kroppen din?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "answer": 2,
+      "explanation": "Det finnes 20 ulike aminosyrer som brukes til å bygge proteiner i kroppen."
+    },
+    {
+      "qnID": 19,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilken funksjon har aminosyrene i kroppen din?",
+      "options": [
+        "Byggesteiner for proteiner",
+        "Energikilde",
+        "Lagring av genetisk informasjon",
+        "Transport av oksygen"
+      ],
+      "answer": 1,
+      "explanation": "Aminosyrene fungerer som byggesteiner for proteiner, som er essensielle for kroppens struktur og funksjon."
+    },
+    {
+      "qnID": 20,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvor i cellen skjer proteinsyntesen?",
+      "options": [
+        "I cellekjernen",
+        "I mitokondriene",
+        "I ribosomene",
+        "I cellemembranen"
+      ],
+      "answer": 3,
+      "explanation": "Proteinsyntesen skjer i ribosomene, som finnes i cytoplasmaet."
+    },
+    {
+      "qnID": 21,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva heter de molekylene som finnes i cytoplasmaet og transporterer aminosyrer til ribosomene der proteinsyntesen foregår?",
+      "options": [
+        "mRNA",
+        "tRNA",
+        "rRNA",
+        "DNA"
+      ],
+      "answer": 2,
+      "explanation": "tRNA (transfer RNA) er molekylene som transporterer aminosyrer til ribosomene under proteinsyntesen."
+    },
+    {
+      "qnID": 22,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er forskjellen på DNA og RNA?",
+      "options": [
+        "DNA er dobbelttrådet, RNA er enkelttrådet",
+        "DNA inneholder ribose, RNA inneholder deoksyribose",
+        "DNA inneholder uracil, RNA inneholder tymin",
+        "DNA er enkelttrådet, RNA er dobbelttrådet"
+      ],
+      "answer": 1,
+      "explanation": "DNA er dobbelttrådet og inneholder deoksyribose, mens RNA er enkelttrådet og inneholder ribose."
+    },
+    {
+      "qnID": 23,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er en mutasjon?",
+      "options": [
+        "En endring i DNA-sekvensen",
+        "En endring i RNA-sekvensen",
+        "En endring i proteinstrukturen",
+        "En endring i cellemembranen"
+      ],
+      "answer": 1,
+      "explanation": "En mutasjon er en endring i DNA-sekvensen som kan påvirke genfunksjonen."
+    },
+    {
+      "qnID": 24,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er en mutasjon, og hvilke 3 mutasjoner har vi?",
+      "options": [
+        "Insersjon, delesjon, basebytte",
+        "Transkripsjon, translasjon, replikasjon",
+        "Punktmutasjon, kromosommutasjon, genommutasjon",
+        "Inversjon, translokasjon, duplikasjon"
+      ],
+      "answer": 1,
+      "explanation": "De tre typene mutasjoner er insersjon (innsetting av ekstra basepar), delesjon (fjerning av basepar), og basebytte (endring av et basepar til et annet)."
+    },
+    {
+      "qnID": 25,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar hva som menes med insersjon, delesjon og basebytte.",
+      "options": [
+        "Insersjon: fjerning av basepar, delesjon: innsetting av basepar, basebytte: endring av basepar",
+        "Insersjon: innsetting av basepar, delesjon: fjerning av basepar, basebytte: endring av basepar",
+        "Insersjon: endring av basepar, delesjon: innsetting av basepar, basebytte: fjerning av basepar",
+        "Insersjon: innsetting av basepar, delesjon: endring av basepar, basebytte: fjerning av basepar"
+      ],
+      "answer": 2,
+      "explanation": "Insersjon er innsetting av ekstra basepar, delesjon er fjerning av basepar, og basebytte er endring av et basepar til et annet."
+    },
+    {
+      "qnID": 26,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hva er sammenhengen mellom mutasjoner og evolusjon?",
+      "options": [
+        "Mutasjoner fører alltid til sykdommer",
+        "Mutasjoner kan gi opphav til nye egenskaper som kan være fordelaktige",
+        "Mutasjoner har ingen betydning for evolusjon",
+        "Mutasjoner stopper evolusjon"
+      ],
+      "answer": 2,
+      "explanation": "Mutasjoner kan gi opphav til nye egenskaper som kan være fordelaktige og dermed bidra til evolusjon ved naturlig seleksjon."
+    },
+    {
+      "qnID": 27,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvem var Gregor Mendel? Og hva ble han kjent for?",
+      "options": [
+        "En fysiker kjent for relativitetsteorien",
+        "En kjemiker kjent for periodesystemet",
+        "En biolog kjent for arvelæren",
+        "En lege kjent for vaksinasjon"
+      ],
+      "answer": 3,
+      "explanation": "Gregor Mendel var en biolog kjent for sine eksperimenter med erteplanter som la grunnlaget for arvelæren."
+    },
+    {
+      "qnID": 28,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar begrepet dominant.",
+      "options": [
+        "Et gen som alltid uttrykkes",
+        "Et gen som aldri uttrykkes",
+        "Et gen som uttrykkes kun i homozygot tilstand",
+        "Et gen som uttrykkes kun i heterozygot tilstand"
+      ],
+      "answer": 1,
+      "explanation": "Et dominant gen er et gen som alltid uttrykkes i fenotypen, selv om det bare er til stede i ett eksemplar."
+    },
+    {
+      "qnID": 29,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar begrepet recessiv.",
+      "options": [
+        "Et gen som alltid uttrykkes",
+        "Et gen som aldri uttrykkes",
+        "Et gen som uttrykkes kun i homozygot tilstand",
+        "Et gen som uttrykkes kun i heterozygot tilstand"
+      ],
+      "answer": 3,
+      "explanation": "Et recessivt gen er et gen som bare uttrykkes i fenotypen når det er til stede i to eksemplarer (homozygot tilstand)."
+    },
+    {
+      "qnID": 30,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar begrepet homozygot.",
+      "options": [
+        "To like alleler for et gen",
+        "To ulike alleler for et gen",
+        "Et gen som alltid uttrykkes",
+        "Et gen som aldri uttrykkes"
+      ],
+      "answer": 1,
+      "explanation": "Homozygot betyr at en organisme har to like alleler for et bestemt gen."
+    },
+    {
+      "qnID": 31,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar begrepet heterozygot.",
+      "options": [
+        "To like alleler for et gen",
+        "To ulike alleler for et gen",
+        "Et gen som alltid uttrykkes",
+        "Et gen som aldri uttrykkes"
+      ],
+      "answer": 2,
+      "explanation": "Heterozygot betyr at en organisme har to ulike alleler for et bestemt gen."
+    },
+    {
+      "qnID": 32,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar begrepet genotype.",
+      "options": [
+        "Den fysiske uttrykksformen av et gen",
+        "Den genetiske sammensetningen av et individ",
+        "Et gen som alltid uttrykkes",
+        "Et gen som aldri uttrykkes"
+      ],
+      "answer": 2,
+      "explanation": "Genotype refererer til den genetiske sammensetningen av et individ, inkludert alleler for bestemte gener."
+    },
+    {
+      "qnID": 33,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Forklar begrepet fenotype.",
+      "options": [
+        "Den fysiske uttrykksformen av et gen",
+        "Den genetiske sammensetningen av et individ",
+        "Et gen som alltid uttrykkes",
+        "Et gen som aldri uttrykkes"
+      ],
+      "answer": 1,
+      "explanation": "Fenotype refererer til den fysiske uttrykksformen av et gen, inkludert observerbare egenskaper."
+    },
+    {
+      "qnID": 34,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Fire og fire nitrogenbaser er kode for en aminosyre når det blir laget proteiner. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. Tre og tre nitrogenbaser (kalt et kodon) koder for en aminosyre under proteinsyntesen."
+    },
+    {
+      "qnID": 35,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: vi har dobbelt opp av alle gener. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 1,
+      "explanation": "Påstanden er riktig. Vi har to sett med kromosomer, ett fra hver forelder, og dermed dobbelt opp av alle gener."
+    },
+    {
+      "qnID": 36,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Det er mange gener i hvert kromosom. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 1,
+      "explanation": "Påstanden er riktig. Hvert kromosom inneholder mange gener som koder for ulike proteiner."
+    },
+    {
+      "qnID": 37,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Arvestoffet vårt oppbevares i ribosomene. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. Arvestoffet vårt (DNA) oppbevares i cellekjernen, ikke i ribosomene."
+    },
+    {
+      "qnID": 38,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Når to brunøyde foreldre får barn, kan de ikke få blåøyde barn. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. To brunøyde foreldre kan bære recessive gener for blå øyne og dermed få blåøyde barn."
+    },
+    {
+      "qnID": 39,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Når to blåøyde foreldre får barn, kan de ikke få brunøyde barn. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 1,
+      "explanation": "Påstanden er riktig. To blåøyde foreldre har kun recessive gener for blå øyne og kan derfor ikke få brunøyde barn."
+    },
+    {
+      "qnID": 40,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: m-RNA-molekyler binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av t-RNA. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. Det er t-RNA som binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av m-RNA."
+    },
+    {
+      "qnID": 41,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: m-RNA-molekyler binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av t-RNA. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. Det er t-RNA som binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av m-RNA."
+    },
+    {
+      "qnID": 42,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: RNA inneholder ikke Adenin. Det inneholder Uracil i stedet. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. RNA inneholder både Adenin og Uracil. Uracil erstatter Tymin som finnes i DNA."
+    },
+    {
+      "qnID": 43,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Proteinsyntesen skjer kun i cellekjernen. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. Proteinsyntesen skjer i ribosomene som finnes i cytoplasmaet, ikke i cellekjernen."
+    },
+    {
+      "qnID": 44,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Alle mutasjoner fører til dårligere DNA/ulemper for individet. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 2,
+      "explanation": "Påstanden er gal. Ikke alle mutasjoner er skadelige; noen kan være nøytrale eller til og med fordelaktige."
+    },
+    {
+      "qnID": 45,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Er påstanden riktig eller gal: Menn har kun ett X-kromosom og er derfor mer utsatt for kjønnsbundne sykdommer. Begrunn svaret ditt.",
+      "options": [
+        "Riktig",
+        "Gal"
+      ],
+      "answer": 1,
+      "explanation": "Påstanden er riktig. Menn har ett X- og ett Y-kromosom, og er derfor mer utsatt for kjønnsbundne sykdommer som er knyttet til X-kromosomet."
+    },
+    {
+      "qnID": 46,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Fregner er en dominant egenskap. En mann og en kvinne som begge er heterozygote får barn sammen. Har de to foreldrene fregner eller ikke? Begrunn svaret ditt.",
+      "options": [
+        "Ja, begge har fregner",
+        "Nei, ingen har fregner",
+        "Bare mannen har fregner",
+        "Bare kvinnen har fregner"
+      ],
+      "answer": 1,
+      "explanation": "Begge foreldrene har fregner fordi de har minst ett dominant allel for fregner (Ff)."
+    },
+    {
+      "qnID": 47,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Genet B er dominant for brune øyne, og genet b er recessivt for blå øyne. Far har genotypen BB og mor har genotypen Bb. Hvor stor sannsynlighet er det for at de får et barn med blå øyne? Sett gjerne opp et krysningsskjema.",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 1,
+      "explanation": "Sannsynligheten er 0% fordi alle barna vil ha minst ett dominant B-allel og dermed brune øyne."
+    },
+    {
+      "qnID": 48,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Genet B er dominant for brune øyne, og genet b er recessivt for blå øyne. Far har genotypen BB og mor har genotypen Bb. Hvor stor sannsynlighet er det for at et av deres barn får brune øyne? Sett opp et krysningsskjema.",
+      "options": [
+        "0%",
+        "25%",
+        "50%",
+        "100%"
+      ],
+      "answer": 4,
+      "explanation": "Sannsynligheten er 100% fordi alle barna vil ha minst ett dominant B-allel og dermed brune øyne."
+    },
+    {
+      "qnID": 49,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvem har størst sjanse for å bli rødgrønn fargeblinde, menn eller kvinner?",
+      "options": [
+        "Menn",
+        "Kvinner",
+        "Begge har lik sjanse",
+        "Ingen av dem"
+      ],
+      "answer": 1,
+      "explanation": "Menn har større sjanse for å bli rødgrønn fargeblinde fordi de har bare ett X-kromosom, og hvis det inneholder det recessive allelet for fargeblindhet, vil de uttrykke egenskapen."
+    },
+    {
+      "qnID": 50,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvem har størst sjanse for å bli rødgrønn fargeblinde, menn eller kvinner? Begrunn svaret.",
+      "options": [
+        "Menn",
+        "Kvinner",
+        "Begge har lik sjanse",
+        "Ingen av dem"
+      ],
+      "answer": 1,
+      "explanation": "Menn har større sjanse for å bli rødgrønn fargeblinde fordi de har bare ett X-kromosom. Hvis det inneholder det recessive allelet for fargeblindhet, vil de uttrykke egenskapen. Kvinner har to X-kromosomer, så de må ha to kopier av det recessive allelet for å være fargeblinde."
+    },
+    {
+      "qnID": 51,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "En mann kan ikke gi rødgrønn fargeblindhet til sine sønner. Hvorfor ikke?",
+      "options": [
+        "Fordi fargeblindhet er ikke arvelig",
+        "Fordi fargeblindhet er knyttet til Y-kromosomet",
+        "Fordi fargeblindhet er knyttet til X-kromosomet",
+        "Fordi menn ikke kan få sønner"
+      ],
+      "answer": 3,
+      "explanation": "En mann kan ikke gi rødgrønn fargeblindhet til sine sønner fordi fargeblindhet er knyttet til X-kromosomet, og sønner arver sitt X-kromosom fra moren."
+    },
+    {
+      "qnID": 52,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvordan er kjønnskromosomene til en mann?",
+      "options": [
+        "XX",
+        "XY",
+        "YY",
+        "XZ"
+      ],
+      "answer": 2,
+      "explanation": "Kjønnskromosomene til en mann er XY."
+    },
+    {
+      "qnID": 53,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvordan er kjønnskromosomene til en kvinne?",
+      "options": [
+        "XX",
+        "XY",
+        "YY",
+        "XZ"
+      ],
+      "answer": 1,
+      "explanation": "Kjønnskromosomene til en kvinne er XX."
+    },
+    {
+      "qnID": 54,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvilket gen bestemmer kjønn?",
+      "options": [
+        "SRY-genet",
+        "BRCA1-genet",
+        "HBB-genet",
+        "CFTR-genet"
+      ],
+      "answer": 1,
+      "explanation": "SRY-genet på Y-kromosomet bestemmer mannlig kjønn."
+    },
+    {
+      "qnID": 55,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Hvor mange gener har et Y-kromosom sammenlignet med X-kromosomet?",
+      "options": [
+        "Flere",
+        "Færre",
+        "Like mange",
+        "Ingen"
+      ],
+      "answer": 2,
+      "explanation": "Y-kromosomet har færre gener sammenlignet med X-kromosomet."
+    },
+    {
+      "qnID": 56,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Nevn noen kjønnsbundne sykdommer.",
+      "options": [
+        "Hemofili, Duchenne muskeldystrofi",
+        "Diabetes, Alzheimers",
+        "Kreft, Hjerteinfarkt",
+        "Astma, Allergi"
+      ],
+      "answer": 1,
+      "explanation": "Hemofili og Duchenne muskeldystrofi er eksempler på kjønnsbundne sykdommer."
+    },
+    {
+      "qnID": 57,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "To «friske» foreldre får en sønn som er fargeblind. Hva slags genotype har foreldrene?",
+      "options": [
+        "Mor: X^NX^N, Far: X^NY",
+        "Mor: X^NX^n, Far: X^NY",
+        "Mor: X^nX^n, Far: X^NY",
+        "Mor: X^NX^N, Far: X^nY"
+      ],
+      "answer": 2,
+      "explanation": "Mor må være bærer (X^NX^n) og far må ha normalt syn (X^NY) for at de kan få en fargeblind sønn."
+    },
+    {
+      "qnID": 58,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "Et par får en datter som er rødgrønn fargeblind. Hvilke genotyper kan foreldrene ha?",
+      "options": [
+        "Mor: X^NX^N, Far: X^nY",
+        "Mor: X^NX^n, Far: X^nY",
+        "Mor: X^nX^n, Far: X^NY",
+        "Mor: X^nX^n, Far: X^nY"
+      ],
+      "answer": 4,
+      "explanation": "Begge foreldrene må ha det recessive allelet for fargeblindhet. Mor må være X^nX^n og far må være X^nY."
+    },
+    {
+      "qnID": 59,
+      "themeID":  "arv_og_evolusjonv1",
+      "qn": "I en kvinne skjer det en mutasjon i et gen i en celle i leveren. Genet virker ikke lenger som det skal. Diskuter om denne genfeilen kan bli overført til neste generasjon.",
+      "options": [
+        "Ja, alltid",
+        "Nei, aldri",
+        "Bare hvis det skjer i kjønnscellene",
+        "Bare hvis det skjer i blodcellene"
+      ],
+      "answer": 3,
+      "explanation": "Genfeilen kan bare bli overført til neste generasjon hvis mutasjonen skjer i kjønnscellene (eggcellene). Mutasjoner i somatiske celler (som leverceller) overføres ikke til avkommet."
+    }
+  ]
+}

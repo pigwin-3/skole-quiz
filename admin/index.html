@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz JSON redigerifisering</title>
+    <link rel="stylesheet" href="admin.css">
+    <link rel="icon" type="image/x-icon" href="https://pigwin-3.github.io/naturfag-html-test/favicon.jpg">
+
+        <!-- Primary Meta Tags -->
+    <title>Naturfag Quiz Admin</title>
+    <meta name="title" content="Naturfag Quiz Admin" />
+    <meta name="description" content="Naturfag admin greier" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://github.com/pigwin-3/naturfag-html-test/admin" />
+    <meta property="og:title" content="Naturfag Quiz Admin" />
+    <meta property="og:description" content="Naturfag admin greier" />
+    <meta property="og:image" content="https://pigwin-3.github.io/naturfag-html-test/admin/img_adm_l.png" />
+
+    <!-- X (Twitter) -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://github.com/pigwin-3/naturfag-html-test/admin" />
+    <meta property="twitter:title" content="Naturfag Quiz Admin" />
+    <meta property="twitter:description" content="Naturfag admin greier" />
+    <meta property="twitter:image" content="https://pigwin-3.github.io/naturfag-html-test/admin/img_adm_l.png" />
+
+    <!-- Meta Tags Generated with https://metatags.io -->
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Naturfag Quiz - JSON redigerifisering</h1>
+            <p class="subtitle">Rediger og opprett quiz-spørsmål</p>
+            <p class="subtitle">Husk å last inn data før redigering!</p>
+            <p class="auto-load-info">Data lastes automatisk fra quiz-mappen</p>
+        </header>
+
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('categories')">Kategorier</button>
+            <button class="tab-btn" onclick="switchTab('themes')">Temaer</button>
+            <button class="tab-btn" onclick="reloadData()">Last inn data på nytt</button>
+        </div>
+
+        <!-- Categories Tab -->
+        <div id="categories-tab" class="tab-content active">
+            <div class="section-header">
+                <h2>Kategorier</h2>
+                <button class="btn btn-primary" onclick="addCategory()">+ Ny Kategori</button>
+            </div>
+            <div id="categories-list" class="items-list"></div>
+            <div class="download-section">
+                <button class="btn btn-success" onclick="downloadCategories()">⬇ Last ned index.json</button>
+            </div>
+        </div>
+
+        <!-- Themes Tab -->
+        <div id="themes-tab" class="tab-content">
+            <div class="section-header">
+                <h2>Temaer</h2>
+                <div>
+                    <select id="theme-category-filter" onchange="filterThemes()">
+                        <option value="">Alle kategorier</option>
+                    </select>
+                    <button class="btn btn-primary" onclick="addTheme()">+ Nytt Tema</button>
+                </div>
+            </div>
+            <div id="themes-list" class="items-list"></div>
+            <div class="download-section">
+                <label>Velg kategori for nedlasting:</label>
+                <select id="theme-download-category"></select>
+                <button class="btn btn-success" onclick="downloadThemes()">⬇ Last ned main.json</button>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Modal for editing -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="admin.js"></script>
+</body>
+</html>
