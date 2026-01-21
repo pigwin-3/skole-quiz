@@ -199,6 +199,9 @@ body{
     margin: 1.75%;
     padding: 1vh;
 }
+.statement{
+    font-size: 2rem;
+}
 .summary_txtbox{
     display: flex;
     flex-direction: column;
@@ -630,7 +633,7 @@ body{
 }
 @media  all and (max-width: 175vh) {
     .statement{
-        font-size: 5vh;
+        font-size: 3rem;
     }
 }
 @media  all and (max-width: 110vh) {
@@ -660,7 +663,7 @@ body{
         font-size: 5vh;
     }
     .statement{
-        font-size: 4vh;
+        font-size: 2rem;
     }
     .img{
         height: 40vw;
@@ -738,7 +741,7 @@ body{
         font-weight: 600;
     }
     .statement{
-        font-size: 3vh;
+        font-size: 4rem;
         font-weight: 600;
     }
 }
