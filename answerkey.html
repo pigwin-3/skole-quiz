@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fasit</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        
+        button {
+            padding: 10px 20px;
+            background-color: blue;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .menu-box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin: 10px 0;
+        }
+        
+        .menu-box h3 {
+            margin: 0;
+        }
+        
+        .menu-box p {
+            margin: 5px 0;
+        }
+        
+        .answer-item {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        
+        .option {
+            color: black;
+            margin: 5px 0;
+        }
+        
+        .correct-answer {
+            color: black;
+            font-weight: bold;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="title">Fasit</h1>
+    <button onclick="location.href='answerkey.html'">Hjem</button>
+    <div id="main">
+        <p>Laster inn...</p>
+    </div>
+
+    <script>
+        // Fetch quiz data
+        async function loadQuizData() {
+            try {
+                const response = await fetch('quiz/index.json');
+                return await response.json();
+            } catch (error) {
+                console.error('Error loading quiz data:', error);
+                return null;
+            }
+        }
+
+        // Load all themes and answers
+        async function loadAllThemes() {
+            const quizData = await loadQuizData();
+            if (!quizData) {
+                document.getElementById('main').innerHTML = '<p>Kunne ikke laste quiz data</p>';
+                return;
+            }
+
+            let allThemes = [];
+            
+            for (const category of quizData.categories) {
+                try {
+                    const folder = category.folder || category.ID;
+                    const response = await fetch(`quiz/${folder}/main.json`);
+                    const data = await response.json();
+                    
+                    for (const theme of data.themes) {
+                        allThemes.push({
+                            category: category.Name,
+                            name: theme.Name,
+                            id: theme.ID,
+                            file: theme.file,
+                            folder: folder
+                        });
+                    }
+                } catch (error) {
+                    console.warn(`Could not load themes for ${category.ID}`);
+                }
+            }
+            
+            return allThemes;
+        }
+
+        // Display menu with all themes
+        async function showMenu() {
+            const themes = await loadAllThemes();
+            document.getElementById('title').textContent = 'Fasit';
+            let html = '';
+            
+            themes.forEach(theme => {
+                html += `<div class="menu-box" onclick="loadAnswers('${theme.folder}', '${theme.file}', '${theme.id}', '${theme.name}')">
+                    <h3>${theme.name}</h3>
+                    <p>${theme.category}</p>
+                </div>`;
+            });
+            
+            document.getElementById('main').innerHTML = html;
+        }
+
+        // Load and display answers for a specific quiz
+        async function loadAnswers(folder, file, quizId, quizName) {
+            try {
+                const response = await fetch(`quiz/${folder}/${file}`);
+                const data = await response.json();
+                
+                document.getElementById('title').textContent = quizName;
+                let html = `<h2>${data.title || 'Svar'}</h2>`;
+                
+                data.questions.forEach((question, index) => {
+                    html += '<div class="answer-item">';
+                    html += `<p><strong>${index + 1}. ${question.qn}</strong></p>`;
+                    
+                    // Display all options
+                    question.options.forEach((option, optionIndex) => {
+                        if (optionIndex + 1 === question.answer) {
+                            html += `<p class="option correct-answer">${optionIndex + 1}. ${option}</p>`;
+                        } else {
+                            html += `<p class="option">${optionIndex + 1}. ${option}</p>`;
+                        }
+                    });
+                    
+                    html += '</div>';
+                });
+                
+                document.getElementById('main').innerHTML = html;
+                
+                // Update URL
+                window.history.pushState({}, '', `?quiz=${quizId}`);
+            } catch (error) {
+                document.getElementById('main').innerHTML = '<p>Kunne ikke laste svar</p>';
+                console.error('Error loading answers:', error);
+            }
+        }
+
+        // Check for URL parameter on load
+        window.addEventListener('load', function() {
+            const params = new URLSearchParams(window.location.search);
+            const quizId = params.get('quiz');
+            
+            if (quizId) {
+                // Load themes and find matching quiz
+                loadAllThemes().then(themes => {
+                    const theme = themes.find(t => t.id == quizId);
+                    if (theme) {
+                        loadAnswers(theme.folder, theme.file, quizId, theme.name);
+                    } else {
+                        showMenu();
+                    }
+                });
+            } else {
+                showMenu();
+            }
+        });
+    </script>
+</body>
+</html>

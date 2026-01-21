@@ -7,6 +7,9 @@ function game(game_id)
     // Store the game_id globally so other functions can access it
     window.currentGameId = game_id;
     
+    // Update URL with game parameter
+    window.history.pushState({}, '', '?quiz=' + encodeURIComponent(game_id));
+    
     //starts preformanse monitor
     var t0 = performance.now();
 

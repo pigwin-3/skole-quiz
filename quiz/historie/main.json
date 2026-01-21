@@ -7,6 +7,14 @@
       "about": "Kilder:<br>NDLA, Store norske leksikon, Stortinget.no, Norgeshistorie.no, Gry sine timer",
       "qn": 1814,
       "file": "1814qna.json"
+    },
+    {
+      "ID": "INDREV",
+      "categoryID": "historie",
+      "Name": "Den industrielle revolusjon",
+      "about": "Kilder:<br> Gry sin presentasjon, SNL, NDLA, Alle tiders historie påbygg (LK20) (bm)",
+      "qn": 152,
+      "file": "indrev.json"
     }
   ]
 }

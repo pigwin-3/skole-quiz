@@ -1,0 +1,394 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID": "INDREV",
+      "qn": "Hva menes med at vi lever i en «permanent revolusjon»?",
+      "options": [
+        "At samfunnet stadig endres gjennom teknologisk utvikling",
+        "At det alltid er politiske opprør",
+        "At industrien aldri stopper helt opp",
+        "At kriger preger samfunnet kontinuerlig"
+      ],
+      "answer": 1,
+      "explanation": "Begrepet viser til kontinuerlige teknologiske og samfunnsmessige endringer."
+    },
+    {
+      "qnID": 2,
+      "themeID": "INDREV",
+      "qn": "Hvordan foregikk vareproduksjon før den industrielle revolusjon?",
+      "options": [
+        "I store statlige fabrikker",
+        "Som hjemmeproduksjon og håndverk",
+        "Med elektriske maskiner",
+        "Gjennom masseproduksjon"
+      ],
+      "answer": 2,
+      "explanation": "Produksjonen foregikk hovedsakelig som håndverk og hjemmeindustri."
+    },
+    {
+      "qnID": 3,
+      "themeID": "INDREV",
+      "qn": "Hva kjennetegner forleggersystemet?",
+      "options": [
+        "Arbeidere bodde i fabrikkene",
+        "Staten eide produksjonsmidlene",
+        "Kjøpmenn ga råvarer til familier som produserte hjemme",
+        "Maskiner erstattet håndverkere"
+      ],
+      "answer": 3,
+      "explanation": "Forleggere leverte råvarer og solgte ferdige produkter."
+    },
+    {
+      "qnID": 4,
+      "themeID": "INDREV",
+      "qn": "Hvilken energikilde var avgjørende for dampmaskinen?",
+      "options": [
+        "Vannkraft",
+        "Ved",
+        "Olje",
+        "Kull"
+      ],
+      "answer": 4,
+      "explanation": "Kull var den viktigste energikilden for dampmaskinen."
+    },
+    {
+      "qnID": 5,
+      "themeID": "INDREV",
+      "qn": "Hvor startet den industrielle revolusjonen?",
+      "options": [
+        "Frankrike",
+        "Storbritannia",
+        "Tyskland",
+        "USA"
+      ],
+      "answer": 2,
+      "explanation": "Den industrielle revolusjonen startet i Storbritannia."
+    },
+    {
+      "qnID": 6,
+      "themeID": "INDREV",
+      "qn": "Hvilken betydning hadde dampmaskinen?",
+      "options": [
+        "Den reduserte behovet for råvarer",
+        "Den gjorde produksjonen uavhengig av naturkrefter",
+        "Den avskaffet barnearbeid",
+        "Den stoppet urbanisering"
+      ],
+      "answer": 2,
+      "explanation": "Dampmaskinen muliggjorde fabrikkdrift uavhengig av vind og vann."
+    },
+    {
+      "qnID": 7,
+      "themeID": "INDREV",
+      "qn": "Hva var enclosure-bevegelsen?",
+      "options": [
+        "Sammenslåing av jord til større enheter",
+        "Urbanisering av byene",
+        "Privatisering av fabrikker",
+        "Avskaffelse av livegenskap"
+      ],
+      "answer": 1,
+      "explanation": "Inngjerding førte til mer effektivt jordbruk."
+    },
+    {
+      "qnID": 8,
+      "themeID": "INDREV",
+      "qn": "Hvilken konsekvens hadde befolkningsveksten i Storbritannia?",
+      "options": [
+        "Mindre etterspørsel etter varer",
+        "Overskudd av arbeidskraft",
+        "Lavere matproduksjon",
+        "Færre byer"
+      ],
+      "answer": 2,
+      "explanation": "Befolkningsvekst skapte arbeidskraft til industrien."
+    },
+    {
+      "qnID": 9,
+      "themeID": "INDREV",
+      "qn": "Hvilken råvare ble særlig viktig i tekstilindustrien på 1700-tallet?",
+      "options": [
+        "Silke",
+        "Ull",
+        "Bomull",
+        "Lin"
+      ],
+      "answer": 3,
+      "explanation": "Bomull fra koloniene ble en nøkkelråvare."
+    },
+    {
+      "qnID": 10,
+      "themeID": "INDREV",
+      "qn": "Hva kjennetegnet merkantilismen?",
+      "options": [
+        "Frihandel uten statlig kontroll",
+        "Staten beskyttet egen handel og produksjon",
+        "Forbud mot eksport",
+        "Ingen tollavgifter"
+      ],
+      "answer": 2,
+      "explanation": "Merkantilismen innebar sterk statlig styring av handel."
+    },
+    {
+      "qnID": 11,
+      "themeID": "INDREV",
+      "qn": "Hva er kapital?",
+      "options": [
+        "Arbeidskraft",
+        "Naturressurser",
+        "Penger og ressurser brukt til investering",
+        "Ferdigvarer"
+      ],
+      "answer": 3,
+      "explanation": "Kapital er ressurser som brukes til å skape mer verdi."
+    },
+    {
+      "qnID": 12,
+      "themeID": "INDREV",
+      "qn": "Hva er kapitalisme?",
+      "options": [
+        "Statlig eierskap av bedrifter",
+        "Privat eiendomsrett og profittmotiv",
+        "Lik fordeling av goder",
+        "Planøkonomi"
+      ],
+      "answer": 2,
+      "explanation": "Kapitalisme bygger på privat eierskap og markeder."
+    },
+    {
+      "qnID": 13,
+      "themeID": "INDREV",
+      "qn": "Hva er frihandel?",
+      "options": [
+        "Handel uten toll og restriksjoner",
+        "Handel kun innenlands",
+        "Statlig styrt handel",
+        "Byttehandel"
+      ],
+      "answer": 1,
+      "explanation": "Frihandel innebærer minst mulig hindringer mellom land."
+    },
+    {
+      "qnID": 14,
+      "themeID": "INDREV",
+      "qn": "Hva er arbeidsdeling?",
+      "options": [
+        "At én arbeider lager hele produktet",
+        "At arbeidet deles opp i spesialiserte oppgaver",
+        "At staten fordeler jobber",
+        "At arbeiderne roterer mellom yrker"
+      ],
+      "answer": 2,
+      "explanation": "Arbeidsdeling øker effektiviteten i produksjonen."
+    },
+    {
+      "qnID": 15,
+      "themeID": "INDREV",
+      "qn": "Hvem var Adam Smith?",
+      "options": [
+        "En industrigründer",
+        "En britisk politiker",
+        "En økonom og filosof",
+        "En fagforeningsleder"
+      ],
+      "answer": 3,
+      "explanation": "Adam Smith regnes som grunnleggeren av økonomisk liberalisme."
+    },
+    {
+      "qnID": 16,
+      "themeID": "INDREV",
+      "qn": "Hva hevdet Adam Smith i «Wealth of Nations»?",
+      "options": [
+        "Staten bør styre all handel",
+        "Markedet fungerer best med minst mulig statlig innblanding",
+        "Handel bør begrenses",
+        "Arbeidsdeling er skadelig"
+      ],
+      "answer": 2,
+      "explanation": "Smith argumenterte for fri konkurranse og markedsøkonomi."
+    },
+    {
+      "qnID": 17,
+      "themeID": "INDREV",
+      "qn": "Hva kjennetegner den andre industrielle revolusjon?",
+      "options": [
+        "Håndverk og hjemmeindustri",
+        "Dampmaskiner og kull",
+        "Elektrisitet, olje og kjemisk industri",
+        "Avindustrialisering"
+      ],
+      "answer": 3,
+      "explanation": "Den andre fasen var preget av ny teknologi og energi."
+    },
+    {
+      "qnID": 18,
+      "themeID": "INDREV",
+      "qn": "Hvilket land gikk forbi Storbritannia industrielt på slutten av 1800-tallet?",
+      "options": [
+        "Frankrike",
+        "Tyskland",
+        "USA",
+        "Japan"
+      ],
+      "answer": 2,
+      "explanation": "Tyskland satset tungt på ny teknologi og utdanning."
+    },
+    {
+      "qnID": 19,
+      "themeID": "INDREV",
+      "qn": "Hva var en viktig årsak til urbanisering?",
+      "options": [
+        "Bedre jordbruk",
+        "Færre arbeidsplasser",
+        "Fabrikker trakk folk til byene",
+        "Krig"
+      ],
+      "answer": 3,
+      "explanation": "Industrien skapte arbeidsplasser i byene."
+    },
+    {
+      "qnID": 20,
+      "themeID": "INDREV",
+      "qn": "Hvordan var levekårene i industribyene tidlig?",
+      "options": [
+        "Gode sanitærforhold",
+        "Store boliger",
+        "Elendige og helsefarlige",
+        "Lite forurensning"
+      ],
+      "answer": 3,
+      "explanation": "Byene var preget av slum, sykdom og forurensning."
+    },
+    {
+      "qnID": 21,
+      "themeID": "INDREV",
+      "qn": "Hvem jobbet i fabrikkene?",
+      "options": [
+        "Kun voksne menn",
+        "Kun kvinner",
+        "Menn, kvinner og barn",
+        "Kun faglærte"
+      ],
+      "answer": 3,
+      "explanation": "Hele familier deltok i industrien."
+    },
+    {
+      "qnID": 22,
+      "themeID": "INDREV",
+      "qn": "Hva førte maskinstormerne til?",
+      "options": [
+        "Stopp i industrialiseringen",
+        "Protester mot mekanisering",
+        "Avskaffelse av fabrikker",
+        "Mer barnearbeid"
+      ],
+      "answer": 2,
+      "explanation": "Maskinstormere protesterte mot tap av arbeidsplasser."
+    },
+    {
+      "qnID": 23,
+      "themeID": "INDREV",
+      "qn": "Når ble slaveriet avskaffet i Storbritannia?",
+      "options": [
+        "1807",
+        "1815",
+        "1833",
+        "1847"
+      ],
+      "answer": 3,
+      "explanation": "Slaveriet ble avskaffet i 1833."
+    },
+    {
+      "qnID": 24,
+      "themeID": "INDREV",
+      "qn": "Hvorfor industrialiserte ikke Kina seg først?",
+      "options": [
+        "Manglet kull",
+        "Manglet markeder",
+        "Herskerklassen motarbeidet endring",
+        "Manglet arbeidskraft"
+      ],
+      "answer": 3,
+      "explanation": "Kinesiske eliter fryktet samfunnsendringer."
+    },
+    {
+      "qnID": 25,
+      "themeID": "INDREV",
+      "qn": "Hva kjennetegner økonomisk liberalisme?",
+      "options": [
+        "Statlig kontroll",
+        "Fri konkurranse og privat eiendom",
+        "Planøkonomi",
+        "Monopoler"
+      ],
+      "answer": 2,
+      "explanation": "Økonomisk liberalisme vektlegger frie markeder."
+    },
+    {
+      "qnID": 26,
+      "themeID": "INDREV",
+      "qn": "Hva er proteksjonisme?",
+      "options": [
+        "Frihandel",
+        "Beskyttelse av egen industri med toll",
+        "Uregulert marked",
+        "Eksportforbud"
+      ],
+      "answer": 2,
+      "explanation": "Proteksjonisme beskytter nasjonal industri."
+    },
+    {
+      "qnID": 27,
+      "themeID": "INDREV",
+      "qn": "Hva kjennetegnet USAs industrialisering?",
+      "options": [
+        "Lite naturressurser",
+        "Høye tollmurer og fri næringsutvikling",
+        "Statlig eierskap",
+        "Lav innvandring"
+      ],
+      "answer": 2,
+      "explanation": "USA kombinerte beskyttelse og fri konkurranse."
+    },
+    {
+      "qnID": 28,
+      "themeID": "INDREV",
+      "qn": "Hva var en konsekvens av industrialiseringen globalt?",
+      "options": [
+        "Mindre handel",
+        "Ett verdensmarked",
+        "Isolerte økonomier",
+        "Redusert migrasjon"
+      ],
+      "answer": 2,
+      "explanation": "Verdenshandelen økte kraftig."
+    },
+    {
+      "qnID": 29,
+      "themeID": "INDREV",
+      "qn": "Hva er et monopol?",
+      "options": [
+        "Mange tilbydere i et marked",
+        "Én aktør dominerer markedet",
+        "Statlig handel",
+        "Fri konkurranse"
+      ],
+      "answer": 2,
+      "explanation": "Monopol betyr manglende konkurranse."
+    },
+    {
+      "qnID": 30,
+      "themeID": "INDREV",
+      "qn": "Hvilken sammenheng har den industrielle revolusjon med klimakrisen?",
+      "options": [
+        "Ingen sammenheng",
+        "Redusert forurensning",
+        "Økt bruk av fossile brensler",
+        "Kun lokale effekter"
+      ],
+      "answer": 3,
+      "explanation": "Bruk av kull og olje startet økte klimagassutslipp."
+    }
+  ]
+}

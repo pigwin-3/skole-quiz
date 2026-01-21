@@ -4,6 +4,9 @@ async function themeGet(category_id) {
     }
     console.log('category id = ' + category_id);
     
+    // Update URL with category parameter
+    window.history.pushState({}, '', '?category=' + encodeURIComponent(category_id));
+    
     // Start performance monitor
     var t0 = performance.now();
     

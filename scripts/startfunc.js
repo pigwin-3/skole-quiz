@@ -7,6 +7,9 @@ function start()
 var t0 = performance.now();
 document.getElementById("main").innerHTML = "<p>Laster inn kategorier...</p>";
 
+// Clear URL parameters when returning to home
+window.history.pushState({}, '', window.location.pathname);
+
 //fetches the categories from the data service
 dataService.getCategories()
     .then(data => {
