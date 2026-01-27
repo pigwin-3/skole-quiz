@@ -463,13 +463,20 @@ function endGame() {
     const correct = userAnswers.filter(answer => answer.isCorrect).length;
     const total = userAnswers.length;
     
+    // Format time in minutes and seconds
+    const totalSeconds = Math.round(duration / 1000);
+    const minutes = Math.floor(totalSeconds / 60);
+    const seconds = totalSeconds % 60;
+    const timeDisplay = minutes > 0 
+        ? `${minutes} minutt${minutes !== 1 ? 'er' : ''} og ${seconds} sekund${seconds !== 1 ? 'er' : ''}`
+        : `${seconds} sekund${seconds !== 1 ? 'er' : ''}`;
 
     // Generate summary HTML
     let summaryHtml = `
         <div class="top4">
             <div class="title">Spill ferdig!</div>
             <div class="text">Du fikk ${correct} av ${total} riktige</div>
-            <div class="text">Tid brukt: ${Math.round(duration / 1000)} sekunder</div>
+            <div class="text">Tid brukt: ${timeDisplay}</div>
 
             <div id="result">
     `;
