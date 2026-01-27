@@ -15,6 +15,14 @@
       "about": "Kilder:<br> Gry sin presentasjon, SNL, NDLA, Alle tiders historie påbygg (LK20) (bm)",
       "qn": 152,
       "file": "indrev.json"
+    },
+    {
+      "ID": "ideologier_og_nasjonalisme",
+      "categoryID": "historie",
+      "Name": "Ideologier og nasjonalisme",
+      "about": "Kilder:<br>NDLA, SNL, Gry sine timer og presentasjoner, NRK Skole",
+      "qn": 200,
+      "file": "idenas.json"
     }
   ]
 }

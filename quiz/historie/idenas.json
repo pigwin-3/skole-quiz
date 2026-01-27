@@ -1,0 +1,580 @@
+{
+  "questions": [
+    {
+      "qnID": 1,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er en ideologi?",
+      "options": [
+        "Et politisk parti",
+        "Et helhetlig tankesystem om hvordan samfunnet bør styres",
+        "En oppskrift på en veldig god sjokoladekake med krem",
+        "En lov vedtatt av staten"
+      ],
+      "answer": 2,
+      "explanation": "En ideologi er et helhetlig tankesystem med ideer om hvordan samfunnet bør styres og organiseres."
+    },
+    {
+      "qnID": 2,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken hendelse var viktig for framveksten av konservatismen?",
+      "options": [
+        "Den industrielle revolusjon",
+        "Den russiske revolusjon",
+        "Den franske revolusjon"
+      ],
+      "answer": 3,
+      "explanation": "Konservatismen oppstod som en reaksjon på volden og endringene under den franske revolusjonen."
+    },
+    {
+      "qnID": 3,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er et sentralt slagord for konservatismen?",
+      "options": [
+        "Frihet, likhet og brorskap",
+        "Forandre for å bevare",
+        "Yte etter evne, få etter behov",
+        "All makt til arbeiderklassen"
+      ],
+      "answer": 2,
+      "explanation": "Konservatismen ønsker gradvise endringer for å bevare tradisjon og stabilitet."
+    },
+    {
+      "qnID": 4,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken klasse var sosialismens viktigste støttespillere på 1800-tallet?",
+      "options": [
+        "Overklassen",
+        "Adelen",
+        "Arbeiderklassen"
+      ],
+      "answer": 3,
+      "explanation": "Sosialismen vokste fram som arbeiderklassens ideologi."
+    },
+    {
+      "qnID": 5,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva ønsket sosialistene først og fremst?",
+      "options": [
+        "Mer makt til kongen",
+        "Større økonomisk ulikhet",
+        "Større økonomisk likhet og bedre levekår"
+      ],
+      "answer": 3,
+      "explanation": "Sosialismen hadde som mål å redusere ulikhet og forbedre arbeidernes livsvilkår."
+    },
+    {
+      "qnID": 6,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvem skrev Det kommunistiske manifest?",
+      "options": [
+        "Adam Smith og Lavrentiy Beria",
+        "Karl Marx og Friedrich Engels",
+        "Edmund Max og John Engels",
+        "Otto von Bismarck og James Lancaster"
+      ],
+      "answer": 2,
+      "explanation": "Marx og Engels ga ut Det kommunistiske manifest i 1848."
+    },
+    {
+      "qnID": 7,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva mente Marx var den viktigste drivkraften i historien?",
+      "options": [
+        "Teknologisk utvikling",
+        "Religiøs tro",
+        "Klassekamp",
+        "Nasjonalisme"
+      ],
+      "answer": 3,
+      "explanation": "Marx mente at historien var drevet fram av klassekamp mellom overklasse og underklasse."
+    },
+    {
+      "qnID": 8,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er produksjonsmidler?",
+      "options": [
+        "Varer som selges i butikker",
+        "Ressurser som brukes til å produsere varer og tjenester",
+        "Penger staten eier"
+      ],
+      "answer": 2,
+      "explanation": "Produksjonsmidler er for eksempel fabrikker, maskiner, jord og råvarer."
+    },
+    {
+      "qnID": 9,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er målet i et klasseløst samfunn ifølge Marx?",
+      "options": [
+        "At alle er like rike",
+        "At ingen undertrykker andre",
+        "At staten avskaffes umiddelbart",
+        "At private bedrifter styrer alt"
+      ],
+      "answer": 2,
+      "explanation": "Målet er å hindre undertrykking og fordeling etter behov."
+    },
+    {
+      "qnID": 10,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva kjennetegner sosialdemokratiet?",
+      "options": [
+        "Revolusjon som eneste løsning",
+        "Reformer gjennom demokrati",
+        "Avskaffelse av stemmerett",
+        "Eneveldig styre"
+      ],
+      "answer": 2,
+      "explanation": "Sosialdemokratiet ønsker endringer gjennom demokratiske reformer."
+    },
+    {
+      "qnID": 11,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva betyr liberal?",
+      "options": [
+        "Autoritær",
+        "Bakstreversk",
+        "Fri og tolerant"
+      ],
+      "answer": 3,
+      "explanation": "Liberal betyr fri, frisinnet og tolerant."
+    },
+    {
+      "qnID": 12,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva ønsket politisk liberalisme?",
+      "options": [
+        "Sterk stat uten grenser",
+        "Begrenset stat som sikrer rettigheter",
+        "At staten eier alle bedrifter"
+      ],
+      "answer": 2,
+      "explanation": "Liberalismen ønsket en stat som sikrer frihet og rettigheter, men ikke styrer for mye."
+    },
+    {
+      "qnID": 13,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvem forbindes med økonomisk liberalisme?",
+      "options": [
+        "Karl Marx",
+        "Adam Smith",
+        "Edmund Burke"
+      ],
+      "answer": 2,
+      "explanation": "Adam Smith la vekt på fri konkurranse og markedsøkonomi."
+    },
+    {
+      "qnID": 14,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er markedsøkonomi?",
+      "options": [
+        "Staten bestemmer priser og produksjon",
+        "Økonomi styrt av tilbud og etterspørsel",
+        "Kun statlig eierskap"
+      ],
+      "answer": 2,
+      "explanation": "I markedsøkonomi bestemmes produksjon og priser i markedet."
+    },
+    {
+      "qnID": 15,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er planøkonomi?",
+      "options": [
+        "Økonomi styrt av markedet",
+        "Økonomi der staten styrer produksjonen",
+        "Økonomi uten lover"
+      ],
+      "answer": 2,
+      "explanation": "I planøkonomi bestemmer staten hva som skal produseres og fordeles."
+    },
+    {
+      "qnID": 16,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er en reform?",
+      "options": [
+        "En fredelig og planlagt endring",
+        "En voldelig maktovertakelse"
+      ],
+      "answer": 1,
+      "explanation": "En reform skjer gradvis og innenfor lovlige rammer."
+    },
+    {
+      "qnID": 17,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva kjennetegner en revolusjon?",
+      "options": [
+        "Langsom utvikling",
+        "Brå og ofte voldelig endring",
+        "Ingen politiske konsekvenser"
+      ],
+      "answer": 2,
+      "explanation": "Revolusjoner fører til raske og radikale endringer."
+    },
+    {
+      "qnID": 18,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva kjempet feminismen for på 1800-tallet?",
+      "options": [
+        "Mindre rettigheter for kvinner",
+        "Likestilling og stemmerett",
+        "Avskaffelse av utdanning"
+      ],
+      "answer": 2,
+      "explanation": "Feminismen kjempet for likestilling, utdanning og stemmerett."
+    },
+    {
+      "qnID": 19,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva betyr nasjonalisme?",
+      "options": [
+        "At staten skal styre økonomien",
+        "At hvert folk bør ha sin egen stat",
+        "At alle land skal slås sammen"
+      ],
+      "answer": 2,
+      "explanation": "Nasjonalisme hevder at folk med felles språk og kultur bør danne egen stat."
+    },
+    {
+      "qnID": 20,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva kan være en negativ side ved nasjonalisme?",
+      "options": [
+        "Fellesskap",
+        "Sjåvinisme og fiendtlighet",
+        "Demokratisering"
+      ],
+      "answer": 2,
+      "explanation": "Nasjonalisme kan bli sjåvinistisk og føre til konflikt. (Sjåvinistisk = å tro at sin egen gruppe er bedre enn andre grupper.)"
+    },
+    {
+      "qnID": 21,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva mente konservative om hvordan endringer i samfunnet burde skje?",
+      "options": [
+        "Gjennom raske og radikale revolusjoner",
+        "Gjennom gradvise reformer basert på tradisjon",
+        "Gjennom full statlig kontroll",
+        "Gjennom klassekamp"
+      ],
+      "answer": 2,
+      "explanation": "Konservatismen vektlegger gradvise endringer for å bevare tradisjon, stabilitet og nedarvet visdom."
+    },
+    {
+      "qnID": 22,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva betyr slagordet «Ett folk, én stat»?",
+      "options": [
+        "Alle folk er like",
+        "Hver nasjon bør ha sin egen stat",
+        "Staten er viktigst"
+      ],
+      "answer": 2,
+      "explanation": "Slagordet uttrykker nasjonalistisk selvbestemmelse."
+    },
+    {
+      "qnID": 23,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er demos-nasjonalisme?",
+      "options": [
+        "Etnisk basert nasjonalisme",
+        "Politisk nasjonalisme basert på statsborgerskap",
+        "Religiøs nasjonalisme"
+      ],
+      "answer": 2,
+      "explanation": "Demos-nasjonalisme bygger på politiske verdier og statsborgerskap."
+    },
+    {
+      "qnID": 24,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er etnos-nasjonalisme?",
+      "options": [
+        "Nasjonalisme basert på språk og kultur",
+        "Nasjonalisme basert på lover",
+        "Globalisme"
+      ],
+      "answer": 1,
+      "explanation": "Etnos-nasjonalisme legger vekt på felles språk, kultur og historie."
+    },
+    {
+      "qnID": 25,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva førte nasjonalismen i Europa til på 1800-tallet?",
+      "options": [
+        "Ingen endringer",
+        "Dannelse av nye nasjonalstater",
+        "Mindre konflikter"
+      ],
+      "answer": 2,
+      "explanation": "Nasjonalismen bidro til samling og oppløsning av stater."
+    },
+    {
+      "qnID": 26,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva var Pariskommunen i 1871?",
+      "options": [
+        "En konservativ reform",
+        "En revolusjonær arbeiderstyrt kommune",
+        "Et monarki"
+      ],
+      "answer": 2,
+      "explanation": "Pariskommunen var et revolusjonært, sosialistisk styre i Paris."
+    },
+    {
+      "qnID": 27,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva betyr begrepet utbytting i marxismen?",
+      "options": [
+        "At arbeidere får for høy lønn",
+        "At arbeidere får mindre betalt enn verdien de skaper",
+        "At staten tar skatt"
+      ],
+      "answer": 2,
+      "explanation": "Utbytting skjer når arbeidernes lønn er lavere enn verdien av arbeidet deres."
+    },
+    {
+      "qnID": 28,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er proletariatet?",
+      "options": [
+        "Overklassen",
+        "Arbeiderklassen",
+        "Adelen"
+      ],
+      "answer": 2,
+      "explanation": "Proletariatet er arbeiderklassen i industrisamfunnet."
+    },
+    {
+      "qnID": 29,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hva er autoritært styre?",
+      "options": [
+        "Styresett med stor personlig frihet",
+        "Styresett med streng lydighet og undertrykkelse",
+        "Direkte demokrati"
+      ],
+      "answer": 2,
+      "explanation": "Autoritære styresett krever lydighet og bruker ofte undertrykkelse."
+    },
+    {
+      "qnID": 30,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvorfor er sosialisme viktig i moderne demokratier?",
+      "options": [
+        "Den har bidratt til velferdsordninger og rettigheter",
+        "Den avskaffet demokrati",
+        "Den styrket enevelde"
+      ],
+      "answer": 1,
+      "explanation": "Sosialistiske ideer har bidratt til velferdsstat, stemmerett og sosial trygghet."
+    },
+    {
+        "qnID": 31,
+        "themeID": "ideologier_og_nasjonalisme",
+        "qn": "Hva mente marxistene om staten i et kapitalistisk samfunn?",
+        "options": [
+        "At staten var nøytral",
+        "At staten var et redskap for arbeiderklassen",
+        "At staten var et redskap for de rike",
+        "At staten ikke betydde noe"
+        ],
+        "answer": 3,
+        "explanation": "Marxister mente at staten tjente interessene til de rike og mektige."
+    },
+    {
+        "qnID": 32,
+        "themeID": "ideologier_og_nasjonalisme",
+        "qn": "Hva er proletariatets diktatur?",
+        "options": [
+        "Et enevelde styrt av kongen",
+        "En overgangsfase der arbeiderklassen har makten",
+        "Et klasseløst samfunn",
+        "Et liberalt demokrati"
+        ],
+        "answer": 2,
+        "explanation": "Proletariatets diktatur er en overgangsfase der arbeiderklassen styrer staten."
+    },
+    {
+        "qnID": 33,
+        "themeID": "ideologier_og_nasjonalisme",
+        "qn": "Hva var et hovedmål med Wienerkongressen i 1814–1815?",
+        "options": [
+        "Å spre demokrati",
+        "Å skape maktbalanse og stabilitet i Europa",
+        "Å samle Tyskland",
+        "Å styrke sosialismen"
+        ],
+        "answer": 2,
+        "explanation": "Wienerkongressen ønsket å hindre nye revolusjoner og bevare stabilitet."
+    },
+    {
+        "qnID": 34,
+        "themeID": "ideologier_og_nasjonalisme",
+        "qn": "Hva betyr begrepet sjåvinisme?",
+        "options": [
+        "Sterk kjærlighet til naturen",
+        "Fredelig nasjonalfølelse",
+        "Aggressiv og fiendtlig nasjonalisme",
+        "Internasjonalt samarbeid"
+        ],
+        "answer": 3,
+        "explanation": "Sjåvinisme er en ekstrem form for nasjonalisme med fiendtlighet mot andre."
+    },
+    {
+        "qnID": 35,
+        "themeID": "ideologier_og_nasjonalisme",
+        "qn": "Hva kjennetegner en blandingsøkonomi?",
+        "options": [
+        "Kun statlig eierskap",
+        "Kun privat eierskap",
+        "En kombinasjon av privat og statlig eierskap"
+        ],
+        "answer": 3,
+        "explanation": "Blandingsøkonomi kombinerer markedsøkonomi og statlig styring."
+    },
+    {
+        "qnID": 36,
+        "themeID": "ideologier_og_nasjonalisme",
+        "qn": "Hva var en viktig årsak til framveksten av nasjonalisme på 1800-tallet?",
+        "options": [
+        "Opplysningstiden og Napoleonskrigene",
+        "Den kalde krigen",
+        "Internett",
+        "FN"
+        ],
+        "answer": 1,
+        "explanation": "Opplysningstiden, Napoleonskrigene og politiske endringer bidro til nasjonalisme."
+    },
+    {
+        "qnID": 37,
+        "themeID": "ideologier_og_nasjonalisme",
+        "qn": "Hva betyr slagordet «Yte etter evne, få etter behov»?",
+        "options": [
+        "Alle skal få lik lønn",
+        "Alle jobber like mye",
+        "Alle bidrar det de kan og får det de trenger",
+        "Staten bestemmer alt"
+        ],
+        "answer": 3,
+        "explanation": "Slagordet uttrykker marxismens ideal for det klasseløse samfunnet."
+    },
+    {
+      "qnID": 38,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi sier: «Forandre for å bevare», og legger vekt på tradisjon og gradvise endringer?",
+      "options": [
+        "Konservatisme",
+        "Liberalisme",
+        "Sosialisme",
+        "Marxisme",
+        "Sosialdemokrati",
+        "Feminisme"
+      ],
+      "answer": 1,
+      "explanation": "Dette er konservatismen, som ønsker å bevare tradisjon og innføre endringer gradvis."
+    },
+    {
+      "qnID": 39,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi fremhever frihet, individuell rett til eiendom, og at staten skal begrense sin makt?",
+      "options": [
+        "Konservatisme",
+        "Liberalisme",
+        "Økonomisk liberalisme",
+        "Sosialisme",
+        "Sosialdemokrati",
+        "Sosial-liberalisme"
+      ],
+      "answer": 2,
+      "explanation": "Liberalisme legger vekt på individuell frihet og begrenset statlig makt."
+    },
+    {
+      "qnID": 40,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi legger særlig vekt på fri konkurranse, markedsmekanismer og privat eierskap i økonomien?",
+      "options": [
+        "Konservatisme",
+        "Sosial-liberalisme",
+        "Sosialisme",
+        "Økonomisk liberalisme",
+        "Marxisme",
+        "Feminisme"
+      ],
+      "answer": 4,
+      "explanation": "Økonomisk liberalisme fokuserer på fri konkurranse og at markedet styrer økonomien."
+    },
+    {
+      "qnID": 41,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi ønsker både personlig frihet og sosiale reformer, som bedre arbeidsforhold og utvidet stemmerett?",
+      "options": [
+        "Liberalisme",
+        "Sosial-liberalisme",
+        "Sosialisme",
+        "Sosialdemokrati",
+        "Marxisme",
+        "Feminisme"
+      ],
+      "answer": 2,
+      "explanation": "Sosial-liberalisme kombinerer individuell frihet med sosiale reformer."
+    },
+    {
+      "qnID": 42,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi ønsker å redusere sosial ulikhet gjennom kollektivt eierskap og kontroll over produksjonsmidlene?",
+      "options": [
+        "Sosialisme",
+        "Sosialdemokrati",
+        "Marxisme",
+        "Konservatisme",
+        "Liberalisme",
+        "Feminisme"
+      ],
+      "answer": 1,
+      "explanation": "Sosialisme vil redusere ulikhet ved å overføre eierskap og makt fra private til kollektive strukturer."
+    },
+    {
+      "qnID": 43,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi mener at endring kan skje gjennom demokrati, stemmerett og gradvise reformer, men fortsatt ønsker økonomisk rettferdighet?",
+      "options": [
+        "Sosial-liberalisme",
+        "Marxisme",
+        "Konservatisme",
+        "Liberalisme",
+        "Feminisme",
+        "Sosialdemokrati"
+      ],
+      "answer": 6,
+      "explanation": "Sosialdemokrati kombinerer sosial rettferdighet med demokratiske reformer fremfor revolusjon."
+    },
+    {
+      "qnID": 44,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi tror på klassekamp som historiens drivkraft og et klasseløst samfunn som mål?",
+      "options": [
+        "Sosialisme",
+        "Marxisme",
+        "Sosialdemokrati",
+        "Liberalisme",
+        "Konservatisme",
+        "Feminisme"
+      ],
+      "answer": 2,
+      "explanation": "Marxisme ser klassekamp som grunnlaget for samfunnsutvikling og ønsker et klasseløst samfunn."
+    },
+    {
+      "qnID": 45,
+      "themeID": "ideologier_og_nasjonalisme",
+      "qn": "Hvilken ideologi kjemper spesielt for kvinners rettigheter, stemmerett og likestilling?",
+      "options": [
+        "Sosialisme",
+        "Sosialdemokrati",
+        "Marxisme",
+        "Feminisme",
+        "Liberalisme",
+        "Konservatisme"
+      ],
+      "answer": 4,
+      "explanation": "Feminisme fokuserer på kvinners rettigheter og likestilling mellom kjønnene."
+    }
+  ]
+}

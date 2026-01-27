@@ -140,6 +140,11 @@
                         }
                     });
                     
+                    // Display explanation if available
+                    if (question.explanation) {
+                        html += `<p style="margin-top: 10px;"><em>Forklaring: ${question.explanation}</em></p>`;
+                    }
+                    
                     html += '</div>';
                 });
                 
