@@ -1,0 +1,525 @@
+{
+  "title": "Den store krigen",
+  "questions": [
+  {
+    "qnID": 1,
+    "themeID": "1vk",
+    "qn": "Hva kalles perioden mellom 1871 og 1914?",
+    "options": [
+      "Den væpnede freden",
+      "Den kalde krigen",
+      "Imperialismens gullalder",
+      "Stormaktstiden"
+    ],
+    "answer": 1,
+    "explanation": "Perioden kalles den væpnede freden fordi Europa var preget av opprustning og spenning, men uten storkrig."
+  },
+  {
+    "qnID": 2,
+    "themeID": "1vk",
+    "qn": "Hva var hovedmålet med Wienerkongressen 1814–1815?",
+    "options": [
+      "Skape maktbalanse i Europa",
+      "Straffe Frankrike",
+      "Støtte nasjonalisme",
+      "Avskaffe kolonier"
+    ],
+    "answer": 1,
+    "explanation": "Wienerkongressen skulle skape likevekt slik at ingen stat ble for mektig."
+  },
+  {
+    "qnID": 3,
+    "themeID": "1vk",
+    "qn": "Hva står huskeregelen PRIMAN for?",
+    "options": [
+      "Propaganda, Revansjisme, Imperialisme, Militarisme, Allianser, Nasjonalisme",
+      "Politikk, Revolusjon, Industri, Makt, Allianser, Nasjon",
+      "Produksjon, Ressurser, Ideologi, Militær, Avtaler, Naboland",
+      "Prestisje, Rasisme, Industri, Mobilisering, Angrep, Nasjon"
+    ],
+    "answer": 1,
+    "explanation": "PRIMAN oppsummerer de dypereliggende årsakene til krigen."
+  },
+  {
+    "qnID": 4,
+    "themeID": "1vk",
+    "qn": "Hvilke land var med i Trippelalliansen?",
+    "options": [
+      "Tyskland, Østerrike-Ungarn, Italia",
+      "Frankrike, Russland, Storbritannia",
+      "Serbia, Russland, Frankrike",
+      "Tyskland, Italia, Russland"
+    ],
+    "answer": 1,
+    "explanation": "Trippelalliansen bestod av Tyskland, Østerrike-Ungarn og Italia."
+  },
+  {
+    "qnID": 5,
+    "themeID": "1vk",
+    "qn": "Hvilke land var med i Trippelententen?",
+    "options": [
+      "Frankrike, Russland, Storbritannia",
+      "Tyskland, Italia, Østerrike-Ungarn",
+      "Serbia, Italia, Russland",
+      "Storbritannia, Tyskland, Frankrike"
+    ],
+    "answer": 1,
+    "explanation": "Trippelententen bestod av Frankrike, Russland og Storbritannia."
+  },
+  {
+    "qnID": 6,
+    "themeID": "1vk",
+    "qn": "Hva var revansjisme knyttet til?",
+    "options": [
+      "Frankrikes tap av Alsace-Lorraine",
+      "Russlands tap i Krimkrigen",
+      "Tysklands tap av kolonier",
+      "Serbias nederlag i Balkankrigene"
+    ],
+    "answer": 1,
+    "explanation": "Frankrike ønsket hevn etter tapet av Alsace-Lorraine i 1871."
+  },
+  {
+    "qnID": 7,
+    "themeID": "1vk",
+    "qn": "Hva kjennetegnet militarismen før 1914?",
+    "options": [
+      "Nedrustning",
+      "Pasifisme",
+      "Opprustning og massehærer",
+      "Lite fokus på forsvar"
+    ],
+    "answer": 3,
+    "explanation": "Stormaktene rustet opp og forberedte seg på krig."
+  },
+  {
+    "qnID": 8,
+    "themeID": "1vk",
+    "qn": "Hvilket område ble kalt Europas kruttønne?",
+    "options": [
+      "Alsace",
+      "Rhinland",
+      "Balkan",
+      "Skandinavia"
+    ],
+    "answer": 3,
+    "explanation": "Balkan var preget av sterke nasjonale og etniske konflikter."
+  },
+  {
+    "qnID": 9,
+    "themeID": "1vk",
+    "qn": "Hva skjedde 28. juni 1914?",
+    "options": [
+      "Skuddene i Sarajevo",
+      "Tyskland erklærte krig mot Frankrike",
+      "Russland mobiliserte",
+      "Versaillestraktaten ble undertegnet"
+    ],
+    "answer": 1,
+    "explanation": "Erkehertug Franz Ferdinand ble drept i Sarajevo."
+  },
+  {
+    "qnID": 10,
+    "themeID": "1vk",
+    "qn": "Hva var blankofullmakten?",
+    "options": [
+      "Tysk støtte til Østerrike-Ungarn",
+      "En fredsavtale",
+      "En mobiliseringsordre",
+      "Wilsons fredsplan"
+    ],
+    "answer": 1,
+    "explanation": "Tyskland lovet full støtte til Østerrike-Ungarn."
+  },
+  {
+    "qnID": 11,
+    "themeID": "1vk",
+    "qn": "Hva var det 48-timers ultimatumet Østerrike-Ungarn sendte Serbia?",
+    "options": [
+      "Et krav om territorier",
+      "Et krav om full militær kontroll",
+      "En liste med krav etter attentatet i Sarajevo",
+      "En fredsavtale"
+    ],
+    "answer": 3,
+    "explanation": "Østerrike-Ungarn sendte en streng kravliste etter attentatet. Serbia godtok nesten alt, men ikke alt."
+  },
+  {
+    "qnID": 12,
+    "themeID": "1vk",
+    "qn": "Hvorfor mobiliserte Russland i juli 1914?",
+    "options": [
+      "For å støtte Serbia",
+      "For å støtte Tyskland",
+      "For å angripe Frankrike",
+      "For å sikre kolonier"
+    ],
+    "answer": 1,
+    "explanation": "Russland så seg forpliktet til å støtte Serbia."
+  },
+  {
+    "qnID": 13,
+    "themeID": "1vk",
+    "qn": "Hva var Schlieffenplanen?",
+    "options": [
+      "En russisk angrepsplan",
+      "En britisk sjøblokade",
+      "Tysk plan for å unngå tofrontskrig",
+      "Wilsons fredsplan"
+    ],
+    "answer": 3,
+    "explanation": "Planen gikk ut på å slå Frankrike raskt før Russland rakk å mobilisere."
+  },
+  {
+    "qnID": 14,
+    "themeID": "1vk",
+    "qn": "Hvorfor gikk Storbritannia inn i krigen?",
+    "options": [
+      "Tyskland angrep Russland",
+      "Italia skiftet side",
+      "Det osmanske riket erklærte krig",
+      "Tyskland gikk inn i Belgia"
+    ],
+    "answer": 4,
+    "explanation": "Storbritannia hadde garantert Belgias nøytralitet."
+  },
+  {
+    "qnID": 15,
+    "themeID": "1vk",
+    "qn": "Hva kjennetegnet krigen på vestfronten?",
+    "options": [
+      "Rask fremrykking",
+      "Kun luftkrig",
+      "Kun sjøslag",
+      "Skyttergravskrig og stillingskrig"
+    ],
+    "answer": 4,
+    "explanation": "Fronten lå fast i skyttergraver over lang tid."
+  },
+  {
+    "qnID": 16,
+    "themeID": "1vk",
+    "qn": "Hva var stillingskrig?",
+    "options": [
+      "Krig uten våpen",
+      "Kun sjøblokade",
+      "Bare defensiv krig",
+      "Krig der frontlinjene sto nesten stille"
+    ],
+    "answer": 4,
+    "explanation": "Frontene flyttet seg bare få kilometer til enorme tap."
+  },
+  {
+    "qnID": 17,
+    "themeID": "1vk",
+    "qn": "Hvilke to slag i 1916 symboliserer meningsløse tap?",
+    "options": [
+      "Waterloo og Leipzig",
+      "Marne og Brest",
+      "Gallipoli og Sarajevo",
+      "Somme og Verdun"
+    ],
+    "answer": 4,
+    "explanation": "Over 1,5 millioner ble drept eller såret uten avgjørende resultat."
+  },
+  {
+    "qnID": 18,
+    "themeID": "1vk",
+    "qn": "Hva var nytt med våpenteknologien under krigen?",
+    "options": [
+      "Sverd og lanser",
+      "Atomvåpen",
+      "Gass, tanks og maskingevær",
+      "Kun kavaleri"
+    ],
+    "answer": 3,
+    "explanation": "Industrialiseringen gjorde krigen mer dødelig."
+  },
+  {
+    "qnID": 19,
+    "themeID": "1vk",
+    "qn": "Hva skjedde i Russland i 1917?",
+    "options": [
+      "Seier over Tyskland",
+      "Seier på vestfronten",
+      "Allianse med USA",
+      "Revolusjon og maktskifte"
+    ],
+    "answer": 4,
+    "explanation": "Den russiske revolusjonen førte til at Russland trakk seg ut av krigen."
+  },
+  {
+    "qnID": 20,
+    "themeID": "1vk",
+    "qn": "Hva het fredsavtalen mellom Russland og Tyskland i 1918?",
+    "options": [
+      "Versailles",
+      "Locarno",
+      "Paris",
+      "Brest-Litovsk"
+    ],
+    "answer": 4,
+    "explanation": "Russland måtte gi fra seg store landområder."
+  },
+  {
+    "qnID": 21,
+    "themeID": "1vk",
+    "qn": "Hva var uinnskrenket ubåtkrig?",
+    "options": [
+      "Angrep bare på militære skip",
+      "Handelsboikott",
+      "Blokade uten våpen",
+      "Angrep på alle skip, også nøytrale"
+    ],
+    "answer": 4,
+    "explanation": "Tyske ubåter senket både allierte og nøytrale skip."
+  },
+  {
+    "qnID": 22,
+    "themeID": "1vk",
+    "qn": "Hvorfor gikk USA inn i krigen i 1917?",
+    "options": [
+      "Allianse med Russland",
+      "Fransk press",
+      "Kolonier i Afrika",
+      "Ubåtkrig og trussel fra Tyskland mot USA"
+    ],
+    "answer": 4,
+    "explanation": "Tysk ubåtkrig og forsøk på å få Mexico med i krigen var avgjørende."
+  },
+  {
+    "qnID": 23,
+    "themeID": "1vk",
+    "qn": "Hva var Wilsons 14 punkter?",
+    "options": [
+      "Straff mot Tyskland",
+      "Allianseavtale",
+      "Militær strategi",
+      "En plan for rettferdig fred"
+    ],
+    "answer": 4,
+    "explanation": "Wilson ønsket selvbestemmelse og internasjonalt samarbeid."
+  },
+  {
+    "qnID": 24,
+    "themeID": "1vk",
+    "qn": "Når ble våpenhvilen undertegnet?",
+    "options": [
+      "1. august 1914",
+      "3. mars 1918",
+      "11. november 1918 kl. 11",
+      "28. juni 1919"
+    ],
+    "answer": 3,
+    "explanation": "Våpenhvilen ble undertegnet 11.11.1918 klokken 11."
+  },
+  {
+    "qnID": 25,
+    "themeID": "1vk",
+    "qn": "Hvilke fire keiserriker forsvant etter krigen?",
+    "options": [
+      "Frankrike, Italia, Serbia, Belgia",
+      "Serbia, Bulgaria, Tyrkia, Hellas",
+      "Storbritannia, Russland, Italia, Tyskland",
+      "Tyskland, Østerrike-Ungarn, Russland, Det osmanske riket"
+    ],
+    "answer": 4,
+    "explanation": "Fire store imperier gikk i oppløsning."
+  },
+  {
+    "qnID": 26,
+    "themeID": "1vk",
+    "qn": "Hva var krigsskyldparagrafen?",
+    "options": [
+      "Alle land delte skylden",
+      "Tyskland fikk hovedskylden",
+      "Russland fikk skylden",
+      "Ingen fikk skyld"
+    ],
+    "answer": 2,
+    "explanation": "Tyskland ble juridisk ansvarlig for krigen."
+  },
+  {
+    "qnID": 27,
+    "themeID": "den_store_krigen",
+    "qn": "Hva måtte Tyskland betale i krigserstatning?",
+    "options": [
+      "50 millioner mark",
+      "132 milliarder gullmark",
+      "10 milliarder dollar",
+      "Ingenting"
+    ],
+    "answer": 2,
+    "explanation": "Beløpet (132 mrd. gullmark i 1921) ble redusert gjennom Youngplanen til ca. 112 mrd. I 1932 ble kravet i praksis opphevet på Lausanne-konferansen." 
+  },
+  {
+    "qnID": 28,
+    "themeID": "1vk",
+    "qn": "Hva var Folkeforbundet?",
+    "options": [
+      "En militærallianse",
+      "En internasjonal fredsorganisasjon",
+      "Tysk regjering",
+      "En handelsavtale"
+    ],
+    "answer": 2,
+    "explanation": "Folkeforbundet skulle sikre fred etter krigen."
+  },
+  {
+    "qnID": 29,
+    "themeID": "1vk",
+    "qn": "Hvilket land ble ikke medlem av Folkeforbundet?",
+    "options": [
+      "Frankrike",
+      "Storbritannia",
+      "USA",
+      "Italia"
+    ],
+    "answer": 3,
+    "explanation": "USA valgte å stå utenfor."
+  },
+  {
+    "qnID": 30,
+    "themeID": "1vk",
+    "qn": "Hva var dolkestøtlegenden?",
+    "options": [
+      "En militær strategi",
+      "En myte om at Tyskland ble forrådt innenfra",
+      "En fredsavtale",
+      "En revolusjon"
+    ],
+    "answer": 2,
+    "explanation": "Nazistene hevdet at Tyskland ikke tapte militært, men ble forrådt."
+  },
+  {
+    "qnID": 31,
+    "themeID": "1vk",
+    "qn": "Hvor mange soldater døde omtrent i krigen?",
+    "options": [
+      "Ca. 1 million",
+      "Ca. 5 millioner",
+      "Ca. 10 millioner",
+      "Ca. 30 millioner"
+    ],
+    "answer": 3,
+    "explanation": "Omtrent 9-11 millioner soldater døde. (ca. 18 millioner døde totalt, inkludert sivile.)"
+  },
+  {
+    "qnID": 32,
+    "themeID": "1vk",
+    "qn": "Hva var spanskesyken?",
+    "options": [
+      "En krigsstrategi",
+      "En influensaepidemi",
+      "En fredsavtale",
+      "En type gass"
+    ],
+    "answer": 2,
+    "explanation": "En pandemi som drepte flere enn selve krigen."
+  },
+  {
+    "qnID": 33,
+    "themeID": "1vk",
+    "qn": "Hvilket nytt land oppstod etter krigen?",
+    "options": [
+      "Jugoslavia",
+      "Preussen",
+      "Bayern",
+      "Bøhmen"
+    ],
+    "answer": 1,
+    "explanation": "Jugoslavia var en av de nye statene."
+  },
+  {
+    "qnID": 34,
+    "themeID": "1vk",
+    "qn": "Hvordan påvirket krigen kvinnene?",
+    "options": [
+      "Mindre arbeid",
+      "Flere tok arbeid i industri",
+      "Ingen endring",
+      "Kun militærtjeneste"
+    ],
+    "answer": 2,
+    "explanation": "Kvinner tok over mange jobber under krigen."
+  },
+  {
+    "qnID": 35,
+    "themeID": "1vk",
+    "qn": "Hva skjedde med Østerrike-Ungarn etter krigen?",
+    "options": [
+      "Ble større",
+      "Ble oppløst",
+      "Ble en kolonimakt",
+      "Ble kommunistisk stormakt"
+    ],
+    "answer": 2,
+    "explanation": "Riket ble delt opp i flere nye stater."
+  },
+  {
+    "qnID": 36,
+    "themeID": "1vk",
+    "qn": "Hvorfor kalles krigen en verdenskrig?",
+    "options": [
+      "Kun europeisk konflikt",
+      "Kun kolonikriger",
+      "Flere verdensdeler ble involvert",
+      "Bare USA deltok"
+    ],
+    "answer": 3,
+    "explanation": "Krigen spredte seg til kolonier, Midtøsten, Asia og havene."
+  },
+  {
+    "qnID": 37,
+    "themeID": "1vk",
+    "qn": "Hvordan forholdt Norden seg til krigen?",
+    "options": [
+      "Alle deltok",
+      "Alle var nøytrale",
+      "Kun Norge deltok",
+      "Kun Sverige deltok"
+    ],
+    "answer": 2,
+    "explanation": "Danmark, Norge og Sverige var nøytrale."
+  },
+  {
+    "qnID": 38,
+    "themeID": "1vk",
+    "qn": "Hva var et viktig resultat av Versaillestraktaten?",
+    "options": [
+      "Varig fred",
+      "Sterkt og stabilt demokrati overalt",
+      "Misnøye og grobunn for ekstremisme",
+      "Oppløsning av USA"
+    ],
+    "answer": 3,
+    "explanation": "Den harde freden bidro til politisk uro."
+  },
+  {
+    "qnID": 39,
+    "themeID": "1vk",
+    "qn": "Hva ble Weimarrepublikken?",
+    "options": [
+      "Keiserdømme",
+      "Demokratisk republikk i Tyskland",
+      "Militærdiktatur",
+      "Kolonimakt"
+    ],
+    "answer": 2,
+    "explanation": "Tyskland ble republikk etter keiserens avgang."
+  },
+  {
+    "qnID": 40,
+    "themeID": "1vk",
+    "qn": "Hvorfor regnes USAs inntreden som vendepunktet?",
+    "options": [
+      "USA hadde flest kolonier",
+      "USA hadde enorme ressurser og soldater",
+      "USA stoppet Russland",
+      "USA kontrollerte Balkan"
+    ],
+    "answer": 2,
+    "explanation": "USA tilføyde enorme økonomiske og militære ressurser."
+  }
+  ]
+}

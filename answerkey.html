@@ -134,7 +134,7 @@
                     // Display all options
                     question.options.forEach((option, optionIndex) => {
                         if (optionIndex + 1 === question.answer) {
-                            html += `<p class="option correct-answer">${optionIndex + 1}. ${option}</p>`;
+                            html += `<p class="option correct-answer">${optionIndex + 1}. <span class="checkmark">✓</span> ${option}</p>`;
                         } else {
                             html += `<p class="option">${optionIndex + 1}. ${option}</p>`;
                         }

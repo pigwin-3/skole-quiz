@@ -23,6 +23,14 @@
       "about": "Kilder:<br>NDLA, SNL, Gry sine timer og presentasjoner, NRK Skole",
       "qn": 200,
       "file": "idenas.json"
+    },
+    {
+      "ID": "den_store_krigen",
+      "categoryID": "historie",
+      "Name": "Den store krigen (1. verdenskrig)",
+      "about": "Kilder:<br>NDLA, SNL, Gry sine timer og presentasjoner",
+      "qn": 207,
+      "file": "den_store_krigen.json"
     }
   ]
 }
