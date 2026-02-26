@@ -1,6 +1,6 @@
 //starts preformanse timer
 var t0 = performance.now();
-document.getElementById("main").innerHTML = "<p>Laster inn kategorier...</p>";
+//document.getElementById("main").innerHTML = "<p>Laster inn kategorier...</p>";
 
 //fetches the categories from the data service
 dataService.getCategories()
