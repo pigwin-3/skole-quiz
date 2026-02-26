@@ -99,7 +99,7 @@
         "Adenin, Tymin, Guanin, Cytosin",
         "Adenin, Uracil, Guanin, Cytosin",
         "Adenin, Tymin, Guanin, Uracil",
-        "Adenin, Cytosin, Guanin, Uracil"
+        "Adenin, Cytosin, Guanin, Urin"
       ],
       "answer": 2,
       "explanation": "De fire nitrogenbasene i RNA er Adenin, Uracil, Guanin og Cytosin."
