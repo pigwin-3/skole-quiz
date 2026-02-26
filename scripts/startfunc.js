@@ -18,7 +18,7 @@ dataService.getCategories()
         console.log('loaded categories in ' + loadTime + ' ms');
         if (data.length > 0) {
             //makes the top of the website
-            var Temp = '<div class="title">4pba ultimate quiz platform</div><div class="top1">';
+            var Temp = '<h1 class="title">4pba ultimate quiz platform</h1><div class="top1">';
             //repeats this until all of the data is in boxes
             data.forEach((itemData) => {
                 Temp += '<div class="box">';
