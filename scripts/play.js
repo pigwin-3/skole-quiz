@@ -76,7 +76,7 @@ async function loadQuestionsDirectly() {
         // Load the correct JSON file
         const response = await fetch(`quiz/${categoryFolder}/${selectedTheme.file}`);
         const data = await response.json();
-        gameQuestions = data.questions;
+        gameQuestions = data.questions.map(question => window.dataService.applyOptionRandomization(question));
         
         // Shuffle questions randomly
         gameQuestions = shuffleArray(gameQuestions);

@@ -94,14 +94,14 @@ class DataService {
             questions = questions.map(q => {
                 // If old format, convert to new format
                 if (!q.options && (q.trufal !== undefined)) {
-                    return {
+                    q = {
                         ...q,
                         options: ["Sant", "Usant"],
                         answer: q.trufal === "1" ? 1 : 2,
                         explanation: q.fact || "No explanation provided"
                     };
                 }
-                return q;
+                return this.applyOptionRandomization(q);
             });
             
             // Shuffle questions for randomness
@@ -123,6 +123,36 @@ class DataService {
             console.log('getQuestionsWithAnswers');
         }
         return this.getQuestions(themeId);
+    }
+
+    applyOptionRandomization(question) {
+        if (!question || !Array.isArray(question.options) || question.options.length < 2) {
+            return question;
+        }
+
+        // Only randomize options when explicitly enabled per question.
+        if (Number(question.randomise) !== 1) {
+            return question;
+        }
+
+        const originalAnswerIndex = Number(question.answer) - 1;
+        if (Number.isNaN(originalAnswerIndex) || originalAnswerIndex < 0 || originalAnswerIndex >= question.options.length) {
+            return question;
+        }
+
+        const indexedOptions = question.options.map((text, index) => ({ text, originalIndex: index }));
+        for (let i = indexedOptions.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [indexedOptions[i], indexedOptions[j]] = [indexedOptions[j], indexedOptions[i]];
+        }
+
+        const newAnswerIndex = indexedOptions.findIndex(option => option.originalIndex === originalAnswerIndex);
+
+        return {
+            ...question,
+            options: indexedOptions.map(option => option.text),
+            answer: newAnswerIndex + 1
+        };
     }
 
     async getQuestionSummary(questionId) {

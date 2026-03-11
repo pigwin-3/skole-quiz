@@ -11,6 +11,7 @@
         "Et hormon som styrer vekst"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "DNA (deoksyribonukleinsyre) er arvestoffet som inneholder oppskriften på hvordan kroppen bygges og fungerer. Det består av fire nitrogenbaser: A, T, C og G (adenin, tymin, cytosin og guanin). A og T hører alltid sammen, og C og G hører alltid sammen. Mellom baseparene er det hydrogenbindinger."
     },
     {
@@ -24,6 +25,7 @@
         "En mutasjon i et gen"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Et kromosom er en tettpakket tråd av DNA kveilet rundt proteiner (histoner). Kromosomer inneholder mange gener. Mennesket har totalt 46 kromosomer: 22 par autosomer og 1 par kjønnskromosomer (XX eller XY)."
     },
     {
@@ -37,6 +39,7 @@
         "Gen = en mutasjon, allel = en sykdom"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Et gen er en del av DNA som koder for et protein eller en egenskap. Et allel er en variant av et gen (for eksempel b for «blå» eller B for «brun» variant)."
     },
     {
@@ -50,6 +53,7 @@
         "Kun i blodet"
       ],
       "answer": 3,
+      "randomise": 1,
       "explanation": "Mesteparten av DNA-et hos mennesker finnes i cellekjernen. I tillegg finnes det litt DNA i mitokondriene."
     },
     {
@@ -63,6 +67,7 @@
         "Fire tråder uten basepar"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "DNA består av to tråder i en dobbelheliks (som en tvinnet stige). Hver tråd har en sukker-fosfat-ryggrad, og basene peker innover. Basene binder trådene sammen i basepar."
     },
     {
@@ -76,6 +81,7 @@
         "A, C, G, U – A–C og G–U"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Basene i DNA er A, T, C og G. Baseparene er A–T og C–G."
     },
     {
@@ -89,6 +95,7 @@
         "Peptidbindinger"
       ],
       "answer": 3,
+      "randomise": 1,
       "explanation": "Hydrogenbindinger holder baseparene sammen. A–T har 2 hydrogenbindinger, og C–G har 3."
     },
     {
@@ -102,6 +109,7 @@
         "DNA finnes bare hos noen celler"
       ],
       "answer": 3,
+      "randomise": 1,
       "explanation": "DNA pakkes ved å kveiles rundt histoner (proteiner), og blir dermed svært tettpakket. Slik kan ekstremt lange DNA-tråder få plass i cellekjernen."
     },
     {
@@ -115,6 +123,7 @@
         "Bare kjønnskromosomene"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Genomet er alt DNA i en organisme: både alle gener og de ikke-kodende delene av DNA-et."
     },
     {
@@ -128,6 +137,7 @@
         "Kjønnskromosomer er bare i kjønnsceller, ikke i kroppsceller"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "Kjønnskromosomene er X og Y. Vanligvis er XX = kvinne og XY = mann. For de interesserte: Y-kromosomet har ofte SRY-genet, som starter utvikling i mannlig retning."
     },
     {
@@ -141,6 +151,7 @@
         "Omforming av DNA til protein direkte"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "DNA-replikasjon er kopiering av DNA før celledeling. Det må skje for at dattercellene skal få samme genetiske informasjon."
     },
     {
@@ -154,6 +165,7 @@
         "44"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Kroppsceller hos mennesker har 46 kromosomer (23 par). Kjønnsceller har 23 kromosomer."
     },
     {
@@ -167,6 +179,7 @@
         "At bare miljø bestemmer egenskaper"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Genetisk variasjon betyr at individer i en art har ulike alleler og genkombinasjoner, som gir forskjeller i egenskaper. Dette kan øke sjansen for overlevelse i et miljø i endring. For eksempel er fjellrev tilpasset høyfjellet, mens rødrev er bedre tilpasset lavere områder."
     },
     {
@@ -180,6 +193,7 @@
         "Et ferdig protein"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "En mutasjon er en varig endring i DNA-sekvensen. Den kan endre et gen eller hvordan genet virker."
     },
     {
@@ -193,6 +207,7 @@
         "Alle tre er former for meiose"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Basebytte (substitusjon): én base byttes ut. Delesjon: én eller flere baser fjernes. Insersjon: én eller flere baser settes inn."
     },
     {
@@ -206,6 +221,7 @@
         "Ingen forskjell"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "En mutasjon i en kroppscelle påvirker bare individet og er ikke arvelig. En mutasjon i en kjønnscelle kan arves av avkom."
     },
     {
@@ -219,6 +235,7 @@
         "Mitose, translasjon, befruktning"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Mulige årsaker til mutasjoner er kopieringsfeil i DNA-replikasjon, UV-stråling, ioniserende stråling (radioaktiv stråling), kjemikalier (mutagener), virus og oksidativt stress."
     },
     {
@@ -232,6 +249,7 @@
         "De gjør alltid arten svakere"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Mutasjoner skaper nye alleler. Uten nye varianter har naturlig seleksjon lite å «velge i», og evolusjon går tregere eller stopper opp."
     },
     {
@@ -245,6 +263,7 @@
         "Meiose skjer i hudceller, mitose i kjønnskjertler"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Mitose: én deling gir 2 genetisk like diploide celler, brukt til vekst og reparasjon. Meiose: to delinger gir 4 genetisk ulike haploide kjønnsceller, og kromosomtallet halveres."
     },
     {
@@ -258,6 +277,7 @@
         "At den bare lever i ett lite område"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Arter som har kort generasjonstid, stor genetisk variasjon, høy reproduksjon, god spredningsevne og plastisitet (tåler ulike forhold), kan ofte tilpasse seg klimaendringer raskere. For eksempel kan noen insekter flytte utbredelsen nordover og få flere generasjoner per år, mens arter med lang generasjonstid, som isbjørn, tilpasser seg saktere. Evne til å tåle temperaturendringer er også viktig."
     },
     {
@@ -271,6 +291,7 @@
         "Klimaendringer påvirker kun havet"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Endringer i temperatur og nedbør kan påvirke vekstsesong, tilgang på mat, predasjon, konkurranse, timing av trekk og blomstring, og arters utbredelse. Dette kan føre til bestandsnedgang eller bestandsøkning."
     },
     {
@@ -284,6 +305,7 @@
         "At det ikke endrer egenskaper"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Fordeler ved kunstig utvalg (avl): Man kan få fram ønskede egenskaper som produksjon, helse eller temperament, og det går ofte raskere enn naturlig seleksjon. Ulemper: Redusert genetisk variasjon, økt risiko for innavl og arvelige sykdommer, og dårligere robusthet mot miljøendringer. Et eksempel er mops, som ofte har store pusteproblemer."
     },
     {
@@ -297,6 +319,7 @@
         "Diffusjon og osmose"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "To mekanismer i meiosen som øker genetisk variasjon, er overkrysning og uavhengig fordeling av kromosomer. I tillegg gir tilfeldig befruktning enda flere genetiske kombinasjoner."
     },
     {
@@ -310,6 +333,7 @@
         "RNA → DNA → protein"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Proteinsyntesen går fra DNA → mRNA → ribosom → tRNA → aminosyrer → protein. Informasjon i DNA blir først skrevet av til mRNA. mRNA går fra cellekjernen til ribosomet. Der blir informasjonen lest i tripletter (kodoner), som bestemmer rekkefølgen på aminosyrene. tRNA frakter de riktige aminosyrene til ribosomet, som setter dem sammen til et protein."
     },
     {
@@ -323,6 +347,7 @@
         "Pakking av DNA til kromosomer"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Transkripsjon er prosessen der det lages en mRNA-kopi av et gen. Hos mennesker skjer dette i cellekjernen."
     },
     {
@@ -336,6 +361,7 @@
         "Når RNA blir til DNA"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "Translasjon er når ribosomet leser mRNA og bygger et protein. Dette skjer på ribosomer i cytoplasma, ofte også på ru ER."
     },
     {
@@ -349,6 +375,7 @@
         "Alle tre er typer lipider"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "mRNA = oppskriften (kodoner). tRNA = frakter riktig aminosyre. Ribosomet = «proteinfabrikken» som kobler aminosyrene sammen til et protein."
     },
     {
@@ -362,6 +389,7 @@
         "Fordi ribosomer har 3 deler"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Den genetiske koden kalles en triplettkode fordi tre baser (ett kodon) koder for én aminosyre."
     },
     {
@@ -375,6 +403,7 @@
         "Galt, fordi ingen baser koder for aminosyrer"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Påstanden er galt. Det er tre baser per kodon (triplettkode), ikke fire."
     },
     {
@@ -388,6 +417,7 @@
         "Galt, fordi øyenfarge bare finnes hos menn"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Galt i enkel Mendelsk modell: Hvis brun (B) er dominant og blå (b) er recessiv, kan to brunøyde foreldre være Bb og Bb. Da kan de få et barn med bb, altså blå øyenfarge. I virkeligheten er øyenfarge mer kompleks, men i naturfag brukes ofte denne modellen."
     },
     {
@@ -401,6 +431,7 @@
         "Dominant og recessiv gjelder bare kromosomer, ikke gener"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Et dominant allel vises i fenotypen når du har minst ett eksemplar av det (for eksempel Bb). Et recessivt allel vises vanligvis bare når du har to recessive alleler (bb)."
     },
     {
@@ -414,6 +445,7 @@
         "Begge betyr «mutert»"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Homozygot betyr to like alleler (BB eller bb). Heterozygot betyr to ulike alleler (Bb)."
     },
     {
@@ -427,6 +459,7 @@
         "Begge betyr «kromosom»"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Genotype er genene eller allelene du har. Fenotype er egenskapen som kommer til uttrykk, og den påvirkes av både arv og miljø."
     },
     {
@@ -440,6 +473,7 @@
         "Han skrev evolusjonsteorien alene"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Gregor Mendel studerte erteplanter og oppdaget grunnleggende arvelover som dominans, segregering og uavhengig fordeling. Derfor regnes han som genetikkens far."
     },
     {
@@ -453,6 +487,7 @@
         "Fordi bare mor bidrar med gener"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Kjønnet formering gir genetisk variasjon fordi meiosen gir overkrysning og uavhengig fordeling av kromosomer, og fordi tilfeldig befruktning kombinerer gener fra to foreldre på nye måter."
     },
     {
@@ -466,6 +501,7 @@
         "Galt, fordi proteinsyntese skjer bare i mitokondrier"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Påstanden er galt. Transkripsjon skjer i cellekjernen, men translasjon skjer på ribosomer i cytoplasma eller på ru ER."
     },
     {
@@ -479,6 +515,7 @@
         "Galt, fordi mutasjoner aldri påvirker DNA"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Påstanden er galt. Mutasjoner kan være skadelige, nøytrale eller fordelaktige. Mange mutasjoner påvirker ikke proteinet i det hele tatt, og noen kan være nyttige i bestemte miljøer."
     },
     {
@@ -492,6 +529,7 @@
         "Riktig, fordi kvinner alltid er syke"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "Påstanden er riktig. Menn har vanligvis bare ett X-kromosom, og ved X-bundne recessive sykdommer kan ett sykdomsallel være nok til å gi sykdom. Kvinner har to X-kromosomer og kan derfor ofte være bærere uten å være syke."
     },
     {
@@ -505,6 +543,7 @@
         "DNA-basepar bestemmes av temperatur"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Et godt eksempel på samspill mellom arv og miljø er høyde: Høyde påvirkes av gener, men også av ernæring og helse. Et annet eksempel er hudfarge, som påvirkes av arv, men også av soling."
     },
     {
@@ -518,6 +557,7 @@
         "Galt, fordi øyenfarge bestemmes bare av mor"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Påstanden er galt. To brunøyde foreldre kan absolutt få brunøyde barn, for eksempel med genotype BB eller Bb."
     },
     {
@@ -531,6 +571,7 @@
         "Galt, fordi øyenfarge alltid skyldes mutasjon"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "I enkel Mendelsk modell er påstanden riktig: blå øyenfarge = bb, og bb × bb gir bare bb-barn. I virkeligheten kan øyenfarge være mer kompleks fordi flere gener kan være involvert."
     },
     {
@@ -544,6 +585,7 @@
         "Det fører alltid til flere arter"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Forskyvning i årstidene kan gjøre at arter kommer i utakt. For eksempel kan planter blomstre før bier og humler er aktive, slik at pollineringen blir dårligere. Eller fugler kan komme til hekkeplassen etter at toppen i insektmengde er over, slik at ungene får mindre mat."
     },
     {
@@ -557,6 +599,7 @@
         "De oppfant CRISPR"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Charles Darwin og Alfred Russel Wallace utviklet uavhengig av hverandre teorien om evolusjon ved naturlig seleksjon. Darwin publiserte «On the Origin of Species», og Wallace kom fram til samme hovedidé. Begge viste at ikke alle individer overlever og får levedyktig avkom."
     },
     {
@@ -570,6 +613,7 @@
         "X-bundne gener finnes bare hos kvinner"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "X-bundne recessive sykdommer er vanligere hos menn fordi menn er XY og bare har ett X-kromosom. Hvis dette X-kromosomet har et recessivt sykdomsallel, finnes det ikke et ekstra X som kan «skjule» det. Kvinner må oftere ha to recessive alleler for å bli syke."
     },
     {
@@ -583,6 +627,7 @@
         "Fordi sønner ikke arver kromosomer"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "En far kan ikke gi en X-bundet egenskap direkte til en sønn fordi sønnen får Y-kromosomet fra far og X-kromosomet fra mor. Fars X går til døtrene, ikke til sønnene."
     },
     {
@@ -596,6 +641,7 @@
         "Mor: X^N X^N, Far: X^f Y"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Ved rød-grønn fargeblindhet (X-bundet recessiv) kan vi bruke: Xᴺ = normalt syn, Xᶠ = fargeblind. Hvis to «friske» foreldre får en fargeblind sønn, må sønnen være XᶠY. Far er frisk: XᴺY. Mor må være bærer: XᴺXᶠ."
     },
     {
@@ -609,6 +655,7 @@
         "Mor: X^f X^f, Far: X^N Y"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "En rød-grønn fargeblind datter må ha genotype XᶠXᶠ. Da må far gi Xᶠ, altså må far være XᶠY. Mor må gi minst ett Xᶠ, så mor kan være XᴺXᶠ (bærer) eller XᶠXᶠ (fargeblind)."
     },
     {
@@ -622,6 +669,7 @@
         "Fordi miljø aldri påvirker overlevelse"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Naturlig seleksjon virker på egenskaper som påvirker overlevelse og reproduksjon. For at slike egenskaper skal bli vanligere i en populasjon, må de være arvelige. Hvis de ikke kan overføres genetisk til avkom, forsvinner fordelen i neste generasjon."
     },
     {
@@ -635,6 +683,7 @@
         "Seleksjonspress gjelder bare kunstig utvalg"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Seleksjonspress er faktorer i miljøet som gjør at noen egenskaper gir større sjanse for å overleve og få avkom. Klimaendringer kan endre temperatur, nedbør, mattilgang, sykdommer og konkurranse, slik at nye egenskaper blir gunstige mens andre blir en ulempe. Eksempler kan være anoleøgler, mygg og andre arter som påvirkes av endret klima."
     },
     {
@@ -648,6 +697,7 @@
         "Øglene sluttet å formere seg for alltid"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "Etter orkanen Irma i 2017 undersøkte forskere anoleøgler på Turks- og Caicosøyene før og etter ekstremværet. De fant at øglene som overlevde i gjennomsnitt hadde større tåputer og lengre frambein, mens bakbeina ofte var kortere enn hos populasjonen før orkanen. Disse egenskapene gjør det lettere å holde seg fast i trær og busker i kraftig vind og unngå å bli blåst bort. Orkanen fungerte derfor som et seleksjonspress som ga en fordel til individer med bedre grep. Dette er et eksempel på naturlig seleksjon som kan endre en populasjon raskt etter en ekstremværhendelse."
     },
     {
@@ -661,6 +711,7 @@
         "Ingen endring, fordi den lever på land"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "I et varmere klima får isbjørnen mindre havis. Det gir dårligere jakt på sel, mindre tid på isen, lengre svømmeavstander, lavere energiinntak, lavere reproduksjon og økt dødelighet. Derfor kan bestandene gå ned."
     },
     {
@@ -674,6 +725,7 @@
         "De flytter bare hvis mennesker hjelper dem"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "Arter flytter ofte utbredelsesområdet sitt for å følge klimasonen de er tilpasset. De kan flytte mot polene eller oppover i høyden for å finne temperatur og fuktighet de tåler. Spredning kan skje via frø, vandring, larver, flyging eller havstrømmer. Et eksempel er rødrev som trekker høyere opp og inn i fjellrevens områder."
     },
     {
@@ -687,6 +739,7 @@
         "Høyere temperatur gjør alltid spredning lettere"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Barrierer som kan hindre arter i å flytte på seg, er blant annet fjell, hav, byer, veier, jordbruk, fragmentert natur, manglende økologiske korridorer, konkurranse, rovdyr og liten spredningsevne. Konsekvensene kan bli isolasjon, bestandsnedgang, innavl og lokal utdøing."
     },
     {
@@ -700,6 +753,7 @@
         "Ingen endring, fordi fjellrev lever i havet"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Fjellreven er tilpasset kaldt klima. I et varmere klima kan den få mindre levested i fjellet, endret tilgang på byttedyr og mer konkurranse fra rødrev som trekker oppover. Dermed kan fjellreven bli presset tilbake og gå ned i bestand."
     },
     {
@@ -713,6 +767,7 @@
         "Fordi klima bare påvirker store populasjoner"
       ],
       "answer": 1,
+      "randomise": 1,
       "explanation": "Små populasjoner er ekstra sårbare fordi de ofte har lav genetisk variasjon, mer innavl, større risiko for tilfeldig utdøing og mindre buffer mot sykdom og ekstremvær. De har også mindre evolusjonært handlingsrom."
     },
     {
@@ -726,6 +781,7 @@
         "En art som bare lever i polare strøk; klimaendringer gjør den mindre aggressiv"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Svartelistede arter er fremmede arter som kan bli invaderende og skade naturen. Eksempler er brunskogsnegl, stillehavsøsters og enkelte sykdomsspredende insekter. Klimaendringer kan gjøre nye områder mer passende for slike arter, for eksempel gjennom mildere vintre, slik at de lettere etablerer seg og sprer seg."
     },
     {
@@ -739,6 +795,7 @@
         "Parasitter påvirkes ikke av temperatur"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Mildere temperaturer og lengre sesong kan øke overlevelse og spredning av flått og mygg, og flytte dem nordover eller høyere opp i terrenget. Det kan øke risikoen for sykdommer som borrelia og TBE, og i andre deler av verden også malaria og denguefeber."
     },
     {
@@ -752,6 +809,7 @@
         "Begge har ingen konsekvenser for økosystem"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Korallbleking skjer når varmere vann stresser koraller, slik at de mister de symbiotiske algene sine. Da blir korallene hvite og kan dø. Dette fører til tap av leveområder for mange arter. Havforsuring skjer når mer CO₂ løses i havet og senker pH-verdien. Det gjør det vanskeligere for kalkdannende organismer som koraller og skjell å bygge skall og skjelett. Det kan svekke næringsnett og hele økosystemer."
     },
     {
@@ -765,6 +823,7 @@
         "Ingen endring i frekvens av fargevarianter"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Under den industrielle revolusjonen ble bjørkestammer mørkere av sot. Da fikk mørke bjørkelurvemålere bedre kamuflasje og ble spist mindre av fugler. Derfor økte de i frekvens. Senere, da lufta ble renere, fikk de lyse variantene igjen en fordel. Dette kalles industriell melanisme."
     },
     {
@@ -778,6 +837,7 @@
         "Tiltak er unødvendige fordi naturen alltid tilpasser seg raskt nok"
       ],
       "answer": 2,
+      "randomise": 1,
       "explanation": "Klimaendringer påvirker evolusjon, utbredelse og biologisk mangfold på flere måter: Evolusjon: Nye seleksjonspress kan gi rask evolusjon i noen arter, særlig arter med kort generasjonstid, men mange arter rekker ikke å tilpasse seg raskt nok. Utbredelse: Arter flytter nordover eller oppover i høyden. Noen blir fanget av barrierer og kan dø ut lokalt. Biologisk mangfold: Risikoen for tap av arter og økosystemer øker. Samspill mellom arter, som pollinatorer og planter, kan brytes. Fremmede arter og sykdommer kan få bedre vilkår. Tiltak som kan redusere tap, er å kutte klimagassutslipp, verne og restaurere leveområder, lage økologiske korridorer, hindre spredning av fremmede arter, overvåke bestander og bruke aktiv forvaltning når det er nødvendig."
     }
   ]
