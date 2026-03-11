@@ -2,746 +2,783 @@
   "questions": [
     {
       "qnID": 1,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er et kromosom?",
+      "themeID": 1,
+      "qn": "1. Hva er DNA?",
       "options": [
-        "En type protein",
-        "En del av cellemembranen",
-        "En struktur som inneholder DNA og protein",
-        "En type lipid"
+        "Et protein som bygger celler",
+        "Arvestoffet som inneholder oppskriften på hvordan kroppen bygges og fungerer",
+        "En type celle i immunforsvaret",
+        "Et hormon som styrer vekst"
       ],
-      "answer": 3,
-      "explanation": "Et kromosom er en struktur som inneholder DNA og proteiner, og finnes i cellekjernen."
+      "answer": 2,
+      "explanation": "DNA (deoksyribonukleinsyre) er arvestoffet som inneholder oppskriften på hvordan kroppen bygges og fungerer. Det består av fire nitrogenbaser: A, T, C og G (adenin, tymin, cytosin og guanin). A og T hører alltid sammen, og C og G hører alltid sammen. Mellom baseparene er det hydrogenbindinger."
     },
     {
       "qnID": 2,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "DNA-tråden er 2 meter lang hvis den strekkes helt ut. En celle er mindre enn en tidels millimeter i diameter. Forklar hvordan det er mulig å få så mye DNA inni hver enkelt celle.",
+      "themeID": 1,
+      "qn": "2. Hva er et kromosom?",
       "options": [
-        "DNA-et er pakket tett sammen i kromosomer",
-        "DNA-et er flytende i cytoplasmaet",
-        "DNA-et er løst pakket i cellemembranen",
-        "DNA-et er pakket i mitokondriene"
+        "En organelle som lager energi",
+        "En tettpakket tråd av DNA kveilet rundt proteiner (histoner)",
+        "En type RNA som frakter aminosyrer",
+        "En mutasjon i et gen"
       ],
-      "answer": 1,
-      "explanation": "DNA-et er pakket tett sammen i kromosomer ved hjelp av proteiner som kalles histoner, noe som gjør det mulig å få plass til mye DNA i hver celle."
+      "answer": 2,
+      "explanation": "Et kromosom er en tettpakket tråd av DNA kveilet rundt proteiner (histoner). Kromosomer inneholder mange gener. Mennesket har totalt 46 kromosomer: 22 par autosomer og 1 par kjønnskromosomer (XX eller XY)."
     },
     {
       "qnID": 3,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvor finner vi DNA-et?",
+      "themeID": 1,
+      "qn": "3. Hva er et gen, og hva er et allel?",
       "options": [
-        "I cellemembranen",
-        "I cellekjernen",
-        "I ribosomene",
-        "I mitokondriene"
+        "Gen = et kromosom, allel = en celle",
+        "Gen = en del av DNA som koder for en egenskap/protein, allel = en variant av et gen",
+        "Gen = et protein, allel = et fettstoff",
+        "Gen = en mutasjon, allel = en sykdom"
       ],
       "answer": 2,
-      "explanation": "DNA-et finnes hovedsakelig i cellekjernen."
+      "explanation": "Et gen er en del av DNA som koder for et protein eller en egenskap. Et allel er en variant av et gen (for eksempel b for «blå» eller B for «brun» variant)."
     },
     {
       "qnID": 4,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er DNA?",
+      "themeID": 1,
+      "qn": "4. Hvor finner vi DNA hos mennesker?",
       "options": [
-        "En type karbohydrat",
-        "En type protein",
-        "En type nukleinsyre",
-        "En type lipid"
+        "Bare i cellemembranen",
+        "Bare i ribosomer",
+        "Mest i cellekjernen, og litt i mitokondriene",
+        "Kun i blodet"
       ],
       "answer": 3,
-      "explanation": "DNA er en type nukleinsyre som inneholder den genetiske informasjonen i cellene."
+      "explanation": "Mesteparten av DNA-et hos mennesker finnes i cellekjernen. I tillegg finnes det litt DNA i mitokondriene."
     },
     {
       "qnID": 5,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvordan er et DNA-molekyl bygget opp?",
+      "themeID": 1,
+      "qn": "5. Forklar oppbygningen av DNA.",
       "options": [
-        "Enkelttrådet med ribose",
-        "Dobbelttrådet med deoksyribose",
-        "Enkelttrådet med deoksyribose",
-        "Dobbelttrådet med ribose"
+        "Én tråd med aminosyrer i ringform",
+        "To tråder i dobbelheliks med sukker-fosfat-ryggrad og baser som danner basepar",
+        "Tre tråder som danner et nettverk i cytoplasma",
+        "Fire tråder uten basepar"
       ],
       "answer": 2,
-      "explanation": "Et DNA-molekyl er dobbelttrådet og består av deoksyribose, fosfatgrupper og nitrogenbaser."
+      "explanation": "DNA består av to tråder i en dobbelheliks (som en tvinnet stige). Hver tråd har en sukker-fosfat-ryggrad, og basene peker innover. Basene binder trådene sammen i basepar."
     },
     {
       "qnID": 6,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva koder genene i DNA for?",
+      "themeID": 1,
+      "qn": "6. Hvilke baser finnes i DNA, og hvilke basepar hører sammen?",
       "options": [
-        "Karbohydrater",
-        "Lipider",
-        "Proteiner",
-        "Vitaminer"
+        "A, U, C, G – A–U og C–G",
+        "A, T, C, G – A–T og C–G",
+        "A, T, U, G – A–T og U–G",
+        "A, C, G, U – A–C og G–U"
       ],
-      "answer": 3,
-      "explanation": "Genene i DNA koder for proteiner som utfører ulike funksjoner i kroppen."
+      "answer": 2,
+      "explanation": "Basene i DNA er A, T, C og G. Baseparene er A–T og C–G."
     },
     {
       "qnID": 7,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilke 4 nitrogenbaser finnes i DNA?",
+      "themeID": 1,
+      "qn": "7. Hva slags bindinger holder baseparene sammen i DNA?",
       "options": [
-        "Adenin, Tymin, Guanin, Cytosin",
-        "Adenin, Uracil, Guanin, Cytosin",
-        "Adenin, Tymin, Guanin, Uracil",
-        "Adenin, Cytosin, Guanin, Uracil"
+        "Ionebindinger",
+        "Metallbindinger",
+        "Hydrogenbindinger",
+        "Peptidbindinger"
       ],
-      "answer": 1,
-      "explanation": "De fire nitrogenbasene i DNA er Adenin, Tymin, Guanin og Cytosin."
+      "answer": 3,
+      "explanation": "Hydrogenbindinger holder baseparene sammen. A–T har 2 hydrogenbindinger, og C–G har 3."
     },
     {
       "qnID": 8,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilke 4 nitrogenbaser finnes i RNA?",
+      "themeID": 1,
+      "qn": "8. Hvordan kan så mye DNA få plass i en cellekjerne?",
       "options": [
-        "Adenin, Tymin, Guanin, Cytosin",
-        "Adenin, Uracil, Guanin, Cytosin",
-        "Adenin, Tymin, Guanin, Uracil",
-        "Adenin, Cytosin, Guanin, Urin"
+        "DNA løses opp i fett og flyter fritt",
+        "DNA klippes i små biter og forsvinner",
+        "DNA pakkes ved å kveiles rundt histoner → nukleosomer → kromatin → kromosomer",
+        "DNA finnes bare hos noen celler"
       ],
-      "answer": 2,
-      "explanation": "De fire nitrogenbasene i RNA er Adenin, Uracil, Guanin og Cytosin."
+      "answer": 3,
+      "explanation": "DNA pakkes ved å kveiles rundt histoner (proteiner), og blir dermed svært tettpakket. Slik kan ekstremt lange DNA-tråder få plass i cellekjernen."
     },
     {
       "qnID": 9,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilke nitrogenbaser finnes i DNA og RNA, og hvilke nitrogenbaser danner basepar?",
+      "themeID": 1,
+      "qn": "9. Hva er et genom?",
       "options": [
-        "DNA: Adenin, Tymin, Guanin, Cytosin; RNA: Adenin, Uracil, Guanin, Cytosin; Basepar: A-T, G-C, A-U",
-        "DNA: Adenin, Uracil, Guanin, Cytosin; RNA: Adenin, Tymin, Guanin, Cytosin; Basepar: A-T, G-C, A-U",
-        "DNA: Adenin, Tymin, Guanin, Uracil; RNA: Adenin, Uracil, Guanin, Cytosin; Basepar: A-T, G-C, A-U",
-        "DNA: Adenin, Tymin, Guanin, Cytosin; RNA: Adenin, Tymin, Guanin, Cytosin; Basepar: A-T, G-C, A-U"
+        "En type protein",
+        "Alt DNA i en organisme (alle gener + ikke-kodende DNA)",
+        "Bare de genene som er aktive i en celle",
+        "Bare kjønnskromosomene"
       ],
-      "answer": 1,
-      "explanation": "I DNA er nitrogenbasene Adenin, Tymin, Guanin og Cytosin, og i RNA er de Adenin, Uracil, Guanin og Cytosin. Baseparene er A-T (i DNA), G-C (i DNA og RNA), og A-U (i RNA)."
+      "answer": 2,
+      "explanation": "Genomet er alt DNA i en organisme: både alle gener og de ikke-kodende delene av DNA-et."
     },
     {
       "qnID": 10,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva slags bindinger holder basene sammen?",
+      "themeID": 1,
+      "qn": "10. Hva er kjønnskromosomer, og hva skiller en mann fra en kvinne (vanligvis)?",
       "options": [
-        "Kovalente bindinger",
-        "Hydrogenbindinger",
-        "Ioniske bindinger",
-        "Metallbindinger"
+        "Kjønnskromosomer er X og Y; vanligvis XX = kvinne og XY = mann",
+        "Kjønnskromosomer er A og B; vanligvis AB = mann og AA = kvinne",
+        "Kjønn bestemmes bare av miljø og ikke kromosomer",
+        "Kjønnskromosomer er bare i kjønnsceller, ikke i kroppsceller"
       ],
-      "answer": 2,
-      "explanation": "Hydrogenbindinger holder nitrogenbasene sammen i DNA-molekylet."
+      "answer": 1,
+      "explanation": "Kjønnskromosomene er X og Y. Vanligvis er XX = kvinne og XY = mann. For de interesserte: Y-kromosomet har ofte SRY-genet, som starter utvikling i mannlig retning."
     },
     {
       "qnID": 11,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er DNA-syntesen?",
+      "themeID": 1,
+      "qn": "11. Hva er DNA-replikasjon, og hvorfor må den skje?",
       "options": [
-        "Prosessen der DNA kopieres",
-        "Prosessen der RNA lages",
-        "Prosessen der proteiner lages",
-        "Prosessen der lipider lages"
+        "Nedbrytning av DNA for å få energi",
+        "Kopiering av DNA før celledeling, slik at dattercellene får samme genetiske informasjon",
+        "Transport av DNA ut av cellekjernen",
+        "Omforming av DNA til protein direkte"
       ],
-      "answer": 1,
-      "explanation": "DNA-syntesen er prosessen der DNA kopieres før celledeling."
+      "answer": 2,
+      "explanation": "DNA-replikasjon er kopiering av DNA før celledeling. Det må skje for at dattercellene skal få samme genetiske informasjon."
     },
     {
       "qnID": 12,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilken rolle spiller enzymet helicase i DNA-syntesen?",
+      "themeID": 1,
+      "qn": "12. Hvor mange kromosomer har et menneske (i kroppsceller)?",
       "options": [
-        "Binder sammen DNA-trådene",
-        "Åpner DNA-dobbelttråden",
-        "Legger til nye nukleotider",
-        "Fjerner feil i DNA"
+        "23",
+        "46",
+        "92",
+        "44"
       ],
       "answer": 2,
-      "explanation": "Helicase åpner DNA-dobbelttråden ved å bryte hydrogenbindingene mellom basene."
+      "explanation": "Kroppsceller hos mennesker har 46 kromosomer (23 par). Kjønnsceller har 23 kromosomer."
     },
     {
       "qnID": 13,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilken rolle spiller enzymet DNA-polymerase i DNA-syntesen?",
+      "themeID": 1,
+      "qn": "13. Hva mener vi med genetisk variasjon?",
       "options": [
-        "Binder sammen DNA-trådene",
-        "Åpner DNA-dobbelttråden",
-        "Legger til nye nukleotider",
-        "Fjerner feil i DNA"
+        "At alle individer i en art er genetisk like",
+        "At individer i en art har ulike alleler/genkombinasjoner som gir forskjeller i egenskaper",
+        "At DNA alltid muterer i hver generasjon",
+        "At bare miljø bestemmer egenskaper"
       ],
-      "answer": 3,
-      "explanation": "DNA-polymerase legger til nye nukleotider på den voksende DNA-tråden under DNA-syntesen."
+      "answer": 2,
+      "explanation": "Genetisk variasjon betyr at individer i en art har ulike alleler og genkombinasjoner, som gir forskjeller i egenskaper. Dette kan øke sjansen for overlevelse i et miljø i endring. For eksempel er fjellrev tilpasset høyfjellet, mens rødrev er bedre tilpasset lavere områder."
     },
     {
       "qnID": 14,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilken rolle spiller enzymet ligase i DNA-syntesen?",
+      "themeID": 1,
+      "qn": "14. Hva er en mutasjon?",
       "options": [
-        "Binder sammen DNA-trådene",
-        "Åpner DNA-dobbelttråden",
-        "Legger til nye nukleotider",
-        "Fjerner feil i DNA"
+        "En varig endring i DNA-sekvensen",
+        "En celledeling i to like celler",
+        "En RNA-kopi av et gen",
+        "Et ferdig protein"
       ],
       "answer": 1,
-      "explanation": "Ligase binder sammen Okazaki-fragmentene på den laggende tråden under DNA-syntesen."
+      "explanation": "En mutasjon er en varig endring i DNA-sekvensen. Den kan endre et gen eller hvordan genet virker."
     },
     {
       "qnID": 15,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er proteinsyntesen?",
+      "themeID": 1,
+      "qn": "15. Hva er riktig om basebytte, delesjon og insersjon?",
       "options": [
-        "Prosessen der DNA kopieres",
-        "Prosessen der RNA lages",
-        "Prosessen der proteiner lages",
-        "Prosessen der lipider lages"
+        "Basebytte = flere baser fjernes, delesjon = base settes inn, insersjon = base byttes",
+        "Basebytte = én base byttes ut; delesjon = baser fjernes; insersjon = baser settes inn",
+        "Alle tre betyr at et helt kromosom forsvinner",
+        "Alle tre er former for meiose"
       ],
-      "answer": 3,
-      "explanation": "Proteinsyntesen er prosessen der proteiner lages fra mRNA i ribosomene."
+      "answer": 2,
+      "explanation": "Basebytte (substitusjon): én base byttes ut. Delesjon: én eller flere baser fjernes. Insersjon: én eller flere baser settes inn."
     },
     {
       "qnID": 16,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar proteinsyntesen så detaljert du kan.",
+      "themeID": 1,
+      "qn": "16. Hva er forskjellen på mutasjon i kroppscelle og kjønnscelle?",
       "options": [
-        "Transkripsjon og translasjon",
-        "Replikasjon og transkripsjon",
-        "Translasjon og replikasjon",
-        "Replikasjon og translasjon"
+        "Kroppscellemutasjon arves alltid, kjønnscellemutasjon arves aldri",
+        "Kroppscellemutasjon påvirker bare individet; kjønnscellemutasjon kan arves av avkom",
+        "Begge arves alltid",
+        "Ingen forskjell"
       ],
-      "answer": 1,
-      "explanation": "Proteinsyntesen består av to hovedtrinn: transkripsjon (der DNA omdannes til mRNA) og translasjon (der mRNA oversettes til et protein ved ribosomene)."
+      "answer": 2,
+      "explanation": "En mutasjon i en kroppscelle påvirker bare individet og er ikke arvelig. En mutasjon i en kjønnscelle kan arves av avkom."
     },
     {
       "qnID": 17,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Nevn noen ulike egenskaper proteiner kan ha i kroppen din.",
+      "themeID": 1,
+      "qn": "17. Hvilket av alternativene viser tre vanlige årsaker til mutasjoner?",
       "options": [
-        "Enzymer, hormoner, antistoffer",
-        "Karbohydrater, lipider, vitaminer",
-        "Nukleinsyrer, polysakkarider, fettsyrer",
-        "Mineraler, vann, oksygen"
+        "Fotosyntese, celleånding, fordøyelse",
+        "UV-stråling, kopieringsfeil i replikasjon, kjemikalier/mutagener",
+        "Osmose, diffusjon, aktiv transport",
+        "Mitose, translasjon, befruktning"
       ],
-      "answer": 1,
-      "explanation": "Proteiner kan fungere som enzymer, hormoner og antistoffer, blant andre roller."
+      "answer": 2,
+      "explanation": "Mulige årsaker til mutasjoner er kopieringsfeil i DNA-replikasjon, UV-stråling, ioniserende stråling (radioaktiv stråling), kjemikalier (mutagener), virus og oksidativt stress."
     },
     {
       "qnID": 18,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvor mange ulike aminosyrer har du i kroppen din?",
+      "themeID": 1,
+      "qn": "18. Hvorfor er mutasjoner nødvendige for evolusjon?",
       "options": [
-        "10",
-        "20",
-        "30",
-        "40"
+        "De stopper naturlig seleksjon",
+        "De skaper nye alleler/varianter som seleksjon kan virke på",
+        "De gjør alle individer identiske",
+        "De gjør alltid arten svakere"
       ],
       "answer": 2,
-      "explanation": "Det finnes 20 ulike aminosyrer som brukes til å bygge proteiner i kroppen."
+      "explanation": "Mutasjoner skaper nye alleler. Uten nye varianter har naturlig seleksjon lite å «velge i», og evolusjon går tregere eller stopper opp."
     },
     {
       "qnID": 19,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilken funksjon har aminosyrene i kroppen din?",
+      "themeID": 1,
+      "qn": "19. Hva er hovedforskjellen mellom mitose og meiose?",
       "options": [
-        "Byggesteiner for proteiner",
-        "Energikilde",
-        "Lagring av genetisk informasjon",
-        "Transport av oksygen"
+        "Mitose gir 4 haploide celler; meiose gir 2 diploide celler",
+        "Mitose gir 2 genetisk like diploide celler; meiose gir 4 genetisk ulike haploide kjønnsceller",
+        "Begge gir alltid genetisk identiske kjønnsceller",
+        "Meiose skjer i hudceller, mitose i kjønnskjertler"
       ],
-      "answer": 1,
-      "explanation": "Aminosyrene fungerer som byggesteiner for proteiner, som er essensielle for kroppens struktur og funksjon."
+      "answer": 2,
+      "explanation": "Mitose: én deling gir 2 genetisk like diploide celler, brukt til vekst og reparasjon. Meiose: to delinger gir 4 genetisk ulike haploide kjønnsceller, og kromosomtallet halveres."
     },
     {
       "qnID": 20,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvor i cellen skjer proteinsyntesen?",
+      "themeID": 1,
+      "qn": "20. Hvilke egenskaper gjør en art ofte bedre i stand til å tilpasse seg klimaendringer?",
       "options": [
-        "I cellekjernen",
-        "I mitokondriene",
-        "I ribosomene",
-        "I cellemembranen"
+        "Lang generasjonstid og få avkom",
+        "Kort generasjonstid, høy genetisk variasjon og god spredningsevne",
+        "Lav genetisk variasjon og spesialisert leveområde",
+        "At den bare lever i ett lite område"
       ],
-      "answer": 3,
-      "explanation": "Proteinsyntesen skjer i ribosomene, som finnes i cytoplasmaet."
+      "answer": 2,
+      "explanation": "Arter som har kort generasjonstid, stor genetisk variasjon, høy reproduksjon, god spredningsevne og plastisitet (tåler ulike forhold), kan ofte tilpasse seg klimaendringer raskere. For eksempel kan noen insekter flytte utbredelsen nordover og få flere generasjoner per år, mens arter med lang generasjonstid, som isbjørn, tilpasser seg saktere. Evne til å tåle temperaturendringer er også viktig."
     },
     {
       "qnID": 21,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva heter de molekylene som finnes i cytoplasmaet og transporterer aminosyrer til ribosomene der proteinsyntesen foregår?",
+      "themeID": 1,
+      "qn": "21. Hvordan kan planter og dyr bli påvirket av klimaendringer?",
       "options": [
-        "mRNA",
-        "tRNA",
-        "rRNA",
-        "DNA"
+        "De påvirkes ikke, fordi evolusjon stopper endringer",
+        "Endringer i temperatur/nedbør kan endre vekstsesong, mattilgang, timing og utbredelse",
+        "Bare dyr påvirkes, ikke planter",
+        "Klimaendringer påvirker kun havet"
       ],
       "answer": 2,
-      "explanation": "tRNA (transfer RNA) er molekylene som transporterer aminosyrer til ribosomene under proteinsyntesen."
+      "explanation": "Endringer i temperatur og nedbør kan påvirke vekstsesong, tilgang på mat, predasjon, konkurranse, timing av trekk og blomstring, og arters utbredelse. Dette kan føre til bestandsnedgang eller bestandsøkning."
     },
     {
       "qnID": 22,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er forskjellen på DNA og RNA?",
+      "themeID": 1,
+      "qn": "22. Hva er en vanlig ulempe ved kunstig utvalg (avl)?",
       "options": [
-        "DNA er dobbelttrådet, RNA er enkelttrådet",
-        "DNA inneholder ribose, RNA inneholder deoksyribose",
-        "DNA inneholder uracil, RNA inneholder tymin",
-        "DNA er enkelttrådet, RNA er dobbelttrådet"
+        "Økt genetisk variasjon og færre sykdommer",
+        "Redusert genetisk variasjon og økt risiko for innavl/arvelige sykdommer",
+        "At evolusjon går raskere og alltid gir robuste arter",
+        "At det ikke endrer egenskaper"
       ],
-      "answer": 1,
-      "explanation": "DNA er dobbelttrådet og inneholder deoksyribose, mens RNA er enkelttrådet og inneholder ribose."
+      "answer": 2,
+      "explanation": "Fordeler ved kunstig utvalg (avl): Man kan få fram ønskede egenskaper som produksjon, helse eller temperament, og det går ofte raskere enn naturlig seleksjon. Ulemper: Redusert genetisk variasjon, økt risiko for innavl og arvelige sykdommer, og dårligere robusthet mot miljøendringer. Et eksempel er mops, som ofte har store pusteproblemer."
     },
     {
       "qnID": 23,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er en mutasjon?",
+      "themeID": 1,
+      "qn": "23. Hvilke to mekanismer i meiosen øker genetisk variasjon?",
       "options": [
-        "En endring i DNA-sekvensen",
-        "En endring i RNA-sekvensen",
-        "En endring i proteinstrukturen",
-        "En endring i cellemembranen"
+        "Overkrysning og uavhengig fordeling av kromosomer",
+        "DNA-replikasjon og mitose",
+        "Transkripsjon og translasjon",
+        "Diffusjon og osmose"
       ],
       "answer": 1,
-      "explanation": "En mutasjon er en endring i DNA-sekvensen som kan påvirke genfunksjonen."
+      "explanation": "To mekanismer i meiosen som øker genetisk variasjon, er overkrysning og uavhengig fordeling av kromosomer. I tillegg gir tilfeldig befruktning enda flere genetiske kombinasjoner."
     },
     {
       "qnID": 24,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er en mutasjon, og hvilke 3 mutasjoner har vi?",
+      "themeID": 1,
+      "qn": "24. Hva beskriver proteinsyntesen best?",
       "options": [
-        "Insersjon, delesjon, basebytte",
-        "Transkripsjon, translasjon, replikasjon",
-        "Punktmutasjon, kromosommutasjon, genommutasjon",
-        "Inversjon, translokasjon, duplikasjon"
+        "DNA → protein direkte uten mellomsteg",
+        "DNA → RNA → protein",
+        "Protein → DNA → RNA",
+        "RNA → DNA → protein"
       ],
-      "answer": 1,
-      "explanation": "De tre typene mutasjoner er insersjon (innsetting av ekstra basepar), delesjon (fjerning av basepar), og basebytte (endring av et basepar til et annet)."
+      "answer": 2,
+      "explanation": "Proteinsyntesen går fra DNA → mRNA → ribosom → tRNA → aminosyrer → protein. Informasjon i DNA blir først skrevet av til mRNA. mRNA går fra cellekjernen til ribosomet. Der blir informasjonen lest i tripletter (kodoner), som bestemmer rekkefølgen på aminosyrene. tRNA frakter de riktige aminosyrene til ribosomet, som setter dem sammen til et protein."
     },
     {
       "qnID": 25,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar hva som menes med insersjon, delesjon og basebytte.",
+      "themeID": 1,
+      "qn": "25. Hva er transkripsjon, og hvor skjer det hos mennesker?",
       "options": [
-        "Insersjon: fjerning av basepar, delesjon: innsetting av basepar, basebytte: endring av basepar",
-        "Insersjon: innsetting av basepar, delesjon: fjerning av basepar, basebytte: endring av basepar",
-        "Insersjon: endring av basepar, delesjon: innsetting av basepar, basebytte: fjerning av basepar",
-        "Insersjon: innsetting av basepar, delesjon: endring av basepar, basebytte: fjerning av basepar"
+        "Kopiering av DNA i mitokondriene",
+        "Produksjon av mRNA fra DNA i cellekjernen",
+        "Bygging av protein i ribosomer i cytoplasma",
+        "Pakking av DNA til kromosomer"
       ],
       "answer": 2,
-      "explanation": "Insersjon er innsetting av ekstra basepar, delesjon er fjerning av basepar, og basebytte er endring av et basepar til et annet."
+      "explanation": "Transkripsjon er prosessen der det lages en mRNA-kopi av et gen. Hos mennesker skjer dette i cellekjernen."
     },
     {
       "qnID": 26,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hva er sammenhengen mellom mutasjoner og evolusjon?",
+      "themeID": 1,
+      "qn": "26. Hva er translasjon, og hvor skjer det?",
       "options": [
-        "Mutasjoner fører alltid til sykdommer",
-        "Mutasjoner kan gi opphav til nye egenskaper som kan være fordelaktige",
-        "Mutasjoner har ingen betydning for evolusjon",
-        "Mutasjoner stopper evolusjon"
+        "Når ribosomet leser mRNA og bygger protein, på ribosomer i cytoplasma/ru ER",
+        "Når DNA kopieres i kjernen",
+        "Når kromosomer deles i mitose",
+        "Når RNA blir til DNA"
       ],
-      "answer": 2,
-      "explanation": "Mutasjoner kan gi opphav til nye egenskaper som kan være fordelaktige og dermed bidra til evolusjon ved naturlig seleksjon."
+      "answer": 1,
+      "explanation": "Translasjon er når ribosomet leser mRNA og bygger et protein. Dette skjer på ribosomer i cytoplasma, ofte også på ru ER."
     },
     {
       "qnID": 27,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvem var Gregor Mendel? Og hva ble han kjent for?",
+      "themeID": 1,
+      "qn": "27. Hva er riktig om rollene til mRNA, tRNA og ribosomer?",
       "options": [
-        "En fysiker kjent for relativitetsteorien",
-        "En kjemiker kjent for periodesystemet",
-        "En biolog kjent for arvelæren",
-        "En lege kjent for vaksinasjon"
+        "mRNA frakter aminosyrer, tRNA er oppskriften, ribosomet er lagringsplass",
+        "mRNA er oppskriften, tRNA frakter aminosyrer, ribosomet kobler aminosyrene sammen",
+        "tRNA lager DNA, ribosomet lager mRNA, mRNA lager kromosomer",
+        "Alle tre er typer lipider"
       ],
-      "answer": 3,
-      "explanation": "Gregor Mendel var en biolog kjent for sine eksperimenter med erteplanter som la grunnlaget for arvelæren."
+      "answer": 2,
+      "explanation": "mRNA = oppskriften (kodoner). tRNA = frakter riktig aminosyre. Ribosomet = «proteinfabrikken» som kobler aminosyrene sammen til et protein."
     },
     {
       "qnID": 28,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar begrepet dominant.",
+      "themeID": 1,
+      "qn": "28. Hvorfor kalles den genetiske koden en triplettkode?",
       "options": [
-        "Et gen som alltid uttrykkes",
-        "Et gen som aldri uttrykkes",
-        "Et gen som uttrykkes kun i homozygot tilstand",
-        "Et gen som uttrykkes kun i heterozygot tilstand"
+        "Fordi 3 gener alltid arves sammen",
+        "Fordi 3 baser (ett kodon) koder for én aminosyre",
+        "Fordi DNA har 3 tråder",
+        "Fordi ribosomer har 3 deler"
       ],
-      "answer": 1,
-      "explanation": "Et dominant gen er et gen som alltid uttrykkes i fenotypen, selv om det bare er til stede i ett eksemplar."
+      "answer": 2,
+      "explanation": "Den genetiske koden kalles en triplettkode fordi tre baser (ett kodon) koder for én aminosyre."
     },
     {
       "qnID": 29,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar begrepet recessiv.",
+      "themeID": 1,
+      "qn": "29. Riktig/galt: «Fire og fire baser koder for én aminosyre.»",
       "options": [
-        "Et gen som alltid uttrykkes",
-        "Et gen som aldri uttrykkes",
-        "Et gen som uttrykkes kun i homozygot tilstand",
-        "Et gen som uttrykkes kun i heterozygot tilstand"
+        "Riktig, fordi 4 baser gir mer presisjon",
+        "Galt, fordi koden er en triplettkode (3 baser per aminosyre)",
+        "Riktig, fordi DNA har 4 baser totalt",
+        "Galt, fordi ingen baser koder for aminosyrer"
       ],
-      "answer": 3,
-      "explanation": "Et recessivt gen er et gen som bare uttrykkes i fenotypen når det er til stede i to eksemplarer (homozygot tilstand)."
+      "answer": 2,
+      "explanation": "Påstanden er galt. Det er tre baser per kodon (triplettkode), ikke fire."
     },
     {
       "qnID": 30,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar begrepet homozygot.",
+      "themeID": 1,
+      "qn": "30. Påstand: «Når to brunøyde foreldre får barn, kan de ikke få blåøyde barn.»",
       "options": [
-        "To like alleler for et gen",
-        "To ulike alleler for et gen",
-        "Et gen som alltid uttrykkes",
-        "Et gen som aldri uttrykkes"
+        "Riktig, fordi brun alltid vinner over blå",
+        "Galt, fordi to brunøyde kan være heterozygote (Bb) og få bb-barn",
+        "Riktig, fordi øyenfarge bestemmes bare av miljø",
+        "Galt, fordi øyenfarge bare finnes hos menn"
       ],
-      "answer": 1,
-      "explanation": "Homozygot betyr at en organisme har to like alleler for et bestemt gen."
+      "answer": 2,
+      "explanation": "Galt i enkel Mendelsk modell: Hvis brun (B) er dominant og blå (b) er recessiv, kan to brunøyde foreldre være Bb og Bb. Da kan de få et barn med bb, altså blå øyenfarge. I virkeligheten er øyenfarge mer kompleks, men i naturfag brukes ofte denne modellen."
     },
     {
       "qnID": 31,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar begrepet heterozygot.",
+      "themeID": 1,
+      "qn": "31. Hva betyr dominant og recessiv?",
       "options": [
-        "To like alleler for et gen",
-        "To ulike alleler for et gen",
-        "Et gen som alltid uttrykkes",
-        "Et gen som aldri uttrykkes"
+        "Dominant vises bare ved to like alleler; recessiv vises ved ett allel",
+        "Dominant kan vises med minst ett allel; recessiv vises vanligvis bare med to recessive alleler",
+        "Dominant betyr «sjeldent» og recessiv betyr «vanlig»",
+        "Dominant og recessiv gjelder bare kromosomer, ikke gener"
       ],
       "answer": 2,
-      "explanation": "Heterozygot betyr at en organisme har to ulike alleler for et bestemt gen."
+      "explanation": "Et dominant allel vises i fenotypen når du har minst ett eksemplar av det (for eksempel Bb). Et recessivt allel vises vanligvis bare når du har to recessive alleler (bb)."
     },
     {
       "qnID": 32,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar begrepet genotype.",
+      "themeID": 1,
+      "qn": "32. Hva betyr homozygot og heterozygot?",
       "options": [
-        "Den fysiske uttrykksformen av et gen",
-        "Den genetiske sammensetningen av et individ",
-        "Et gen som alltid uttrykkes",
-        "Et gen som aldri uttrykkes"
+        "Homozygot = to ulike alleler; heterozygot = to like",
+        "Homozygot = to like alleler; heterozygot = to ulike alleler",
+        "Homozygot = ingen alleler; heterozygot = ett allel",
+        "Begge betyr «mutert»"
       ],
       "answer": 2,
-      "explanation": "Genotype refererer til den genetiske sammensetningen av et individ, inkludert alleler for bestemte gener."
+      "explanation": "Homozygot betyr to like alleler (BB eller bb). Heterozygot betyr to ulike alleler (Bb)."
     },
     {
       "qnID": 33,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Forklar begrepet fenotype.",
+      "themeID": 1,
+      "qn": "33. Hva er genotype og fenotype?",
       "options": [
-        "Den fysiske uttrykksformen av et gen",
-        "Den genetiske sammensetningen av et individ",
-        "Et gen som alltid uttrykkes",
-        "Et gen som aldri uttrykkes"
+        "Genotype = det du ser; fenotype = genene dine",
+        "Genotype = allelene/genene du har; fenotype = egenskapen som kommer til uttrykk (arv + miljø)",
+        "Genotype = miljø; fenotype = DNA",
+        "Begge betyr «kromosom»"
       ],
-      "answer": 1,
-      "explanation": "Fenotype refererer til den fysiske uttrykksformen av et gen, inkludert observerbare egenskaper."
+      "answer": 2,
+      "explanation": "Genotype er genene eller allelene du har. Fenotype er egenskapen som kommer til uttrykk, og den påvirkes av både arv og miljø."
     },
     {
       "qnID": 34,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Fire og fire nitrogenbaser er kode for en aminosyre når det blir laget proteiner. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "34. Hvem var Gregor Mendel, og hvorfor er han viktig?",
       "options": [
-        "Riktig",
-        "Gal"
+        "Han oppfant mikroskopet",
+        "Han fant arvelover ved å studere erteplanter og regnes som genetikkens far",
+        "Han oppdaget DNA-strukturen (dobbelheliks)",
+        "Han skrev evolusjonsteorien alene"
       ],
       "answer": 2,
-      "explanation": "Påstanden er gal. Tre og tre nitrogenbaser (kalt et kodon) koder for en aminosyre under proteinsyntesen."
+      "explanation": "Gregor Mendel studerte erteplanter og oppdaget grunnleggende arvelover som dominans, segregering og uavhengig fordeling. Derfor regnes han som genetikkens far."
     },
     {
       "qnID": 35,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: vi har dobbelt opp av alle gener. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "35. Hvordan kan kjønnet formering gi genetisk variasjon?",
       "options": [
-        "Riktig",
-        "Gal"
+        "Fordi DNA aldri kopieres",
+        "Fordi meiose gir overkrysning og uavhengig fordeling, og befruktning kombinerer gener fra to foreldre",
+        "Fordi kjønnsceller alltid er genetisk identiske",
+        "Fordi bare mor bidrar med gener"
       ],
-      "answer": 1,
-      "explanation": "Påstanden er riktig. Vi har to sett med kromosomer, ett fra hver forelder, og dermed dobbelt opp av alle gener."
+      "answer": 2,
+      "explanation": "Kjønnet formering gir genetisk variasjon fordi meiosen gir overkrysning og uavhengig fordeling av kromosomer, og fordi tilfeldig befruktning kombinerer gener fra to foreldre på nye måter."
     },
     {
       "qnID": 36,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Det er mange gener i hvert kromosom. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "36. Riktig/galt: «Proteinsyntesen skjer kun i cellekjernen.»",
       "options": [
-        "Riktig",
-        "Gal"
+        "Riktig, alt skjer i kjernen",
+        "Galt, transkripsjon skjer i kjernen men translasjon skjer på ribosomer i cytoplasma/ru ER",
+        "Riktig, fordi ribosomer finnes bare i kjernen",
+        "Galt, fordi proteinsyntese skjer bare i mitokondrier"
       ],
-      "answer": 1,
-      "explanation": "Påstanden er riktig. Hvert kromosom inneholder mange gener som koder for ulike proteiner."
+      "answer": 2,
+      "explanation": "Påstanden er galt. Transkripsjon skjer i cellekjernen, men translasjon skjer på ribosomer i cytoplasma eller på ru ER."
     },
     {
       "qnID": 37,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Arvestoffet vårt oppbevares i ribosomene. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "37. Riktig/galt: «Alle mutasjoner fører til ulemper for individet.»",
       "options": [
-        "Riktig",
-        "Gal"
+        "Riktig, mutasjoner er alltid skadelige",
+        "Galt, mutasjoner kan være skadelige, nøytrale eller fordelaktige",
+        "Riktig, fordi mutasjoner alltid endrer protein",
+        "Galt, fordi mutasjoner aldri påvirker DNA"
       ],
       "answer": 2,
-      "explanation": "Påstanden er gal. Arvestoffet vårt (DNA) oppbevares i cellekjernen, ikke i ribosomene."
+      "explanation": "Påstanden er galt. Mutasjoner kan være skadelige, nøytrale eller fordelaktige. Mange mutasjoner påvirker ikke proteinet i det hele tatt, og noen kan være nyttige i bestemte miljøer."
     },
     {
       "qnID": 38,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Når to brunøyde foreldre får barn, kan de ikke få blåøyde barn. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "38. Riktig/galt: «Menn har kun ett X-kromosom og er derfor ofte mer utsatt for X-bundne recessive sykdommer.»",
       "options": [
-        "Riktig",
-        "Gal"
+        "Riktig, fordi menn (XY) mangler et ekstra X som kan «maskere» recessive alleler",
+        "Galt, fordi menn har to X-kromosomer",
+        "Galt, fordi X-bundne gener aldri gir sykdom",
+        "Riktig, fordi kvinner alltid er syke"
       ],
-      "answer": 2,
-      "explanation": "Påstanden er gal. To brunøyde foreldre kan bære recessive gener for blå øyne og dermed få blåøyde barn."
+      "answer": 1,
+      "explanation": "Påstanden er riktig. Menn har vanligvis bare ett X-kromosom, og ved X-bundne recessive sykdommer kan ett sykdomsallel være nok til å gi sykdom. Kvinner har to X-kromosomer og kan derfor ofte være bærere uten å være syke."
     },
     {
       "qnID": 39,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Når to blåøyde foreldre får barn, kan de ikke få brunøyde barn. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "39. Hvilket er et godt eksempel på samspill mellom arv og miljø?",
       "options": [
-        "Riktig",
-        "Gal"
+        "Blodtype påvirkes sterkt av kosthold",
+        "Høyde påvirkes av gener, men også av ernæring og helse",
+        "Antall kromosomer påvirkes av trening",
+        "DNA-basepar bestemmes av temperatur"
       ],
-      "answer": 1,
-      "explanation": "Påstanden er riktig. To blåøyde foreldre har kun recessive gener for blå øyne og kan derfor ikke få brunøyde barn."
+      "answer": 2,
+      "explanation": "Et godt eksempel på samspill mellom arv og miljø er høyde: Høyde påvirkes av gener, men også av ernæring og helse. Et annet eksempel er hudfarge, som påvirkes av arv, men også av soling."
     },
     {
       "qnID": 40,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: m-RNA-molekyler binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av t-RNA. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "40. Riktig/galt: «To brunøyde foreldre kan ikke få brunøyde barn.»",
       "options": [
-        "Riktig",
-        "Gal"
+        "Riktig, fordi brun er recessivt",
+        "Galt, de kan absolutt få brunøyde barn (BB eller Bb)",
+        "Riktig, fordi alle barn blir blåøyde først",
+        "Galt, fordi øyenfarge bestemmes bare av mor"
       ],
       "answer": 2,
-      "explanation": "Påstanden er gal. Det er t-RNA som binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av m-RNA."
+      "explanation": "Påstanden er galt. To brunøyde foreldre kan absolutt få brunøyde barn, for eksempel med genotype BB eller Bb."
     },
     {
       "qnID": 41,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: m-RNA-molekyler binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av t-RNA. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "41. Riktig/galt (enkel modell): «To blåøyde foreldre kan ikke få brunøyd barn.»",
       "options": [
-        "Riktig",
-        "Gal"
+        "Riktig, i enkel Mendelsk modell: bb × bb gir bare bb",
+        "Galt, fordi bb × bb gir alltid Bb",
+        "Riktig, fordi brun er recessivt",
+        "Galt, fordi øyenfarge alltid skyldes mutasjon"
       ],
-      "answer": 2,
-      "explanation": "Påstanden er gal. Det er t-RNA som binder seg til aminosyrer og bringer dem inn på riktig plass og i riktig rekkefølge bestemt av m-RNA."
+      "answer": 1,
+      "explanation": "I enkel Mendelsk modell er påstanden riktig: blå øyenfarge = bb, og bb × bb gir bare bb-barn. I virkeligheten kan øyenfarge være mer kompleks fordi flere gener kan være involvert."
     },
     {
       "qnID": 42,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: RNA inneholder ikke Adenin. Det inneholder Uracil i stedet. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "42. Hvordan kan forskjøvede årstider forstyrre arter som er avhengige av hverandre?",
       "options": [
-        "Riktig",
-        "Gal"
+        "De kan ikke påvirke samspill mellom arter",
+        "Timing kan komme i utakt, f.eks. blomstring før pollinatorer er aktive",
+        "Det skjer bare i havet og ikke på land",
+        "Det fører alltid til flere arter"
       ],
       "answer": 2,
-      "explanation": "Påstanden er gal. RNA inneholder både Adenin og Uracil. Uracil erstatter Tymin som finnes i DNA."
+      "explanation": "Forskyvning i årstidene kan gjøre at arter kommer i utakt. For eksempel kan planter blomstre før bier og humler er aktive, slik at pollineringen blir dårligere. Eller fugler kan komme til hekkeplassen etter at toppen i insektmengde er over, slik at ungene får mindre mat."
     },
     {
       "qnID": 43,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Proteinsyntesen skjer kun i cellekjernen. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "43. Hvem var Charles Darwin og Alfred Russel Wallace?",
       "options": [
-        "Riktig",
-        "Gal"
+        "De oppdaget insulin og antibiotika",
+        "De utviklet (uavhengig) teorien om evolusjon ved naturlig seleksjon",
+        "De fant DNA-strukturen sammen",
+        "De oppfant CRISPR"
       ],
       "answer": 2,
-      "explanation": "Påstanden er gal. Proteinsyntesen skjer i ribosomene som finnes i cytoplasmaet, ikke i cellekjernen."
+      "explanation": "Charles Darwin og Alfred Russel Wallace utviklet uavhengig av hverandre teorien om evolusjon ved naturlig seleksjon. Darwin publiserte «On the Origin of Species», og Wallace kom fram til samme hovedidé. Begge viste at ikke alle individer overlever og får levedyktig avkom."
     },
     {
       "qnID": 44,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Alle mutasjoner fører til dårligere DNA/ulemper for individet. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "44. Hvorfor er X-bundne recessive sykdommer vanligere hos menn?",
       "options": [
-        "Riktig",
-        "Gal"
+        "Menn har to X-kromosomer",
+        "Menn har bare ett X, så et recessivt sykdomsallel kan gi sykdom uten «backup»",
+        "Kvinner kan ikke få genetiske sykdommer",
+        "X-bundne gener finnes bare hos kvinner"
       ],
       "answer": 2,
-      "explanation": "Påstanden er gal. Ikke alle mutasjoner er skadelige; noen kan være nøytrale eller til og med fordelaktige."
+      "explanation": "X-bundne recessive sykdommer er vanligere hos menn fordi menn er XY og bare har ett X-kromosom. Hvis dette X-kromosomet har et recessivt sykdomsallel, finnes det ikke et ekstra X som kan «skjule» det. Kvinner må oftere ha to recessive alleler for å bli syke."
     },
     {
       "qnID": 45,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Er påstanden riktig eller gal: Menn har kun ett X-kromosom og er derfor mer utsatt for kjønnsbundne sykdommer. Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "45. Hvorfor kan ikke far gi en X-bundet egenskap direkte til sønn?",
       "options": [
-        "Riktig",
-        "Gal"
+        "Fordi sønner alltid arver X fra far",
+        "Fordi far gir Y til sønner og X til døtre",
+        "Fordi X-kromosomet ikke inneholder gener",
+        "Fordi sønner ikke arver kromosomer"
       ],
-      "answer": 1,
-      "explanation": "Påstanden er riktig. Menn har ett X- og ett Y-kromosom, og er derfor mer utsatt for kjønnsbundne sykdommer som er knyttet til X-kromosomet."
+      "answer": 2,
+      "explanation": "En far kan ikke gi en X-bundet egenskap direkte til en sønn fordi sønnen får Y-kromosomet fra far og X-kromosomet fra mor. Fars X går til døtrene, ikke til sønnene."
     },
     {
       "qnID": 46,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Fregner er en dominant egenskap. En mann og en kvinne som begge er heterozygote får barn sammen. Har de to foreldrene fregner eller ikke? Begrunn svaret ditt.",
+      "themeID": 1,
+      "qn": "46. To «friske» foreldre får en rødgrønn fargeblind sønn. Hvilke genotyper kan foreldrene ha? (X-bundet recessiv)",
       "options": [
-        "Ja, begge har fregner",
-        "Nei, ingen har fregner",
-        "Bare mannen har fregner",
-        "Bare kvinnen har fregner"
+        "Mor: X^N X^N, Far: X^N Y",
+        "Mor: X^N X^f, Far: X^N Y",
+        "Mor: X^f X^f, Far: X^N Y",
+        "Mor: X^N X^N, Far: X^f Y"
       ],
-      "answer": 1,
-      "explanation": "Begge foreldrene har fregner fordi de har minst ett dominant allel for fregner (Ff)."
+      "answer": 2,
+      "explanation": "Ved rød-grønn fargeblindhet (X-bundet recessiv) kan vi bruke: Xᴺ = normalt syn, Xᶠ = fargeblind. Hvis to «friske» foreldre får en fargeblind sønn, må sønnen være XᶠY. Far er frisk: XᴺY. Mor må være bærer: XᴺXᶠ."
     },
     {
       "qnID": 47,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Genet B er dominant for brune øyne, og genet b er recessivt for blå øyne. Far har genotypen BB og mor har genotypen Bb. Hvor stor sannsynlighet er det for at de får et barn med blå øyne? Sett gjerne opp et krysningsskjema.",
+      "themeID": 1,
+      "qn": "47. Et par får en rødgrønn fargeblind datter. Mulige genotyper hos foreldrene? (X-bundet recessiv)",
       "options": [
-        "0%",
-        "25%",
-        "50%",
-        "75%"
+        "Mor: X^N X^N, Far: X^N Y",
+        "Mor: X^N X^f eller X^f X^f, Far: X^f Y",
+        "Mor: X^N X^N, Far: X^f Y (alltid nok)",
+        "Mor: X^f X^f, Far: X^N Y"
       ],
-      "answer": 1,
-      "explanation": "Sannsynligheten er 0% fordi alle barna vil ha minst ett dominant B-allel og dermed brune øyne."
+      "answer": 2,
+      "explanation": "En rød-grønn fargeblind datter må ha genotype XᶠXᶠ. Da må far gi Xᶠ, altså må far være XᶠY. Mor må gi minst ett Xᶠ, så mor kan være XᴺXᶠ (bærer) eller XᶠXᶠ (fargeblind)."
     },
     {
       "qnID": 48,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Genet B er dominant for brune øyne, og genet b er recessivt for blå øyne. Far har genotypen BB og mor har genotypen Bb. Hvor stor sannsynlighet er det for at et av deres barn får brune øyne? Sett opp et krysningsskjema.",
+      "themeID": 1,
+      "qn": "48. Hvorfor er arv en forutsetning for evolusjon ved naturlig seleksjon?",
       "options": [
-        "0%",
-        "25%",
-        "50%",
-        "100%"
+        "Fordi seleksjon bare virker på ikke-arvelige egenskaper",
+        "Fordi fordelaktige egenskaper må kunne overføres til avkom for å bli vanligere",
+        "Fordi arv stopper endring over tid",
+        "Fordi miljø aldri påvirker overlevelse"
       ],
-      "answer": 4,
-      "explanation": "Sannsynligheten er 100% fordi alle barna vil ha minst ett dominant B-allel og dermed brune øyne."
+      "answer": 2,
+      "explanation": "Naturlig seleksjon virker på egenskaper som påvirker overlevelse og reproduksjon. For at slike egenskaper skal bli vanligere i en populasjon, må de være arvelige. Hvis de ikke kan overføres genetisk til avkom, forsvinner fordelen i neste generasjon."
     },
     {
       "qnID": 49,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvem har størst sjanse for å bli rødgrønn fargeblinde, menn eller kvinner?",
+      "themeID": 1,
+      "qn": "49. (KLIMA) Hva betyr «seleksjonspress», og hvordan kan klimaendringer endre det?",
       "options": [
-        "Menn",
-        "Kvinner",
-        "Begge har lik sjanse",
-        "Ingen av dem"
+        "Seleksjonspress er tilfeldige mutasjoner, og klimaendringer endrer DNA direkte",
+        "Seleksjonspress er miljøfaktorer som påvirker overlevelse/reproduksjon; klimaendringer kan endre hvilke egenskaper som er gunstige",
+        "Seleksjonspress betyr at alle overlever like godt",
+        "Seleksjonspress gjelder bare kunstig utvalg"
       ],
-      "answer": 1,
-      "explanation": "Menn har større sjanse for å bli rødgrønn fargeblinde fordi de har bare ett X-kromosom, og hvis det inneholder det recessive allelet for fargeblindhet, vil de uttrykke egenskapen."
+      "answer": 2,
+      "explanation": "Seleksjonspress er faktorer i miljøet som gjør at noen egenskaper gir større sjanse for å overleve og få avkom. Klimaendringer kan endre temperatur, nedbør, mattilgang, sykdommer og konkurranse, slik at nye egenskaper blir gunstige mens andre blir en ulempe. Eksempler kan være anoleøgler, mygg og andre arter som påvirkes av endret klima."
     },
     {
       "qnID": 50,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvem har størst sjanse for å bli rødgrønn fargeblinde, menn eller kvinner? Begrunn svaret.",
+      "themeID": 1,
+      "qn": "50. (KLIMA) Hva viste studier av anoleøgler etter kraftig ekstremvær (f.eks. orkan)?",
       "options": [
-        "Menn",
-        "Kvinner",
-        "Begge har lik sjanse",
-        "Ingen av dem"
+        "Overlevende øgler hadde ofte bedre grep-egenskaper (f.eks. større tåputer) som hjalp dem å holde seg fast",
+        "Overlevende øgler var alltid mindre og svakere",
+        "Ingen egenskaper påvirket overlevelse",
+        "Øglene sluttet å formere seg for alltid"
       ],
       "answer": 1,
-      "explanation": "Menn har større sjanse for å bli rødgrønn fargeblinde fordi de har bare ett X-kromosom. Hvis det inneholder det recessive allelet for fargeblindhet, vil de uttrykke egenskapen. Kvinner har to X-kromosomer, så de må ha to kopier av det recessive allelet for å være fargeblinde."
+      "explanation": "Etter orkanen Irma i 2017 undersøkte forskere anoleøgler på Turks- og Caicosøyene før og etter ekstremværet. De fant at øglene som overlevde i gjennomsnitt hadde større tåputer og lengre frambein, mens bakbeina ofte var kortere enn hos populasjonen før orkanen. Disse egenskapene gjør det lettere å holde seg fast i trær og busker i kraftig vind og unngå å bli blåst bort. Orkanen fungerte derfor som et seleksjonspress som ga en fordel til individer med bedre grep. Dette er et eksempel på naturlig seleksjon som kan endre en populasjon raskt etter en ekstremværhendelse."
     },
     {
       "qnID": 51,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "En mann kan ikke gi rødgrønn fargeblindhet til sine sønner. Hvorfor ikke?",
+      "themeID": 1,
+      "qn": "51. (KLIMA) Hva skjer ofte med isbjørnen i et varmere klima?",
       "options": [
-        "Fordi fargeblindhet er ikke arvelig",
-        "Fordi fargeblindhet er knyttet til Y-kromosomet",
-        "Fordi fargeblindhet er knyttet til X-kromosomet",
-        "Fordi menn ikke kan få sønner"
+        "Mer havis gir bedre jakt",
+        "Mindre havis gir vanskeligere seljakt, lavere energiinntak og kan gi bestandsnedgang",
+        "Isbjørnen blir automatisk brunbjørn i løpet av én generasjon",
+        "Ingen endring, fordi den lever på land"
       ],
-      "answer": 3,
-      "explanation": "En mann kan ikke gi rødgrønn fargeblindhet til sine sønner fordi fargeblindhet er knyttet til X-kromosomet, og sønner arver sitt X-kromosom fra moren."
+      "answer": 2,
+      "explanation": "I et varmere klima får isbjørnen mindre havis. Det gir dårligere jakt på sel, mindre tid på isen, lengre svømmeavstander, lavere energiinntak, lavere reproduksjon og økt dødelighet. Derfor kan bestandene gå ned."
     },
     {
       "qnID": 52,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvordan er kjønnskromosomene til en mann?",
+      "themeID": 1,
+      "qn": "52. (KLIMA) Hvordan og hvorfor flytter arter ofte utbredelsesområdet sitt når klimaet endrer seg?",
       "options": [
-        "XX",
-        "XY",
-        "YY",
-        "XZ"
+        "De flytter mot polene eller opp i høyden for å følge passende klima (temperatur/fuktighet)",
+        "De flytter alltid mot ekvator",
+        "De kan ikke flytte, fordi arter er fastlåst til fødested",
+        "De flytter bare hvis mennesker hjelper dem"
       ],
-      "answer": 2,
-      "explanation": "Kjønnskromosomene til en mann er XY."
+      "answer": 1,
+      "explanation": "Arter flytter ofte utbredelsesområdet sitt for å følge klimasonen de er tilpasset. De kan flytte mot polene eller oppover i høyden for å finne temperatur og fuktighet de tåler. Spredning kan skje via frø, vandring, larver, flyging eller havstrømmer. Et eksempel er rødrev som trekker høyere opp og inn i fjellrevens områder."
     },
     {
       "qnID": 53,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvordan er kjønnskromosomene til en kvinne?",
+      "themeID": 1,
+      "qn": "53. (KLIMA) Hvilke barrierer kan hindre arter i å flytte på seg, og hva kan bli konsekvensen?",
       "options": [
-        "XX",
-        "XY",
-        "YY",
-        "XZ"
+        "Bare elver kan hindre spredning, ingen konsekvenser",
+        "Byer/veier/jordbruk og fragmentert natur kan hindre spredning og føre til isolasjon og lokal utdøing",
+        "Barrierer finnes ikke i naturen",
+        "Høyere temperatur gjør alltid spredning lettere"
       ],
-      "answer": 1,
-      "explanation": "Kjønnskromosomene til en kvinne er XX."
+      "answer": 2,
+      "explanation": "Barrierer som kan hindre arter i å flytte på seg, er blant annet fjell, hav, byer, veier, jordbruk, fragmentert natur, manglende økologiske korridorer, konkurranse, rovdyr og liten spredningsevne. Konsekvensene kan bli isolasjon, bestandsnedgang, innavl og lokal utdøing."
     },
     {
       "qnID": 54,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvilket gen bestemmer kjønn?",
+      "themeID": 1,
+      "qn": "54. (KLIMA) Hva kan skje med fjellreven i et varmere klima?",
       "options": [
-        "SRY-genet",
-        "BRCA1-genet",
-        "HBB-genet",
-        "CFTR-genet"
+        "Mer levested i fjellet og mindre konkurranse",
+        "Mindre kaldt habitat og mer konkurranse fra rødrev kan presse fjellreven tilbake og redusere bestanden",
+        "Fjellreven blir automatisk større og sterkere",
+        "Ingen endring, fordi fjellrev lever i havet"
       ],
-      "answer": 1,
-      "explanation": "SRY-genet på Y-kromosomet bestemmer mannlig kjønn."
+      "answer": 2,
+      "explanation": "Fjellreven er tilpasset kaldt klima. I et varmere klima kan den få mindre levested i fjellet, endret tilgang på byttedyr og mer konkurranse fra rødrev som trekker oppover. Dermed kan fjellreven bli presset tilbake og gå ned i bestand."
     },
     {
       "qnID": 55,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Hvor mange gener har et Y-kromosom sammenlignet med X-kromosomet?",
+      "themeID": 1,
+      "qn": "55. (KLIMA) Hvorfor er små populasjoner ekstra sårbare under klimaendringer?",
       "options": [
-        "Flere",
-        "Færre",
-        "Like mange",
-        "Ingen"
+        "De har ofte lav genetisk variasjon og større risiko for innavl og tilfeldig utdøing",
+        "Fordi små populasjoner alltid har høy variasjon",
+        "Fordi små populasjoner ikke kan mutere",
+        "Fordi klima bare påvirker store populasjoner"
       ],
-      "answer": 2,
-      "explanation": "Y-kromosomet har færre gener sammenlignet med X-kromosomet."
+      "answer": 1,
+      "explanation": "Små populasjoner er ekstra sårbare fordi de ofte har lav genetisk variasjon, mer innavl, større risiko for tilfeldig utdøing og mindre buffer mot sykdom og ekstremvær. De har også mindre evolusjonært handlingsrom."
     },
     {
       "qnID": 56,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Nevn noen kjønnsbundne sykdommer.",
+      "themeID": 1,
+      "qn": "56. (KLIMA) Hva er en svartelistet art, og hvordan kan klimaendringer påvirke risikoen?",
       "options": [
-        "Hemofili, Duchenne muskeldystrofi",
-        "Diabetes, Alzheimers",
-        "Kreft, Hjerteinfarkt",
-        "Astma, Allergi"
+        "En utryddet art; klimaendringer gjør at den alltid kommer tilbake",
+        "En fremmed art med potensial til å bli invasiv; mildere klima kan gjøre nye områder egnet og øke spredning",
+        "En art uten DNA; klimaendringer har ingen effekt",
+        "En art som bare lever i polare strøk; klimaendringer gjør den mindre aggressiv"
       ],
-      "answer": 1,
-      "explanation": "Hemofili og Duchenne muskeldystrofi er eksempler på kjønnsbundne sykdommer."
+      "answer": 2,
+      "explanation": "Svartelistede arter er fremmede arter som kan bli invaderende og skade naturen. Eksempler er brunskogsnegl, stillehavsøsters og enkelte sykdomsspredende insekter. Klimaendringer kan gjøre nye områder mer passende for slike arter, for eksempel gjennom mildere vintre, slik at de lettere etablerer seg og sprer seg."
     },
     {
       "qnID": 57,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "To «friske» foreldre får en sønn som er fargeblind. Hva slags genotype har foreldrene?",
+      "themeID": 1,
+      "qn": "57. (KLIMA) Hvordan kan klimaendringer påvirke sykdommer og parasitter (f.eks. flått/mygg)?",
       "options": [
-        "Mor: X^NX^N, Far: X^NY",
-        "Mor: X^NX^n, Far: X^NY",
-        "Mor: X^nX^n, Far: X^NY",
-        "Mor: X^NX^N, Far: X^nY"
+        "Kaldere klima gir mer mygg og flått overalt",
+        "Mildere klima og lengre sesong kan øke overlevelse/spredning og flytte dem nordover/høyere opp",
+        "Sykdommer forsvinner alltid ved temperaturøkning",
+        "Parasitter påvirkes ikke av temperatur"
       ],
       "answer": 2,
-      "explanation": "Mor må være bærer (X^NX^n) og far må ha normalt syn (X^NY) for at de kan få en fargeblind sønn."
+      "explanation": "Mildere temperaturer og lengre sesong kan øke overlevelse og spredning av flått og mygg, og flytte dem nordover eller høyere opp i terrenget. Det kan øke risikoen for sykdommer som borrelia og TBE, og i andre deler av verden også malaria og denguefeber."
     },
     {
       "qnID": 58,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "Et par får en datter som er rødgrønn fargeblind. Hvilke genotyper kan foreldrene ha?",
+      "themeID": 1,
+      "qn": "58. (KLIMA) Hva er riktig om korallbleking og/eller havforsuring?",
       "options": [
-        "Mor: X^NX^N, Far: X^nY",
-        "Mor: X^NX^n, Far: X^nY",
-        "Mor: X^nX^n, Far: X^NY",
-        "Mor: X^nX^n, Far: X^nY"
+        "Korallbleking skjer når koraller får flere symbiosealger og blir sterkere",
+        "Korallbleking: varme stresser koraller → mister alger → kan dø. Havforsuring: mer CO2 → lavere pH → vanskeligere å bygge kalk",
+        "Havforsuring betyr at havet blir mer basisk (høyere pH)",
+        "Begge har ingen konsekvenser for økosystem"
       ],
-      "answer": 4,
-      "explanation": "Begge foreldrene må ha det recessive allelet for fargeblindhet. Mor må være X^nX^n og far må være X^nY."
+      "answer": 2,
+      "explanation": "Korallbleking skjer når varmere vann stresser koraller, slik at de mister de symbiotiske algene sine. Da blir korallene hvite og kan dø. Dette fører til tap av leveområder for mange arter. Havforsuring skjer når mer CO₂ løses i havet og senker pH-verdien. Det gjør det vanskeligere for kalkdannende organismer som koraller og skjell å bygge skall og skjelett. Det kan svekke næringsnett og hele økosystemer."
     },
     {
       "qnID": 59,
-      "themeID":  "arv_og_evolusjonv1",
-      "qn": "I en kvinne skjer det en mutasjon i et gen i en celle i leveren. Genet virker ikke lenger som det skal. Diskuter om denne genfeilen kan bli overført til neste generasjon.",
+      "themeID": 1,
+      "qn": "59. (KLIMA) Hva skjedde med bjørkelurvemåleren under den industrielle revolusjonen?",
       "options": [
-        "Ja, alltid",
-        "Nei, aldri",
-        "Bare hvis det skjer i kjønnscellene",
-        "Bare hvis det skjer i blodcellene"
+        "Lyse møll ble bedre kamuflert på sotete trær og økte",
+        "Mørke møll ble bedre kamuflert på sotete trær og økte (industriell melanisme), og senere fikk lyse fordel da lufta ble renere",
+        "Arten sluttet å ha genetisk variasjon",
+        "Ingen endring i frekvens av fargevarianter"
       ],
-      "answer": 3,
-      "explanation": "Genfeilen kan bare bli overført til neste generasjon hvis mutasjonen skjer i kjønnscellene (eggcellene). Mutasjoner i somatiske celler (som leverceller) overføres ikke til avkommet."
+      "answer": 2,
+      "explanation": "Under den industrielle revolusjonen ble bjørkestammer mørkere av sot. Da fikk mørke bjørkelurvemålere bedre kamuflasje og ble spist mindre av fugler. Derfor økte de i frekvens. Senere, da lufta ble renere, fikk de lyse variantene igjen en fordel. Dette kalles industriell melanisme."
+    },
+    {
+      "qnID": 60,
+      "themeID": 1,
+      "qn": "60. (KLIMA) Drøft: Hvordan påvirker klimaendringer evolusjon, utbredelse og biologisk mangfold – og hvilke tiltak kan redusere tap?",
+      "options": [
+        "Klimaendringer påvirker bare vær, ikke biologi",
+        "De kan endre seleksjonspress, flytte utbredelse, bryte samspill og øke utdøingsrisiko; tiltak inkluderer utslippskutt, vern, restaurering og økologiske korridorer",
+        "De øker alltid biologisk mangfold og gir bare positive effekter",
+        "Tiltak er unødvendige fordi naturen alltid tilpasser seg raskt nok"
+      ],
+      "answer": 2,
+      "explanation": "Klimaendringer påvirker evolusjon, utbredelse og biologisk mangfold på flere måter: Evolusjon: Nye seleksjonspress kan gi rask evolusjon i noen arter, særlig arter med kort generasjonstid, men mange arter rekker ikke å tilpasse seg raskt nok. Utbredelse: Arter flytter nordover eller oppover i høyden. Noen blir fanget av barrierer og kan dø ut lokalt. Biologisk mangfold: Risikoen for tap av arter og økosystemer øker. Samspill mellom arter, som pollinatorer og planter, kan brytes. Fremmede arter og sykdommer kan få bedre vilkår. Tiltak som kan redusere tap, er å kutte klimagassutslipp, verne og restaurere leveområder, lage økologiske korridorer, hindre spredning av fremmede arter, overvåke bestander og bruke aktiv forvaltning når det er nødvendig."
     }
   ]
 }
